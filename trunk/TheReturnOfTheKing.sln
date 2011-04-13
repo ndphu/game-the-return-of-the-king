@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheReturnOfTheKing", "TheReturnOfTheKing\TheReturnOfTheKing.csproj", "{8C6AE785-8A4C-4BCC-9686-2A43F6F397FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6AE785-8A4C-4BCC-9686-2A43F6F397FB}.Debug|x86.ActiveCfg = Debug|x86
+		{8C6AE785-8A4C-4BCC-9686-2A43F6F397FB}.Debug|x86.Build.0 = Debug|x86
+		{8C6AE785-8A4C-4BCC-9686-2A43F6F397FB}.Release|x86.ActiveCfg = Release|x86
+		{8C6AE785-8A4C-4BCC-9686-2A43F6F397FB}.Release|x86.Build.0 = Release|x86
+		{1C148E7F-47F7-463E-A6D1-C382E47C0DC0}.Debug|x86.ActiveCfg = Debug|x86
+		{1C148E7F-47F7-463E-A6D1-C382E47C0DC0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

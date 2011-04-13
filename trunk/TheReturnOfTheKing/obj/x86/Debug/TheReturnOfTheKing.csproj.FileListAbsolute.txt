@@ -1,0 +1,583 @@
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Data\XML\buttonmanager.xml
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Data\XML\gametitle.xml
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Data\XML\gametitleeffect.xml
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Data\XML\menubg.xml
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title14.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title15.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title16.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title17.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title18.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title19.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title20.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title21.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title22.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title23.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title24.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\misc\Cursor.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect14.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect15.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect16.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect17.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect18.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect19.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect20.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect21.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect22.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect23.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect24.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\normal.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\normal.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\normal.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\normal.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\normal.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\normal.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\TheReturnOfTheKing.exe
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\TheReturnOfTheKing.pdb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\obj\x86\Debug\TheReturnOfTheKing.exe
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\obj\x86\Debug\TheReturnOfTheKing.pdb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\background\menubg.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00001.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00000.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00002.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00003.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00004.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00005.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00006.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00007.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00008.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00009.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00010.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00011.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00012.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00013.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00014.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00015.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00016.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00017.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00018.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00019.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00020.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00021.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00022.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00023.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00024.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00025.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00026.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00027.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00028.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00029.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00030.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00031.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00032.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00033.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00034.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00035.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00036.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00037.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00038.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00039.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Data\XML\buttonmanager.xml
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Data\XML\gametitle.xml
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Data\XML\gametitleeffect.xml
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Data\XML\menubg.xml
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Data\XML\menumanager.xml
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title00.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title01.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title02.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title03.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title04.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title05.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title06.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title07.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title08.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title09.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title10.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title11.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title12.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title13.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title14.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title15.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title16.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title17.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title18.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title19.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title20.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title21.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title22.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title23.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title24.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\misc\Cursor.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect00.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect01.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect02.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect03.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect04.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect05.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect06.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect07.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect08.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect09.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect10.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect11.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect12.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect13.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect14.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect15.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect16.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect17.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect18.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect19.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect20.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect21.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect22.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect23.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect24.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate00.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate01.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate02.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate03.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate04.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate05.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate06.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate07.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate08.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate09.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate10.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate11.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate12.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate13.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\normal.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate00.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate01.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate02.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate03.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate04.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate05.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate06.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate07.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate08.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate09.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate10.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate11.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate12.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate13.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\normal.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate00.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate01.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate02.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate03.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate04.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate05.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate06.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate07.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate08.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate09.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate10.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate11.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate12.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate13.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\normal.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate00.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate01.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate02.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate03.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate04.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate05.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate06.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate07.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate08.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate09.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate10.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate11.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate12.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate13.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\normal.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate00.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate01.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate02.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate03.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate04.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate05.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate06.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate07.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate08.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate09.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate10.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate11.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate12.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate13.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\normal.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate00.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate01.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate02.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate03.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate04.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate05.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate06.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate07.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate08.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate09.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate10.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate11.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate12.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate13.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\normal.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\background\menubg.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00000.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00001.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00002.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00003.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00004.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00005.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00006.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00007.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00008.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00009.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00010.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00011.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00012.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00013.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00014.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00015.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00016.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00017.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00018.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00019.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00020.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00021.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00022.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00023.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00024.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00025.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00026.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00027.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00028.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00029.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00030.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00031.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00032.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00033.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00034.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00035.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00036.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00037.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00038.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00039.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\menu\menu01.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\menu\menu02.xnb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\TheReturnOfTheKing.exe
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\TheReturnOfTheKing.pdb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\obj\x86\Debug\TheReturnOfTheKing.exe
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\obj\x86\Debug\TheReturnOfTheKing.pdb
+E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\map\29-03-2011 10-01-21 CH-1.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Data\XML\buttonmanager.xml
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Data\XML\gametitle.xml
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Data\XML\gametitleeffect.xml
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Data\XML\menubg.xml
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Data\XML\menumanager.xml
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title14.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title15.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title16.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title17.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title18.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title19.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title20.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title21.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title22.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title23.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title24.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\misc\Cursor.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect14.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect15.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect16.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect17.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect18.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect19.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect20.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect21.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect22.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect23.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect24.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\normal.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\normal.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\normal.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\normal.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\normal.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate00.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate03.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate04.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate05.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate06.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate07.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate08.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate09.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate10.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate11.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate12.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate13.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\normal.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\background\menubg.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00000.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00001.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00002.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00003.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00004.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00005.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00006.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00007.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00008.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00009.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00010.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00011.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00012.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00013.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00014.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00015.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00016.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00017.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00018.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00019.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00020.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00021.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00022.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00023.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00024.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00025.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00026.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00027.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00028.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00029.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00030.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00031.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00032.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00033.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00034.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00035.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00036.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00037.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00038.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00039.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\menu\menu01.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\menu\menu02.xnb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\TheReturnOfTheKing.exe
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\TheReturnOfTheKing.pdb
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\obj\x86\Debug\TheReturnOfTheKing.exe
+D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\obj\x86\Debug\TheReturnOfTheKing.pdb

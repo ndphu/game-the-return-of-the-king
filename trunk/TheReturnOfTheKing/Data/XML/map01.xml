@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Map>
+  <ContentName>map_bg/res</ContentName>
+  <Width>2</Width>
+  <Height>2</Height>
+  <PieceWidth>1000</PieceWidth>
+  <PieceHeight>600</PieceHeight>
+</Map>
