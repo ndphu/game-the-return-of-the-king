@@ -1,0 +1,1701 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>img\title\title00.png</Source>
+      <Name>img\title\title00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title00.xnb</Output>
+      <Time>2011-03-15T02:20:35.854628+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title01.png</Source>
+      <Name>img\title\title01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title01.xnb</Output>
+      <Time>2011-03-15T01:40:51.5612542+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title02.png</Source>
+      <Name>img\title\title02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title02.xnb</Output>
+      <Time>2011-03-15T01:40:51.574255+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title03.png</Source>
+      <Name>img\title\title03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title03.xnb</Output>
+      <Time>2011-03-15T01:40:51.5892558+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title04.png</Source>
+      <Name>img\title\title04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title04.xnb</Output>
+      <Time>2011-03-15T01:40:51.6032566+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title05.png</Source>
+      <Name>img\title\title05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title05.xnb</Output>
+      <Time>2011-03-15T01:40:51.6182575+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title06.png</Source>
+      <Name>img\title\title06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title06.xnb</Output>
+      <Time>2011-03-15T01:40:51.6352584+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title07.png</Source>
+      <Name>img\title\title07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title07.xnb</Output>
+      <Time>2011-03-15T01:40:51.6502593+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title08.png</Source>
+      <Name>img\title\title08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title08.xnb</Output>
+      <Time>2011-03-15T01:40:51.6692604+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title09.png</Source>
+      <Name>img\title\title09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title09.xnb</Output>
+      <Time>2011-03-15T01:40:51.6862614+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title10.png</Source>
+      <Name>img\title\title10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title10.xnb</Output>
+      <Time>2011-03-15T01:40:51.7032623+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title11.png</Source>
+      <Name>img\title\title11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title11.xnb</Output>
+      <Time>2011-03-15T01:40:51.7242635+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title12.png</Source>
+      <Name>img\title\title12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title12.xnb</Output>
+      <Time>2011-03-15T01:40:51.7542653+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title13.png</Source>
+      <Name>img\title\title13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title13.xnb</Output>
+      <Time>2011-03-15T01:40:51.7832669+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title14.png</Source>
+      <Name>img\title\title14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title14.xnb</Output>
+      <Time>2011-03-15T01:40:51.8122686+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title15.png</Source>
+      <Name>img\title\title15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title15.xnb</Output>
+      <Time>2011-03-15T01:40:51.83727+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title16.png</Source>
+      <Name>img\title\title16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title16.xnb</Output>
+      <Time>2011-03-15T01:40:51.8612714+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title17.png</Source>
+      <Name>img\title\title17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title17.xnb</Output>
+      <Time>2011-03-15T01:40:51.8872729+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title18.png</Source>
+      <Name>img\title\title18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title18.xnb</Output>
+      <Time>2011-03-15T01:40:51.9142744+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title19.png</Source>
+      <Name>img\title\title19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title19.xnb</Output>
+      <Time>2011-03-15T01:40:51.9392758+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title20.png</Source>
+      <Name>img\title\title20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title20.xnb</Output>
+      <Time>2011-03-15T01:40:51.9662774+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title21.png</Source>
+      <Name>img\title\title21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title21.xnb</Output>
+      <Time>2011-03-15T01:40:51.9932789+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title22.png</Source>
+      <Name>img\title\title22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title22.xnb</Output>
+      <Time>2011-03-15T01:40:52.0202805+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title23.png</Source>
+      <Name>img\title\title23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title23.xnb</Output>
+      <Time>2011-03-15T01:40:52.0482821+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\title24.png</Source>
+      <Name>img\title\title24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\title24.xnb</Output>
+      <Time>2011-03-15T01:40:52.0792838+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\misc\Cursor.png</Source>
+      <Name>img\misc\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\misc\Cursor.xnb</Output>
+      <Time>2011-03-15T09:24:16.8223816+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect00.png</Source>
+      <Name>img\title\effect00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect00.xnb</Output>
+      <Time>2011-03-15T13:23:05.2819227+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect01.png</Source>
+      <Name>img\title\effect01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect01.xnb</Output>
+      <Time>2011-03-15T13:23:05.5099357+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect02.png</Source>
+      <Name>img\title\effect02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect02.xnb</Output>
+      <Time>2011-03-15T13:23:05.7189477+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect03.png</Source>
+      <Name>img\title\effect03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect03.xnb</Output>
+      <Time>2011-03-15T13:23:05.9269596+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect04.png</Source>
+      <Name>img\title\effect04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect04.xnb</Output>
+      <Time>2011-03-15T13:23:06.1559726+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect05.png</Source>
+      <Name>img\title\effect05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect05.xnb</Output>
+      <Time>2011-03-15T13:23:06.3689848+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect06.png</Source>
+      <Name>img\title\effect06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect06.xnb</Output>
+      <Time>2011-03-15T13:23:06.5969979+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect07.png</Source>
+      <Name>img\title\effect07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect07.xnb</Output>
+      <Time>2011-03-15T13:23:06.8130102+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect08.png</Source>
+      <Name>img\title\effect08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect08.xnb</Output>
+      <Time>2011-03-15T13:23:07.0310227+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect09.png</Source>
+      <Name>img\title\effect09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect09.xnb</Output>
+      <Time>2011-03-15T13:23:07.2470351+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect10.png</Source>
+      <Name>img\title\effect10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect10.xnb</Output>
+      <Time>2011-03-15T13:23:07.4660476+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect11.png</Source>
+      <Name>img\title\effect11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect11.xnb</Output>
+      <Time>2011-03-15T13:23:07.6920605+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect12.png</Source>
+      <Name>img\title\effect12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect12.xnb</Output>
+      <Time>2011-03-15T13:23:07.9120731+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect13.png</Source>
+      <Name>img\title\effect13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect13.xnb</Output>
+      <Time>2011-03-15T13:23:08.1290855+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect14.png</Source>
+      <Name>img\title\effect14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect14.xnb</Output>
+      <Time>2011-03-15T13:23:08.3570985+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect15.png</Source>
+      <Name>img\title\effect15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect15.xnb</Output>
+      <Time>2011-03-15T13:23:08.5761111+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect16.png</Source>
+      <Name>img\title\effect16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect16.xnb</Output>
+      <Time>2011-03-15T13:23:08.8141247+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect17.png</Source>
+      <Name>img\title\effect17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect17.xnb</Output>
+      <Time>2011-03-15T13:23:09.0341373+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect18.png</Source>
+      <Name>img\title\effect18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect18.xnb</Output>
+      <Time>2011-03-15T13:23:09.2531498+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect19.png</Source>
+      <Name>img\title\effect19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect19.xnb</Output>
+      <Time>2011-03-15T13:23:09.4701622+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect20.png</Source>
+      <Name>img\title\effect20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect20.xnb</Output>
+      <Time>2011-03-15T13:23:09.6811743+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect21.png</Source>
+      <Name>img\title\effect21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect21.xnb</Output>
+      <Time>2011-03-15T13:23:09.8881861+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect22.png</Source>
+      <Name>img\title\effect22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect22.xnb</Output>
+      <Time>2011-03-15T13:23:10.0981981+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect23.png</Source>
+      <Name>img\title\effect23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect23.xnb</Output>
+      <Time>2011-03-15T13:23:10.3132104+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\title\effect24.png</Source>
+      <Name>img\title\effect24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\title\effect24.xnb</Output>
+      <Time>2011-03-15T13:23:10.5342231+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\about\animate00.png</Source>
+      <Name>img\dialog\control\button\about\animate00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate00.xnb</Output>
+      <Time>2011-03-15T14:30:36.5916443+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\about\animate01.png</Source>
+      <Name>img\dialog\control\button\about\animate01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate01.xnb</Output>
+      <Time>2011-03-15T14:30:36.5966446+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\about\animate02.png</Source>
+      <Name>img\dialog\control\button\about\animate02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate02.xnb</Output>
+      <Time>2011-03-15T14:30:36.6016449+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\about\animate03.png</Source>
+      <Name>img\dialog\control\button\about\animate03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate03.xnb</Output>
+      <Time>2011-03-15T14:30:36.6056451+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\about\animate04.png</Source>
+      <Name>img\dialog\control\button\about\animate04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate04.xnb</Output>
+      <Time>2011-03-15T14:30:36.6086453+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\about\animate05.png</Source>
+      <Name>img\dialog\control\button\about\animate05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate05.xnb</Output>
+      <Time>2011-03-15T14:30:36.6136456+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\about\animate06.png</Source>
+      <Name>img\dialog\control\button\about\animate06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate06.xnb</Output>
+      <Time>2011-03-15T14:30:36.620646+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\about\animate07.png</Source>
+      <Name>img\dialog\control\button\about\animate07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate07.xnb</Output>
+      <Time>2011-03-15T14:30:36.6236461+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\about\animate08.png</Source>
+      <Name>img\dialog\control\button\about\animate08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate08.xnb</Output>
+      <Time>2011-03-15T14:30:36.6296465+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\about\animate09.png</Source>
+      <Name>img\dialog\control\button\about\animate09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate09.xnb</Output>
+      <Time>2011-03-15T14:30:36.6336467+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\about\animate10.png</Source>
+      <Name>img\dialog\control\button\about\animate10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate10.xnb</Output>
+      <Time>2011-03-15T14:30:36.638647+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\about\animate11.png</Source>
+      <Name>img\dialog\control\button\about\animate11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate11.xnb</Output>
+      <Time>2011-03-15T14:30:36.6416472+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\about\animate12.png</Source>
+      <Name>img\dialog\control\button\about\animate12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate12.xnb</Output>
+      <Time>2011-03-15T14:30:36.6466475+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\about\animate13.png</Source>
+      <Name>img\dialog\control\button\about\animate13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\animate13.xnb</Output>
+      <Time>2011-03-15T14:30:36.6506477+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\about\normal.png</Source>
+      <Name>img\dialog\control\button\about\normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\about\normal.xnb</Output>
+      <Time>2011-03-15T14:30:36.6546479+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\help\animate00.png</Source>
+      <Name>img\dialog\control\button\help\animate00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate00.xnb</Output>
+      <Time>2011-03-15T14:30:46.0981881+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\help\animate01.png</Source>
+      <Name>img\dialog\control\button\help\animate01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate01.xnb</Output>
+      <Time>2011-03-15T14:30:46.1021883+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\help\animate02.png</Source>
+      <Name>img\dialog\control\button\help\animate02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate02.xnb</Output>
+      <Time>2011-03-15T14:30:46.1051885+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\help\animate03.png</Source>
+      <Name>img\dialog\control\button\help\animate03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate03.xnb</Output>
+      <Time>2011-03-15T14:30:46.1091887+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\help\animate04.png</Source>
+      <Name>img\dialog\control\button\help\animate04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate04.xnb</Output>
+      <Time>2011-03-15T14:30:46.114189+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\help\animate05.png</Source>
+      <Name>img\dialog\control\button\help\animate05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate05.xnb</Output>
+      <Time>2011-03-15T14:30:46.1181892+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\help\animate06.png</Source>
+      <Name>img\dialog\control\button\help\animate06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate06.xnb</Output>
+      <Time>2011-03-15T14:30:46.1211894+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\help\animate07.png</Source>
+      <Name>img\dialog\control\button\help\animate07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate07.xnb</Output>
+      <Time>2011-03-15T14:30:46.1261897+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\help\animate08.png</Source>
+      <Name>img\dialog\control\button\help\animate08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate08.xnb</Output>
+      <Time>2011-03-15T14:30:46.1291898+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\help\animate09.png</Source>
+      <Name>img\dialog\control\button\help\animate09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate09.xnb</Output>
+      <Time>2011-03-15T14:30:46.1341901+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\help\animate10.png</Source>
+      <Name>img\dialog\control\button\help\animate10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate10.xnb</Output>
+      <Time>2011-03-15T14:30:46.1371903+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\help\animate11.png</Source>
+      <Name>img\dialog\control\button\help\animate11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate11.xnb</Output>
+      <Time>2011-03-15T14:30:46.1401905+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\help\animate12.png</Source>
+      <Name>img\dialog\control\button\help\animate12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate12.xnb</Output>
+      <Time>2011-03-15T14:30:46.1451907+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\help\animate13.png</Source>
+      <Name>img\dialog\control\button\help\animate13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\animate13.xnb</Output>
+      <Time>2011-03-15T14:30:46.149191+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\help\normal.png</Source>
+      <Name>img\dialog\control\button\help\normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\help\normal.xnb</Output>
+      <Time>2011-03-15T14:30:46.1531912+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\load\animate00.png</Source>
+      <Name>img\dialog\control\button\load\animate00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate00.xnb</Output>
+      <Time>2011-03-15T14:30:54.0366421+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\load\animate01.png</Source>
+      <Name>img\dialog\control\button\load\animate01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate01.xnb</Output>
+      <Time>2011-03-15T14:30:54.0416424+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\load\animate02.png</Source>
+      <Name>img\dialog\control\button\load\animate02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate02.xnb</Output>
+      <Time>2011-03-15T14:30:54.0456426+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\load\animate03.png</Source>
+      <Name>img\dialog\control\button\load\animate03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate03.xnb</Output>
+      <Time>2011-03-15T14:30:54.0496429+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\load\animate04.png</Source>
+      <Name>img\dialog\control\button\load\animate04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate04.xnb</Output>
+      <Time>2011-03-15T14:30:54.0586434+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\load\animate05.png</Source>
+      <Name>img\dialog\control\button\load\animate05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate05.xnb</Output>
+      <Time>2011-03-15T14:30:54.0666438+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\load\animate06.png</Source>
+      <Name>img\dialog\control\button\load\animate06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate06.xnb</Output>
+      <Time>2011-03-15T14:30:54.0736442+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\load\animate07.png</Source>
+      <Name>img\dialog\control\button\load\animate07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate07.xnb</Output>
+      <Time>2011-03-15T14:30:54.0776445+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\load\animate08.png</Source>
+      <Name>img\dialog\control\button\load\animate08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate08.xnb</Output>
+      <Time>2011-03-15T14:30:54.0836448+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\load\animate09.png</Source>
+      <Name>img\dialog\control\button\load\animate09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate09.xnb</Output>
+      <Time>2011-03-15T14:30:54.087645+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\load\animate10.png</Source>
+      <Name>img\dialog\control\button\load\animate10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate10.xnb</Output>
+      <Time>2011-03-15T14:30:54.0916453+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\load\animate11.png</Source>
+      <Name>img\dialog\control\button\load\animate11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate11.xnb</Output>
+      <Time>2011-03-15T14:30:54.0956455+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\load\animate12.png</Source>
+      <Name>img\dialog\control\button\load\animate12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate12.xnb</Output>
+      <Time>2011-03-15T14:30:54.1016458+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\load\animate13.png</Source>
+      <Name>img\dialog\control\button\load\animate13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\animate13.xnb</Output>
+      <Time>2011-03-15T14:30:54.104646+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\load\normal.png</Source>
+      <Name>img\dialog\control\button\load\normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\load\normal.xnb</Output>
+      <Time>2011-03-15T14:30:54.1136465+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\newgame\animate00.png</Source>
+      <Name>img\dialog\control\button\newgame\animate00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate00.xnb</Output>
+      <Time>2011-03-15T14:31:03.2591696+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\newgame\animate01.png</Source>
+      <Name>img\dialog\control\button\newgame\animate01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate01.xnb</Output>
+      <Time>2011-03-15T14:31:03.2631698+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\newgame\animate02.png</Source>
+      <Name>img\dialog\control\button\newgame\animate02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate02.xnb</Output>
+      <Time>2011-03-15T14:31:03.2671701+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\newgame\animate03.png</Source>
+      <Name>img\dialog\control\button\newgame\animate03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate03.xnb</Output>
+      <Time>2011-03-15T14:31:03.2711703+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\newgame\animate04.png</Source>
+      <Name>img\dialog\control\button\newgame\animate04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate04.xnb</Output>
+      <Time>2011-03-15T14:31:03.2751705+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\newgame\animate05.png</Source>
+      <Name>img\dialog\control\button\newgame\animate05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate05.xnb</Output>
+      <Time>2011-03-15T14:31:03.2791708+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\newgame\animate06.png</Source>
+      <Name>img\dialog\control\button\newgame\animate06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate06.xnb</Output>
+      <Time>2011-03-15T14:31:03.283171+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\newgame\animate07.png</Source>
+      <Name>img\dialog\control\button\newgame\animate07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate07.xnb</Output>
+      <Time>2011-03-15T14:31:03.2871712+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\newgame\animate08.png</Source>
+      <Name>img\dialog\control\button\newgame\animate08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate08.xnb</Output>
+      <Time>2011-03-15T14:31:03.2921715+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\newgame\animate09.png</Source>
+      <Name>img\dialog\control\button\newgame\animate09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate09.xnb</Output>
+      <Time>2011-03-15T14:31:03.2961717+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\newgame\animate10.png</Source>
+      <Name>img\dialog\control\button\newgame\animate10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate10.xnb</Output>
+      <Time>2011-03-15T14:31:03.300172+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\newgame\animate11.png</Source>
+      <Name>img\dialog\control\button\newgame\animate11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate11.xnb</Output>
+      <Time>2011-03-15T14:31:03.3051722+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\newgame\animate12.png</Source>
+      <Name>img\dialog\control\button\newgame\animate12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate12.xnb</Output>
+      <Time>2011-03-15T14:31:03.3091725+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\newgame\animate13.png</Source>
+      <Name>img\dialog\control\button\newgame\animate13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\animate13.xnb</Output>
+      <Time>2011-03-15T14:31:03.3131727+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\newgame\normal.png</Source>
+      <Name>img\dialog\control\button\newgame\normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\newgame\normal.xnb</Output>
+      <Time>2011-03-15T14:31:03.3161729+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\option\animate00.png</Source>
+      <Name>img\dialog\control\button\option\animate00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate00.xnb</Output>
+      <Time>2011-03-15T14:31:11.2326257+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\option\animate01.png</Source>
+      <Name>img\dialog\control\button\option\animate01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate01.xnb</Output>
+      <Time>2011-03-15T14:31:11.2366259+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\option\animate02.png</Source>
+      <Name>img\dialog\control\button\option\animate02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate02.xnb</Output>
+      <Time>2011-03-15T14:31:11.2406261+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\option\animate03.png</Source>
+      <Name>img\dialog\control\button\option\animate03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate03.xnb</Output>
+      <Time>2011-03-15T14:31:11.2446264+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\option\animate04.png</Source>
+      <Name>img\dialog\control\button\option\animate04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate04.xnb</Output>
+      <Time>2011-03-15T14:31:11.2486266+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\option\animate05.png</Source>
+      <Name>img\dialog\control\button\option\animate05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate05.xnb</Output>
+      <Time>2011-03-15T14:31:11.2526268+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\option\animate06.png</Source>
+      <Name>img\dialog\control\button\option\animate06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate06.xnb</Output>
+      <Time>2011-03-15T14:31:11.256627+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\option\animate07.png</Source>
+      <Name>img\dialog\control\button\option\animate07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate07.xnb</Output>
+      <Time>2011-03-15T14:31:11.2606273+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\option\animate08.png</Source>
+      <Name>img\dialog\control\button\option\animate08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate08.xnb</Output>
+      <Time>2011-03-15T14:31:11.2646275+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\option\animate09.png</Source>
+      <Name>img\dialog\control\button\option\animate09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate09.xnb</Output>
+      <Time>2011-03-15T14:31:11.2676277+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\option\animate10.png</Source>
+      <Name>img\dialog\control\button\option\animate10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate10.xnb</Output>
+      <Time>2011-03-15T14:31:11.272628+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\option\animate11.png</Source>
+      <Name>img\dialog\control\button\option\animate11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate11.xnb</Output>
+      <Time>2011-03-15T14:31:11.2756281+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\option\animate12.png</Source>
+      <Name>img\dialog\control\button\option\animate12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate12.xnb</Output>
+      <Time>2011-03-15T14:31:11.2786283+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\option\animate13.png</Source>
+      <Name>img\dialog\control\button\option\animate13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\animate13.xnb</Output>
+      <Time>2011-03-15T14:31:11.2836286+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\option\normal.png</Source>
+      <Name>img\dialog\control\button\option\normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\option\normal.xnb</Output>
+      <Time>2011-03-15T14:31:11.2876288+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\quit\animate00.png</Source>
+      <Name>img\dialog\control\button\quit\animate00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate00.xnb</Output>
+      <Time>2011-03-15T14:31:22.3072591+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\quit\animate01.png</Source>
+      <Name>img\dialog\control\button\quit\animate01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate01.xnb</Output>
+      <Time>2011-03-15T14:31:22.3112593+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\quit\animate02.png</Source>
+      <Name>img\dialog\control\button\quit\animate02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate02.xnb</Output>
+      <Time>2011-03-15T14:31:22.3152596+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\quit\animate03.png</Source>
+      <Name>img\dialog\control\button\quit\animate03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate03.xnb</Output>
+      <Time>2011-03-15T14:31:22.3192598+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\quit\animate04.png</Source>
+      <Name>img\dialog\control\button\quit\animate04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate04.xnb</Output>
+      <Time>2011-03-15T14:31:22.3242601+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\quit\animate05.png</Source>
+      <Name>img\dialog\control\button\quit\animate05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate05.xnb</Output>
+      <Time>2011-03-15T14:31:22.3272602+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\quit\animate06.png</Source>
+      <Name>img\dialog\control\button\quit\animate06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate06.xnb</Output>
+      <Time>2011-03-15T14:31:22.3302604+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\quit\animate07.png</Source>
+      <Name>img\dialog\control\button\quit\animate07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate07.xnb</Output>
+      <Time>2011-03-15T14:31:22.3352607+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\quit\animate08.png</Source>
+      <Name>img\dialog\control\button\quit\animate08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate08.xnb</Output>
+      <Time>2011-03-15T14:31:22.3392609+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\quit\animate09.png</Source>
+      <Name>img\dialog\control\button\quit\animate09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate09.xnb</Output>
+      <Time>2011-03-15T14:31:22.3432612+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\quit\animate10.png</Source>
+      <Name>img\dialog\control\button\quit\animate10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate10.xnb</Output>
+      <Time>2011-03-15T14:31:22.3462613+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\quit\animate11.png</Source>
+      <Name>img\dialog\control\button\quit\animate11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate11.xnb</Output>
+      <Time>2011-03-15T14:31:22.3502616+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\quit\animate12.png</Source>
+      <Name>img\dialog\control\button\quit\animate12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate12.xnb</Output>
+      <Time>2011-03-15T14:31:22.3552618+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\quit\animate13.png</Source>
+      <Name>img\dialog\control\button\quit\animate13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\animate13.xnb</Output>
+      <Time>2011-03-15T14:31:22.3602621+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\control\button\quit\normal.png</Source>
+      <Name>img\dialog\control\button\quit\normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\control\button\quit\normal.xnb</Output>
+      <Time>2011-03-15T14:31:22.3632623+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\background\menubg.png</Source>
+      <Name>img\background\menubg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\background\menubg.xnb</Output>
+      <Time>2011-03-15T14:35:41.6830946+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00000.png</Source>
+      <Name>img\fire01\fire00000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00000.xnb</Output>
+      <Time>2011-03-15T20:45:42.9453822+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00001.png</Source>
+      <Name>img\fire01\fire00001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00001.xnb</Output>
+      <Time>2011-03-15T20:45:42.9793842+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00002.png</Source>
+      <Name>img\fire01\fire00002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00002.xnb</Output>
+      <Time>2011-03-15T20:45:43.0163863+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00003.png</Source>
+      <Name>img\fire01\fire00003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00003.xnb</Output>
+      <Time>2011-03-15T20:45:43.0543885+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00004.png</Source>
+      <Name>img\fire01\fire00004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00004.xnb</Output>
+      <Time>2011-03-15T20:45:43.0973909+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00005.png</Source>
+      <Name>img\fire01\fire00005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00005.xnb</Output>
+      <Time>2011-03-15T20:45:43.1403934+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00006.png</Source>
+      <Name>img\fire01\fire00006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00006.xnb</Output>
+      <Time>2011-03-15T20:45:43.1793956+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00007.png</Source>
+      <Name>img\fire01\fire00007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00007.xnb</Output>
+      <Time>2011-03-15T20:45:43.2253982+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00008.png</Source>
+      <Name>img\fire01\fire00008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00008.xnb</Output>
+      <Time>2011-03-15T20:45:43.2654005+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00009.png</Source>
+      <Name>img\fire01\fire00009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00009.xnb</Output>
+      <Time>2011-03-15T20:45:43.3134033+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00010.png</Source>
+      <Name>img\fire01\fire00010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00010.xnb</Output>
+      <Time>2011-03-15T20:45:43.3544056+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00011.png</Source>
+      <Name>img\fire01\fire00011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00011.xnb</Output>
+      <Time>2011-03-15T20:45:43.3944079+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00012.png</Source>
+      <Name>img\fire01\fire00012</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00012.xnb</Output>
+      <Time>2011-03-15T20:45:43.4384104+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00013.png</Source>
+      <Name>img\fire01\fire00013</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00013.xnb</Output>
+      <Time>2011-03-15T20:45:43.4784127+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00014.png</Source>
+      <Name>img\fire01\fire00014</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00014.xnb</Output>
+      <Time>2011-03-15T20:45:43.5144148+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00015.png</Source>
+      <Name>img\fire01\fire00015</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00015.xnb</Output>
+      <Time>2011-03-15T20:45:43.5524169+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00016.png</Source>
+      <Name>img\fire01\fire00016</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00016.xnb</Output>
+      <Time>2011-03-15T20:45:43.5894191+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00017.png</Source>
+      <Name>img\fire01\fire00017</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00017.xnb</Output>
+      <Time>2011-03-15T20:45:43.6274212+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00018.png</Source>
+      <Name>img\fire01\fire00018</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00018.xnb</Output>
+      <Time>2011-03-15T20:45:43.6634233+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00019.png</Source>
+      <Name>img\fire01\fire00019</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00019.xnb</Output>
+      <Time>2011-03-15T20:45:43.6994253+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00020.png</Source>
+      <Name>img\fire01\fire00020</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00020.xnb</Output>
+      <Time>2011-03-15T20:45:43.746428+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00021.png</Source>
+      <Name>img\fire01\fire00021</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00021.xnb</Output>
+      <Time>2011-03-15T20:45:43.7834302+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00022.png</Source>
+      <Name>img\fire01\fire00022</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00022.xnb</Output>
+      <Time>2011-03-15T20:45:43.8204323+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00023.png</Source>
+      <Name>img\fire01\fire00023</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00023.xnb</Output>
+      <Time>2011-03-15T20:45:43.8544342+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00024.png</Source>
+      <Name>img\fire01\fire00024</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00024.xnb</Output>
+      <Time>2011-03-15T20:45:43.9044371+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00025.png</Source>
+      <Name>img\fire01\fire00025</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00025.xnb</Output>
+      <Time>2011-03-15T20:45:43.9444394+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00026.png</Source>
+      <Name>img\fire01\fire00026</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00026.xnb</Output>
+      <Time>2011-03-15T20:45:43.9774412+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00027.png</Source>
+      <Name>img\fire01\fire00027</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00027.xnb</Output>
+      <Time>2011-03-15T20:45:44.0104431+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00028.png</Source>
+      <Name>img\fire01\fire00028</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00028.xnb</Output>
+      <Time>2011-03-15T20:45:44.043445+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00029.png</Source>
+      <Name>img\fire01\fire00029</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00029.xnb</Output>
+      <Time>2011-03-15T20:45:44.0764469+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00030.png</Source>
+      <Name>img\fire01\fire00030</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00030.xnb</Output>
+      <Time>2011-03-15T20:45:44.1094488+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00031.png</Source>
+      <Name>img\fire01\fire00031</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00031.xnb</Output>
+      <Time>2011-03-15T20:45:44.1454509+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00032.png</Source>
+      <Name>img\fire01\fire00032</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00032.xnb</Output>
+      <Time>2011-03-15T20:45:44.1774527+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00033.png</Source>
+      <Name>img\fire01\fire00033</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00033.xnb</Output>
+      <Time>2011-03-15T20:45:44.2094545+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00034.png</Source>
+      <Name>img\fire01\fire00034</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00034.xnb</Output>
+      <Time>2011-03-15T20:45:44.2404563+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00035.png</Source>
+      <Name>img\fire01\fire00035</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00035.xnb</Output>
+      <Time>2011-03-15T20:45:44.2744582+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00036.png</Source>
+      <Name>img\fire01\fire00036</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00036.xnb</Output>
+      <Time>2011-03-15T20:45:44.3104603+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00037.png</Source>
+      <Name>img\fire01\fire00037</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00037.xnb</Output>
+      <Time>2011-03-15T20:45:44.3444622+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00038.png</Source>
+      <Name>img\fire01\fire00038</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00038.xnb</Output>
+      <Time>2011-03-15T20:45:44.3904649+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\fire01\fire00039.png</Source>
+      <Name>img\fire01\fire00039</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\fire01\fire00039.xnb</Output>
+      <Time>2011-03-15T20:45:44.4204666+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\menu\menu01.png</Source>
+      <Name>img\dialog\menu\menu01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\menu\menu01.xnb</Output>
+      <Time>2011-03-26T01:16:05.6858352+07:00</Time>
+    </Item>
+    <Item>
+      <Source>img\dialog\menu\menu02.png</Source>
+      <Name>img\dialog\menu\menu02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\img\dialog\menu\menu02.xnb</Output>
+      <Time>2011-03-26T01:16:05.6888353+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-03-03T21:32:29.2688065+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
