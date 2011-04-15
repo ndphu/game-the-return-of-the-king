@@ -972,7 +972,977 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="img\map\" />
+    <Compile Include="img\map\map01\res00000000.jpg">
+      <Name>res00000000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000001.jpg">
+      <Name>res00000001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000002.jpg">
+      <Name>res00000002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000003.jpg">
+      <Name>res00000003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000004.jpg">
+      <Name>res00000004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000005.jpg">
+      <Name>res00000005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000006.jpg">
+      <Name>res00000006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000007.jpg">
+      <Name>res00000007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000008.jpg">
+      <Name>res00000008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000009.jpg">
+      <Name>res00000009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000010.jpg">
+      <Name>res00000010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000011.jpg">
+      <Name>res00000011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000012.jpg">
+      <Name>res00000012</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000013.jpg">
+      <Name>res00000013</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000014.jpg">
+      <Name>res00000014</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000015.jpg">
+      <Name>res00000015</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000016.jpg">
+      <Name>res00000016</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000017.jpg">
+      <Name>res00000017</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000018.jpg">
+      <Name>res00000018</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000019.jpg">
+      <Name>res00000019</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000020.jpg">
+      <Name>res00000020</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000021.jpg">
+      <Name>res00000021</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000022.jpg">
+      <Name>res00000022</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000023.jpg">
+      <Name>res00000023</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000024.jpg">
+      <Name>res00000024</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000025.jpg">
+      <Name>res00000025</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000026.jpg">
+      <Name>res00000026</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000027.jpg">
+      <Name>res00000027</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000028.jpg">
+      <Name>res00000028</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000029.jpg">
+      <Name>res00000029</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000030.jpg">
+      <Name>res00000030</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000031.jpg">
+      <Name>res00000031</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000032.jpg">
+      <Name>res00000032</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000033.jpg">
+      <Name>res00000033</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000034.jpg">
+      <Name>res00000034</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000035.jpg">
+      <Name>res00000035</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000036.jpg">
+      <Name>res00000036</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000037.jpg">
+      <Name>res00000037</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000038.jpg">
+      <Name>res00000038</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000039.jpg">
+      <Name>res00000039</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000040.jpg">
+      <Name>res00000040</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000041.jpg">
+      <Name>res00000041</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000042.jpg">
+      <Name>res00000042</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000043.jpg">
+      <Name>res00000043</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000044.jpg">
+      <Name>res00000044</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000045.jpg">
+      <Name>res00000045</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000046.jpg">
+      <Name>res00000046</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000047.jpg">
+      <Name>res00000047</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000048.jpg">
+      <Name>res00000048</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000049.jpg">
+      <Name>res00000049</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000050.jpg">
+      <Name>res00000050</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000051.jpg">
+      <Name>res00000051</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000052.jpg">
+      <Name>res00000052</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000053.jpg">
+      <Name>res00000053</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000054.jpg">
+      <Name>res00000054</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000055.jpg">
+      <Name>res00000055</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000056.jpg">
+      <Name>res00000056</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000057.jpg">
+      <Name>res00000057</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000058.jpg">
+      <Name>res00000058</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000059.jpg">
+      <Name>res00000059</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000060.jpg">
+      <Name>res00000060</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000061.jpg">
+      <Name>res00000061</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000062.jpg">
+      <Name>res00000062</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000063.jpg">
+      <Name>res00000063</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="img\character\move\D00-%2804%29-F000.png">
+      <Name>D00-%2804%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D00-%2804%29-F001.png">
+      <Name>D00-%2804%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D00-%2804%29-F002.png">
+      <Name>D00-%2804%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D00-%2804%29-F003.png">
+      <Name>D00-%2804%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D00-%2804%29-F004.png">
+      <Name>D00-%2804%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D00-%2804%29-F005.png">
+      <Name>D00-%2804%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D00-%2804%29-F006.png">
+      <Name>D00-%2804%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D00-%2804%29-F007.png">
+      <Name>D00-%2804%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D01-%2800%29-F000.png">
+      <Name>D01-%2800%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D01-%2800%29-F001.png">
+      <Name>D01-%2800%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D01-%2800%29-F002.png">
+      <Name>D01-%2800%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D01-%2800%29-F003.png">
+      <Name>D01-%2800%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D01-%2800%29-F004.png">
+      <Name>D01-%2800%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D01-%2800%29-F005.png">
+      <Name>D01-%2800%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D01-%2800%29-F006.png">
+      <Name>D01-%2800%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D01-%2800%29-F007.png">
+      <Name>D01-%2800%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D02-%2805%29-F000.png">
+      <Name>D02-%2805%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D02-%2805%29-F001.png">
+      <Name>D02-%2805%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D02-%2805%29-F002.png">
+      <Name>D02-%2805%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D02-%2805%29-F003.png">
+      <Name>D02-%2805%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D02-%2805%29-F004.png">
+      <Name>D02-%2805%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D02-%2805%29-F005.png">
+      <Name>D02-%2805%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D02-%2805%29-F006.png">
+      <Name>D02-%2805%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D02-%2805%29-F007.png">
+      <Name>D02-%2805%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D03-%2801%29-F000.png">
+      <Name>D03-%2801%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D03-%2801%29-F001.png">
+      <Name>D03-%2801%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D03-%2801%29-F002.png">
+      <Name>D03-%2801%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D03-%2801%29-F003.png">
+      <Name>D03-%2801%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D03-%2801%29-F004.png">
+      <Name>D03-%2801%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D03-%2801%29-F005.png">
+      <Name>D03-%2801%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D03-%2801%29-F006.png">
+      <Name>D03-%2801%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D03-%2801%29-F007.png">
+      <Name>D03-%2801%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D04-%2806%29-F000.png">
+      <Name>D04-%2806%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D04-%2806%29-F001.png">
+      <Name>D04-%2806%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D04-%2806%29-F002.png">
+      <Name>D04-%2806%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D04-%2806%29-F003.png">
+      <Name>D04-%2806%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D04-%2806%29-F004.png">
+      <Name>D04-%2806%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D04-%2806%29-F005.png">
+      <Name>D04-%2806%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D04-%2806%29-F006.png">
+      <Name>D04-%2806%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D04-%2806%29-F007.png">
+      <Name>D04-%2806%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D05-%2802%29-F000.png">
+      <Name>D05-%2802%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D05-%2802%29-F001.png">
+      <Name>D05-%2802%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D05-%2802%29-F002.png">
+      <Name>D05-%2802%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D05-%2802%29-F003.png">
+      <Name>D05-%2802%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D05-%2802%29-F004.png">
+      <Name>D05-%2802%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D05-%2802%29-F005.png">
+      <Name>D05-%2802%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D05-%2802%29-F006.png">
+      <Name>D05-%2802%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D05-%2802%29-F007.png">
+      <Name>D05-%2802%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D06-%2807%29-F000.png">
+      <Name>D06-%2807%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D06-%2807%29-F001.png">
+      <Name>D06-%2807%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D06-%2807%29-F002.png">
+      <Name>D06-%2807%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D06-%2807%29-F003.png">
+      <Name>D06-%2807%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D06-%2807%29-F004.png">
+      <Name>D06-%2807%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D06-%2807%29-F005.png">
+      <Name>D06-%2807%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D06-%2807%29-F006.png">
+      <Name>D06-%2807%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D06-%2807%29-F007.png">
+      <Name>D06-%2807%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D07-%2803%29-F000.png">
+      <Name>D07-%2803%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D07-%2803%29-F001.png">
+      <Name>D07-%2803%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D07-%2803%29-F002.png">
+      <Name>D07-%2803%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D07-%2803%29-F003.png">
+      <Name>D07-%2803%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D07-%2803%29-F004.png">
+      <Name>D07-%2803%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D07-%2803%29-F005.png">
+      <Name>D07-%2803%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D07-%2803%29-F006.png">
+      <Name>D07-%2803%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\move\D07-%2803%29-F007.png">
+      <Name>D07-%2803%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="img\character\stand\D00-%2804%29-F000.png">
+      <Name>D00-%2804%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D00-%2804%29-F001.png">
+      <Name>D00-%2804%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D00-%2804%29-F002.png">
+      <Name>D00-%2804%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D00-%2804%29-F003.png">
+      <Name>D00-%2804%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D00-%2804%29-F004.png">
+      <Name>D00-%2804%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D00-%2804%29-F005.png">
+      <Name>D00-%2804%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D00-%2804%29-F006.png">
+      <Name>D00-%2804%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D00-%2804%29-F007.png">
+      <Name>D00-%2804%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D01-%2800%29-F000.png">
+      <Name>D01-%2800%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D01-%2800%29-F001.png">
+      <Name>D01-%2800%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D01-%2800%29-F002.png">
+      <Name>D01-%2800%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D01-%2800%29-F003.png">
+      <Name>D01-%2800%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D01-%2800%29-F004.png">
+      <Name>D01-%2800%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D01-%2800%29-F005.png">
+      <Name>D01-%2800%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D01-%2800%29-F006.png">
+      <Name>D01-%2800%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D01-%2800%29-F007.png">
+      <Name>D01-%2800%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D02-%2805%29-F000.png">
+      <Name>D02-%2805%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D02-%2805%29-F001.png">
+      <Name>D02-%2805%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D02-%2805%29-F002.png">
+      <Name>D02-%2805%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D02-%2805%29-F003.png">
+      <Name>D02-%2805%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D02-%2805%29-F004.png">
+      <Name>D02-%2805%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D02-%2805%29-F005.png">
+      <Name>D02-%2805%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D02-%2805%29-F006.png">
+      <Name>D02-%2805%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D02-%2805%29-F007.png">
+      <Name>D02-%2805%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D03-%2801%29-F000.png">
+      <Name>D03-%2801%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D03-%2801%29-F001.png">
+      <Name>D03-%2801%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D03-%2801%29-F002.png">
+      <Name>D03-%2801%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D03-%2801%29-F003.png">
+      <Name>D03-%2801%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D03-%2801%29-F004.png">
+      <Name>D03-%2801%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D03-%2801%29-F005.png">
+      <Name>D03-%2801%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D03-%2801%29-F006.png">
+      <Name>D03-%2801%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D03-%2801%29-F007.png">
+      <Name>D03-%2801%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D04-%2806%29-F000.png">
+      <Name>D04-%2806%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D04-%2806%29-F001.png">
+      <Name>D04-%2806%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D04-%2806%29-F002.png">
+      <Name>D04-%2806%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D04-%2806%29-F003.png">
+      <Name>D04-%2806%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D04-%2806%29-F004.png">
+      <Name>D04-%2806%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D04-%2806%29-F005.png">
+      <Name>D04-%2806%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D04-%2806%29-F006.png">
+      <Name>D04-%2806%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D04-%2806%29-F007.png">
+      <Name>D04-%2806%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D05-%2802%29-F000.png">
+      <Name>D05-%2802%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D05-%2802%29-F001.png">
+      <Name>D05-%2802%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D05-%2802%29-F002.png">
+      <Name>D05-%2802%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D05-%2802%29-F003.png">
+      <Name>D05-%2802%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D05-%2802%29-F004.png">
+      <Name>D05-%2802%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D05-%2802%29-F005.png">
+      <Name>D05-%2802%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D05-%2802%29-F006.png">
+      <Name>D05-%2802%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D05-%2802%29-F007.png">
+      <Name>D05-%2802%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D06-%2807%29-F000.png">
+      <Name>D06-%2807%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D06-%2807%29-F001.png">
+      <Name>D06-%2807%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D06-%2807%29-F002.png">
+      <Name>D06-%2807%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D06-%2807%29-F003.png">
+      <Name>D06-%2807%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D06-%2807%29-F004.png">
+      <Name>D06-%2807%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D06-%2807%29-F005.png">
+      <Name>D06-%2807%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D06-%2807%29-F006.png">
+      <Name>D06-%2807%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D06-%2807%29-F007.png">
+      <Name>D06-%2807%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D07-%2803%29-F000.png">
+      <Name>D07-%2803%29-F000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D07-%2803%29-F001.png">
+      <Name>D07-%2803%29-F001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D07-%2803%29-F002.png">
+      <Name>D07-%2803%29-F002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D07-%2803%29-F003.png">
+      <Name>D07-%2803%29-F003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D07-%2803%29-F004.png">
+      <Name>D07-%2803%29-F004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D07-%2803%29-F005.png">
+      <Name>D07-%2803%29-F005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D07-%2803%29-F006.png">
+      <Name>D07-%2803%29-F006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\stand\D07-%2803%29-F007.png">
+      <Name>D07-%2803%29-F007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="img\misc\frog\frog.png">
+      <Name>frog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

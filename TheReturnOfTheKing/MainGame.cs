@@ -62,7 +62,8 @@ namespace TheReturnOfTheKing
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
-
+            GlobalVariables.ScreenHeight = this.Window.ClientBounds.Height;
+            GlobalVariables.ScreenWidth = this.Window.ClientBounds.Width;
             GlobalVariables.MouseObserver = new MouseObserver();
             //GlobalVariables.KeyboardObserver = new KeyboardObserver();
             GlobalVariables.Btm = new ButtonManger();
@@ -102,8 +103,7 @@ namespace TheReturnOfTheKing
             // TODO: Add your update logic here
             GlobalVariables.MouseObserver.Update(gameTime);
             //GlobalVariables.KeyboardObserver.Update(gameTime);
-            _gameState.UpdateState(gameTime);
-            //_cursor.Update(gameTime); 
+            _gameState.UpdateState(gameTime);            
             GlobalVariables.GameCursor.Update(gameTime);
             base.Update(gameTime);
         }

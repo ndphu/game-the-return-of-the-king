@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Map>
+  <ContentName>img/map/map01/res0000</ContentName>
+  <Collision>data/map/map01.txt</Collision>
+  <Width>8</Width>
+  <Height>8</Height>
+  <PieceWidth>512</PieceWidth>
+  <PieceHeight>512</PieceHeight>
+  <CollisionUnitDim>32</CollisionUnitDim>
+  <StartPointX>2</StartPointX>
+  <StartPointY>50</StartPointY>
+</Map>

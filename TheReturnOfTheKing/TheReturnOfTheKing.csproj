@@ -85,8 +85,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ButtonManger.cs" />
+    <Compile Include="Character.cs" />
     <Compile Include="Cursor.cs" />
     <Compile Include="Dialog.cs" />
+    <Compile Include="Frog.cs" />
     <Compile Include="GameObjectManager.cs" />
     <Compile Include="GameObjectObserver.cs" />
     <Compile Include="GameSprite.cs" />
@@ -111,11 +113,18 @@
     <Compile Include="StateLogo.cs" />
     <Compile Include="StateMainGame.cs" />
     <Compile Include="StateMenu.cs" />
+    <Compile Include="Utility.cs" />
     <Compile Include="VisibleGameEntity.cs" />
     <Compile Include="VisibleGameObject.cs" />
     <Compile Include="XMLUtility.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Data\Map\map01.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Map\map01.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Data\XML\buttonmanager.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

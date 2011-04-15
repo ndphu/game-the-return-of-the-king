@@ -24,7 +24,33 @@ namespace TheReturnOfTheKing
             get { return _stateOwner; }
             set { _stateOwner = value; }
         }
+        public override float X
+        {
+            get
+            {
+                return base.X;
+            }
+            set
+            {
+                base.X = value;
+                for (int i = 0; i < _nsprite; ++i)
+                    _sprite[i].X = value;
+            }
+        }
 
+        public override float Y
+        {
+            get
+            {
+                return base.Y;
+            }
+            set
+            {
+                base.Y = value;
+                for (int i = 0; i < _nsprite; ++i)
+                    _sprite[i].Y = value;
+            }
+        }
         List<Button> _child = new List<Button>();
 
         public List<Button> Child

@@ -15,20 +15,20 @@ namespace TheReturnOfTheKing
 {
     public class Map : VisibleGameEntity
     {
-        int _mapwidth;
+        int _width;
 
-        public int MapWidth
+        public int Width
         {
-            get { return _mapwidth; }
-            set { _mapwidth = value; }
+            get { return _width; }
+            set { _width = value; }
         }
 
-        int _mapheight;
+        int _height;
 
-        public int MapHeight
+        public int Height
         {
-            get { return _mapheight; }
-            set { _mapheight = value; }
+            get { return _height; }
+            set { _height = value; }
         }
 
         int _cols;
@@ -45,6 +45,30 @@ namespace TheReturnOfTheKing
         {
             get { return _rows; }
             set { _rows = value; }
+        }
+
+        int _collisionDim;
+
+        public int CollisionDim
+        {
+            get { return _collisionDim; }
+            set { _collisionDim = value; }
+        }
+
+        int _startPointX;
+
+        public int StartPointX
+        {
+            get { return _startPointX; }
+            set { _startPointX = value; }
+        }
+
+        int _startPointY;
+
+        public int StartPointY
+        {
+            get { return _startPointY; }
+            set { _startPointY = value; }
         }
 
         int _curCol;
@@ -77,7 +101,7 @@ namespace TheReturnOfTheKing
                     if ((_curRow + j)* _cols + _curCol + i < _nsprite)
                         _sprite[(_curRow + j) * _cols + _curCol + i].Draw(gameTime, sb);               
                 }
-                
+            
         }
 
         public override void Init(ContentManager content)
@@ -103,8 +127,8 @@ namespace TheReturnOfTheKing
                 _sprite = this._sprite,
                 X = this.X,
                 Y = this.Y,
-                _mapheight = this.MapHeight,
-                _mapwidth = this.MapWidth,
+                _height = this.Height,
+                _width = this.Width,
                 _cols = this._cols,
                 _rows = this._rows,
                 _curCol = this._curCol,
@@ -112,8 +136,50 @@ namespace TheReturnOfTheKing
                 _nextCol = this._nextCol,
                 _nextRow = this._nextRow,
                 _rpF = this._rpF,
-                _cpF = this._cpF
+                _cpF = this._cpF,
+                _matrix = this._matrix,
+                _collisionDim = this._collisionDim,
+                _startPointX = this._startPointX,
+                _startPointY = this._startPointY
             };
+        }
+        List<List<bool>> _matrix = new List<List<bool>>();
+
+        public List<List<bool>> Matrix
+        {
+            get { return _matrix; }
+            set { _matrix = value; }
+        }
+
+        public bool IsCollision(Rectangle rect)
+        {
+            /*
+            int start_X = rect.X;
+            int start_Y = rect.Y;
+            int end_X = Math.Min(start_X + rect.Width, GlobalVariables.ScreenWidth);
+            int end_Y = Math.Min(start_Y + rect.Height, GlobalVariables.ScreenHeight);
+
+            for (int i = start_X; i < end_X; ++i)
+                for (int j = start_Y; j < end_Y; ++j)
+                {
+                    if (_matrix[j][i] == true)
+                        return true;
+                }
+            */
+            return false;
+        }
+        public Point PointToCell(Point p)
+        {
+            if (p.X < 0 || p.Y < 0 || p.X >= _width || p.Y >= Height)
+                return new Point(0, 0);
+            int x = p.X / _collisionDim;
+            int y = p.Y / _collisionDim;
+            return new Point(x, y);
+        }
+
+        public Point CellToPoint(Point p)
+        {
+            return new Point(p.X * _collisionDim, p.Y * _collisionDim);
         }
     }
 }
