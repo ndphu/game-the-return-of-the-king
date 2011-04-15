@@ -25,6 +25,7 @@ namespace TheReturnOfTheKing
             get { return _owner; }
             set { _owner = value; }
         }
+
         /// <summary>
         /// Khởi tạo state.
         /// Khởi tạo các biến của state ở đây

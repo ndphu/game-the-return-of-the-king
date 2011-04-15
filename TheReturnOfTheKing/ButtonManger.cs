@@ -30,44 +30,39 @@ namespace TheReturnOfTheKing
                 XmlNodeList list = doc.SelectNodes(@"//Button");
                 _nprototype = list.Count;
                 _prototype = new Button[_nprototype];
+
+                //Vi button nao cũng xài chung 1 mảng FireSprite chung nên load trước lun
+                XmlNode fire = doc.SelectSingleNode(@"//Fire");
+                int _numofframe = int.Parse(fire.SelectSingleNode(@"NumOfFrames").InnerText);
+                string contentname = fire.SelectSingleNode(@"ContentName").InnerText;
+                Texture2D[] _textures = new Texture2D[_numofframe];
+                for (int i = 0; i < _numofframe; ++i)
+                {
+                    _textures[i] = content.Load<Texture2D>(contentname + i.ToString("00"));
+                }
+                float fireX = float.Parse (fire.SelectSingleNode(@"X").InnerText);
+
                 for (int i = 0; i < _nprototype; ++i)
                 {
                     _prototype[i] = new Button();
                     _prototype[i]._nsprite = 3;
                     _prototype[i]._sprite = new GameSprite[3];
-
-                    _prototype[i]._sprite[0] = new GameSprite(content.Load<Texture2D>(list[i].SelectSingleNode(@"Normal").InnerText),
-                        (int)_prototype[i].X,
-                        (int)_prototype[i].Y);                    
-                    
-                    int _numofframe = int.Parse(list[i].SelectSingleNode(@"MouseHover").SelectSingleNode(@"NumOfFrames").InnerText);
-                    string contentname = list[i].SelectSingleNode(@"MouseHover").SelectSingleNode(@"ContentName").InnerText;
-                    Texture2D[] _textures = new Texture2D[_numofframe];
-                    for (int j = 0; j < _numofframe; ++j)
-                    {
-                        _textures[j] = content.Load<Texture2D>(contentname + j.ToString("00"));
-                    }
-
-                    _prototype[i]._sprite[1] = new GameSprite(_textures,
+               
+                    _prototype[i]._sprite[0] = new GameSprite(content.Load<Texture2D>(list[i].SelectSingleNode(@"Idle/ContentName").InnerText),
                         0,
                         0);
 
-                    _numofframe = int.Parse(list[i].SelectSingleNode(@"MouseClicked").SelectSingleNode(@"NumOfFrames").InnerText);
-                    contentname = list[i].SelectSingleNode(@"MouseClicked").SelectSingleNode(@"ContentName").InnerText;
-                    _textures = new Texture2D[_numofframe];
-                    for (int j = 0; j < _numofframe; ++j)
-                    {
-                        _textures[j] = content.Load<Texture2D>(contentname + j.ToString("00"));
-                    }
+                    _prototype[i]._sprite[1] = new GameSprite(content.Load<Texture2D>(list[i].SelectSingleNode(@"MouseHover/ContentName").InnerText),
+                        0,
+                        0);
 
-                    _prototype[i]._sprite[2] = new GameSprite(_textures, 0,0);
-                    ((Button)_prototype[i]).ClickedAnimateOffsetX = int.Parse(list[i].SelectSingleNode(@"XOFFSET").InnerText);
-                    ((Button)_prototype[i]).ClickedAnimateOffsetY = int.Parse(list[i].SelectSingleNode(@"YOFFSET").InnerText);
-                    
+                    _prototype[i]._sprite[2] = new GameSprite (_textures, 
+                        fireX,
+                        0);
+
                     _prototype[i].Height = int.Parse(list[i].SelectSingleNode(@"Height").InnerText);
                     _prototype[i].Width = int.Parse(list[i].SelectSingleNode(@"Width").InnerText);                    
                 }
-
                 return true;
             }
             catch

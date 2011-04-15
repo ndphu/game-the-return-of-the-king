@@ -30,9 +30,8 @@ namespace TheReturnOfTheKing
                         Observers[i].MouseClick(this);
                 }
                 else
-                    Observers[i].MouseLeave(this);                
+                    Observers[i].MouseLeave(this);           
             }
-
             _oldState = _newState;
         }
     }

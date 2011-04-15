@@ -101,7 +101,7 @@ namespace TheReturnOfTheKing
 
         public virtual void MouseDownHandler(MouseObserver mo)
         {
-
+            
         }
 
         public virtual void MouseUpHandler(MouseObserver mo)
@@ -126,16 +126,17 @@ namespace TheReturnOfTheKing
 
         public virtual void ChildNotify(VisibleGameObject child)
         {
-        }
 
+        }
 
         public virtual void KeyDown(KeyboardObserver ko, Keys key)
         { 
+
         }
 
         public virtual void KeyUp(KeyboardObserver ko, Keys key)
         { 
-        }
 
+        }
     }
 }

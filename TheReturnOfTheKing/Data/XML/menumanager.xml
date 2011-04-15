@@ -1,77 +1,260 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <MenuManager>
   <Menu>
+    
     <Background>img/dialog/menu/menu01</Background>
-    <X>300</X>
-    <Y>180</Y>
-    <Width>318</Width>
-    <Height>479</Height>
-    <Button>
+    <X>0</X>
+    <Y>-658</Y>
+    <Width>274</Width>
+    <Height>658</Height>
+
+    <DelayTime>40</DelayTime>
+    
+    <MoveInfo>
+      <FirstDirection>Down</FirstDirection>
+      <!--Nhận các giá trị sau-->
+      <!--Right: Đi qua phải trước-->
+      <!--Left: Đi qua trái trước-->
+      <!--Up: Đi lên trên trước-->
+      <!--Down: Đi xuống dưới trước-->
+      <!--Null: Đứng tại chỗ-->
+
+      <StandingGround>-85</StandingGround>
+      <!--Nhận các giá trị sau-->
+      <!--<Số>: Có Standing Ground-->
+      <!--Null: Không có Standing Ground-->
+
+      <Velocity>
+        <X>0</X>
+        <Y>51</Y>
+      </Velocity>
+
+      <Acceleration>
+        <X>0</X>
+        <Y>2</Y>
+      </Acceleration>
+
+      <DecelerationRate>0,6</DecelerationRate>
+    </MoveInfo>
+    
+    
+    
+    
+    
+    <Button> 
       <Type>0</Type>
-      <X>30</X>
-      <Y>130</Y>
+      <X>-250</X>
+      <Y>150</Y>
+
+      <DelayTime>60</DelayTime>
+
+      <MoveInfo>
+        <FirstDirection>Right</FirstDirection> 
+        <!--Nhận các giá trị sau-->
+          <!--Right: Đi qua phải trước-->
+          <!--Left: Đi qua trái trước-->
+          <!--Up: Đi lên trên trước-->
+          <!--Down: Đi xuống dưới trước-->
+          <!--Null: Đứng tại chỗ-->
+
+        <StandingGround>-10</StandingGround>
+        <!--Nhận các giá trị sau-->
+          <!--<Số>: Có Standing Ground-->
+          <!--Null: Không có Standing Ground-->
+        
+        <Velocity>
+          <X>24</X>
+          <Y>0</Y>
+        </Velocity>
+        
+        <Acceleration>
+          <X>1</X>
+          <Y>0</Y>
+        </Acceleration>
+
+        <DecelerationRate>0,6</DecelerationRate>
+      </MoveInfo>
     </Button>
+
     <Button>
+
       <Type>1</Type>
-      <X>30</X>
-      <Y>170</Y>
+      <X>-250</X>
+      <Y>216</Y>
+
+      <DelayTime>65</DelayTime>
+      
+      <MoveInfo>
+        <FirstDirection>Right</FirstDirection>
+        <!--Nhận các giá trị sau-->
+        <!--Right: Đi qua phải trước-->
+        <!--Left: Đi qua trái trước-->
+        <!--Up: Đi lên trên trước-->
+        <!--Down: Đi xuống dưới trước-->
+        <!--Null: Đứng tại chỗ-->
+
+        <StandingGround>-10</StandingGround>
+        <!--Nhận các giá trị sau-->
+        <!--<Số>: Có Standing Ground-->
+        <!--Null: Không có Standing Ground-->
+
+        <Velocity>
+          <X>24</X>
+          <Y>0</Y>
+        </Velocity>
+
+        <Acceleration>
+          <X>1</X>
+          <Y>0</Y>
+        </Acceleration>
+
+        <DecelerationRate>0,6</DecelerationRate>
+      </MoveInfo>
     </Button>
+
     <Button>
+
       <Type>2</Type>
-      <X>30</X>
-      <Y>210</Y>
+      <X>-250</X>
+      <Y>282</Y>
+
+      <DelayTime>70</DelayTime>
+
+      <MoveInfo>
+        <FirstDirection>Right</FirstDirection>
+        <!--Nhận các giá trị sau-->
+        <!--Right: Đi qua phải trước-->
+        <!--Left: Đi qua trái trước-->
+        <!--Up: Đi lên trên trước-->
+        <!--Down: Đi xuống dưới trước-->
+        <!--Null: Đứng tại chỗ-->
+
+        <StandingGround>-10</StandingGround>
+        <!--Nhận các giá trị sau-->
+        <!--<Số>: Có Standing Ground-->
+        <!--Null: Không có Standing Ground-->
+
+        <Velocity>
+          <X>24</X>
+          <Y>0</Y>
+        </Velocity>
+
+        <Acceleration>
+          <X>1</X>
+          <Y>0</Y>
+        </Acceleration>
+
+        <DecelerationRate>0,6</DecelerationRate>
+      </MoveInfo>
     </Button>
+
     <Button>
+
       <Type>3</Type>
-      <X>30</X>
-      <Y>250</Y>
+      <X>-250</X>
+      <Y>348</Y>
+
+      <DelayTime>75</DelayTime>
+
+      <MoveInfo>
+        <FirstDirection>Right</FirstDirection>
+        <!--Nhận các giá trị sau-->
+        <!--Right: Đi qua phải trước-->
+        <!--Left: Đi qua trái trước-->
+        <!--Up: Đi lên trên trước-->
+        <!--Down: Đi xuống dưới trước-->
+        <!--Null: Đứng tại chỗ-->
+
+        <StandingGround>-10</StandingGround>
+        <!--Nhận các giá trị sau-->
+        <!--<Số>: Có Standing Ground-->
+        <!--Null: Không có Standing Ground-->
+
+        <Velocity>
+          <X>24</X>
+          <Y>0</Y>
+        </Velocity>
+
+        <Acceleration>
+          <X>1</X>
+          <Y>0</Y>
+        </Acceleration>
+
+        <DecelerationRate>0,6</DecelerationRate>
+      </MoveInfo>
     </Button>
+
     <Button>
+
       <Type>4</Type>
-      <X>30</X>
-      <Y>290</Y>
+      <X>-250</X>
+      <Y>414</Y>
+
+      <DelayTime>80</DelayTime>
+
+      <MoveInfo>
+        <FirstDirection>Right</FirstDirection>
+        <!--Nhận các giá trị sau-->
+        <!--Right: Đi qua phải trước-->
+        <!--Left: Đi qua trái trước-->
+        <!--Up: Đi lên trên trước-->
+        <!--Down: Đi xuống dưới trước-->
+        <!--Null: Đứng tại chỗ-->
+
+        <StandingGround>-10</StandingGround>
+        <!--Nhận các giá trị sau-->
+        <!--<Số>: Có Standing Ground-->
+        <!--Null: Không có Standing Ground-->
+
+        <Velocity>
+          <X>24</X>
+          <Y>0</Y>
+        </Velocity>
+
+        <Acceleration>
+          <X>1</X>
+          <Y>0</Y>
+        </Acceleration>
+
+        <DecelerationRate>0,6</DecelerationRate>
+      </MoveInfo>
     </Button>
+
     <Button>
+
       <Type>5</Type>
-      <X>30</X>
-      <Y>330</Y>
+      <X>-250</X>
+      <Y>480</Y>
+
+      <DelayTime>85</DelayTime>
+
+      <MoveInfo>
+        <FirstDirection>Right</FirstDirection>
+        <!--Nhận các giá trị sau-->
+        <!--Right: Đi qua phải trước-->
+        <!--Left: Đi qua trái trước-->
+        <!--Up: Đi lên trên trước-->
+        <!--Down: Đi xuống dưới trước-->
+        <!--Null: Đứng tại chỗ-->
+
+        <StandingGround>-10</StandingGround>
+        <!--Nhận các giá trị sau-->
+        <!--<Số>: Có Standing Ground-->
+        <!--Null: Không có Standing Ground-->
+
+        <Velocity>
+          <X>24</X>
+          <Y>0</Y>
+        </Velocity>
+
+        <Acceleration>
+          <X>1</X>
+          <Y>0</Y>
+        </Acceleration>
+
+        <DecelerationRate>0,6</DecelerationRate>
+      </MoveInfo>
     </Button>
   </Menu>
-  <Menu>
-    <Background>img/dialog/menu/menu02</Background>
-    <X>430</X>
-    <Y>180</Y>
-    <Width>280</Width>
-    <Height>400</Height>
-    <Button>
-      <Type>0</Type>
-      <X>30</X>
-      <Y>130</Y>
-    </Button>
-    <Button>
-      <Type>1</Type>
-      <X>30</X>
-      <Y>170</Y>
-    </Button>
-    <Button>
-      <Type>2</Type>
-      <X>30</X>
-      <Y>210</Y>
-    </Button>
-    <Button>
-      <Type>3</Type>
-      <X>30</X>
-      <Y>250</Y>
-    </Button>
-    <Button>
-      <Type>4</Type>
-      <X>30</X>
-      <Y>290</Y>
-    </Button>
-    <Button>
-      <Type>5</Type>
-      <X>30</X>
-      <Y>330</Y>
-    </Button>  
-</Menu>
+  
 </MenuManager>

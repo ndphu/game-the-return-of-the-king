@@ -78,5 +78,13 @@ namespace TheReturnOfTheKing
             get { return GlobalVariables._keyboardObserver; }
             set { GlobalVariables._keyboardObserver = value; }
         }
+
+        static Cursor _gameCursor;
+
+        public static Cursor GameCursor
+        {
+            get { return _gameCursor; }
+            set { _gameCursor = value; }
+        }
     }
 }

@@ -24,6 +24,7 @@ namespace TheReturnOfTheKing
             get { return _stateOwner; }
             set { _stateOwner = value; }
         }
+
         List<Button> _child = new List<Button>();
 
         public List<Button> Child
@@ -32,58 +33,85 @@ namespace TheReturnOfTheKing
             set { _child = value; }
         }
 
-        int _menuIndex = 0;
+        public MotionInfo _motionInfo;
+
+        private int _delayTime = 0;
+
+        public int DelayTime
+        {
+            get { return _delayTime; }
+            set { _delayTime = value; }
+        }
+
+        private int _iDelayTime = 0;
+
+        public int IDelayTime
+        {
+            get { return _iDelayTime; }
+            set { _iDelayTime = value; }
+        }
+
+        /*int _menuIndex = 0;
 
         public int MenuIndex
         {
             get { return _menuIndex; }
             set { _menuIndex = value; }
-        }
+        }*/
 
-        Color _color = new Color(160,160,160);
-        int _iSign = 2;
+        //Color _color = new Color(160,160,160);
+        //int _iSign = 2;
 
         public override void Draw(GameTime gameTime, SpriteBatch sb)
         {
-
-            sb.Draw(_sprite[0].Texture2D[0], new Vector2(_sprite[0].X, _sprite[0].Y), _color);
-            for (int i = 0; i < _child.Count; ++i)
-                _child[i].Draw(gameTime, sb);
+            if (_iDelayTime == _delayTime)
+            {
+                //sb.Draw(_sprite[0].Texture2D[0], new Vector2(_sprite[0].X, _sprite[0].Y), _color);
+                base.Draw(gameTime, sb);
+                for (int i = 0; i < _child.Count; ++i)
+                    _child[i].Draw(gameTime, sb);
+            }
         }
 
         public override void Update(GameTime gameTime)
-        {   
+        {
+            if (_iDelayTime == _delayTime)
+            {
+                //Update vị trí cho menu.
+                if (!_motionInfo.IsStanding)
+                {
+                    Vector2 newPos = _motionInfo.Move(new Vector2(X, Y));
+                    X = newPos.X;
+                    Y = newPos.Y;
+                }
+            }
+            else
+                _iDelayTime++;
+
+            //Update vị trí các button
             for (int i = 0; i < _child.Count; ++i)
                 _child[i].Update(gameTime);
-            if (IsMouseHover)
-            {
-                _color.R += (byte)_iSign;
-                _color.B += (byte)_iSign; ;
-                _color.G += (byte)_iSign; ;
-                if ((_color.R == 254 && _iSign > 0) || (_color.R == 160 && _iSign < 0))
-                    _iSign *= -1;
-            }
 
-            
         }
 
         public override void Init(ContentManager content)
         {   
+            
         }
 
         public override void MouseEnter(MouseObserver mo)
         {
-            if (!IsMouseHover)
+            /*if (!IsMouseHover)
             {
                 IsMouseHover = true;
                 for (int i = 0; i < _child.Count; ++i)
                     mo.RegisterObserver(_child[i]);
-            }
+            }*/
         }
 
         public override void MouseLeave(MouseObserver mo)
         {
-            if (IsMouseHover)
+            /*if (IsMouseHover)
             {
                 IsMouseHover = false;
                 for (int i = 0; i < _child.Count; ++i)
@@ -93,7 +121,7 @@ namespace TheReturnOfTheKing
                 }
                 _color = new Color(160, 160, 160);
                 _iSign = 2;
-            }
+            }*/
         }
         public override VisibleGameObject Clone()
         {
@@ -106,7 +134,9 @@ namespace TheReturnOfTheKing
                 Height = this.Height,
                 Rect = this.Rect,
                 X = this.X,
-                Y = this.Y,                
+                Y = this.Y,            
+                _motionInfo = this._motionInfo,
+                _delayTime = this._delayTime
             };
             for (int i = 0; i < res.Child.Count; ++i)
             {
@@ -114,14 +144,15 @@ namespace TheReturnOfTheKing
             }
             return res;
         }
+
         public override void ChildNotify(VisibleGameObject child)
         {
-            _menuIndex = _child.IndexOf((Button)child);
+            //_menuIndex = _child.IndexOf((Button)child);
         }
 
         public override void KeyUp(KeyboardObserver ko, Keys key)
         {
-            switch (key)
+            /*switch (key)
             {
                 case Keys.Up:
                     _menuIndex -= 1;
@@ -138,8 +169,7 @@ namespace TheReturnOfTheKing
                 case Keys.Enter:
                     _child[_menuIndex].MouseClick(null);
                     break;
-            }
-            
+            }*/
         }
     }
 }

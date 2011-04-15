@@ -21,7 +21,7 @@ namespace TheReturnOfTheKing
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
                
-        Cursor _cursor = new Cursor();
+        //Cursor _cursor = new Cursor();
 
         GameState _gameState;
 
@@ -47,6 +47,7 @@ namespace TheReturnOfTheKing
             // TODO: Add your initialization logic here
 
             base.Initialize();
+            //IsMouseVisible = true;
         }
 
         /// <summary>
@@ -55,25 +56,27 @@ namespace TheReturnOfTheKing
         /// </summary>
         protected override void LoadContent()
         {
+            this.graphics.IsFullScreen = true;
+
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
 
-
             GlobalVariables.MouseObserver = new MouseObserver();
-            GlobalVariables.KeyboardObserver = new KeyboardObserver();
+            //GlobalVariables.KeyboardObserver = new KeyboardObserver();
             GlobalVariables.Btm = new ButtonManger();
             GlobalVariables.Btm.InitPrototypes(Content, @"./Data/XML/buttonmanager.xml");
             GlobalVariables.Mnm = new MenuManager();
             GlobalVariables.Mnm.InitPrototypes(Content, @"./Data/XML/menumanager.xml");
 
-            _cursor.Init(Content);
+            //_cursor.Init(Content);
+            GlobalVariables.GameCursor = new Cursor();
+            GlobalVariables.GameCursor.Init(Content);
 
-            _gameState = new StateMenu();            
+            _gameState = new StateMenu();
             _gameState.InitState(Content, this);
             _gameState.EnterState();
-      
         }
 
         /// <summary>
@@ -98,11 +101,10 @@ namespace TheReturnOfTheKing
 
             // TODO: Add your update logic here
             GlobalVariables.MouseObserver.Update(gameTime);
-            GlobalVariables.KeyboardObserver.Update(gameTime);
+            //GlobalVariables.KeyboardObserver.Update(gameTime);
             _gameState.UpdateState(gameTime);
-            _cursor.Update(gameTime); 
-               
-            
+            //_cursor.Update(gameTime); 
+            GlobalVariables.GameCursor.Update(gameTime);
             base.Update(gameTime);
         }
 
@@ -119,8 +121,8 @@ namespace TheReturnOfTheKing
             spriteBatch.Begin();
 
             _gameState.DrawState(gameTime, spriteBatch);
-            _cursor.Draw(gameTime, spriteBatch);
-
+            //_cursor.Draw(gameTime, spriteBatch);
+            GlobalVariables.GameCursor.Draw(gameTime, spriteBatch);
             spriteBatch.End();
             base.Draw(gameTime);
         }

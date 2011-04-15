@@ -1,98 +1,99 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <Fire>
+    <ContentName>img/dialog/control/button/fire/fire</ContentName>  
+    <NumOfFrames>16</NumOfFrames>
+    <X>-30</X>
+  </Fire>
+  
   <Button>
-    <Normal>img/dialog/control/button/newgame/normal</Normal>    
-    <MouseClicked>
-      <ContentName>img/fire01/fire000</ContentName>
-      <NumOfFrames>40</NumOfFrames>
-    </MouseClicked>
+    <Idle>
+      <ContentName>img/dialog/control/button/newgame/idle</ContentName>
+      <NumOfFrames>1</NumOfFrames>
+    </Idle>
+    
     <MouseHover>
-      <ContentName>img/dialog/control/button/newgame/animate</ContentName>
-      <NumOfFrames>14</NumOfFrames>
-    </MouseHover>
-    <XOFFSET>40</XOFFSET>
-    <YOFFSET>60</YOFFSET>
-    <Width>224</Width>
-    <Height>35</Height>
-  </Button>
-  <Button>
-    <Normal>img/dialog/control/button/load/normal</Normal>
-    <MouseClicked>
-      <ContentName>img/fire01/fire000</ContentName>
-      <NumOfFrames>40</NumOfFrames>
-    </MouseClicked>
-    <MouseHover>
-      <ContentName>img/dialog/control/button/load/animate</ContentName>
-      <NumOfFrames>14</NumOfFrames>
-    </MouseHover>
-   
-    <XOFFSET>40</XOFFSET>
-    <YOFFSET>60</YOFFSET>
-    <Width>224</Width>
-    <Height>35</Height>
-  </Button>
-  <Button>
-    <Normal>img/dialog/control/button/option/normal</Normal>
-    <MouseClicked>
-      <ContentName>img/fire01/fire000</ContentName>
-      <NumOfFrames>40</NumOfFrames>
-    </MouseClicked>
-    <MouseHover>
-      <ContentName>img/dialog/control/button/option/animate</ContentName>
-      <NumOfFrames>14</NumOfFrames>
-    </MouseHover>
-   
-    <XOFFSET>40</XOFFSET>
-    <YOFFSET>60</YOFFSET>
-    <Width>224</Width>
-    <Height>35</Height>
-  </Button>
-  <Button>
-    <Normal>img/dialog/control/button/help/normal</Normal>
-    <MouseClicked>
-      <ContentName>img/fire01/fire000</ContentName>
-      <NumOfFrames>40</NumOfFrames>
-    </MouseClicked>
-    <MouseHover>
-      <ContentName>img/dialog/control/button/help/animate</ContentName>
-      <NumOfFrames>14</NumOfFrames>
+      <ContentName>img/dialog/control/button/newgame/hover</ContentName>
+      <NumOfFrames>1</NumOfFrames>
     </MouseHover>
     
-    <XOFFSET>40</XOFFSET>
-    <YOFFSET>60</YOFFSET>
-    <Width>224</Width>
-    <Height>35</Height>
+    <Width>250</Width>
+    <Height>56</Height>
   </Button>
+
   <Button>
-    <Normal>img/dialog/control/button/about/normal</Normal>
-    <MouseClicked>
-      <ContentName>img/fire01/fire000</ContentName>
-      <NumOfFrames>40</NumOfFrames>
-    </MouseClicked>
+    <Idle>
+      <ContentName>img/dialog/control/button/load/idle</ContentName>
+      <NumOfFrames>1</NumOfFrames>
+    </Idle>
+
     <MouseHover>
-      <ContentName>img/dialog/control/button/about/animate</ContentName>
-      <NumOfFrames>14</NumOfFrames>
+      <ContentName>img/dialog/control/button/load/hover</ContentName>
+      <NumOfFrames>1</NumOfFrames>
     </MouseHover>
-    
-    <XOFFSET>40</XOFFSET>
-    <YOFFSET>60</YOFFSET>
-    <Width>224</Width>
-    <Height>35</Height>
+
+    <Width>250</Width>
+    <Height>56</Height>
   </Button>
+
   <Button>
-    <Normal>img/dialog/control/button/quit/normal</Normal>
-    <MouseClicked>
-      <ContentName>img/fire01/fire000</ContentName>
-      <NumOfFrames>40</NumOfFrames>
-    </MouseClicked>
+    <Idle>
+      <ContentName>img/dialog/control/button/option/idle</ContentName>
+      <NumOfFrames>1</NumOfFrames>
+    </Idle>
+
     <MouseHover>
-      <ContentName>img/dialog/control/button/quit/animate</ContentName>
-      <NumOfFrames>14</NumOfFrames>
+      <ContentName>img/dialog/control/button/option/hover</ContentName>
+      <NumOfFrames>1</NumOfFrames>
     </MouseHover>
-    
-    <XOFFSET>40</XOFFSET>
-    <YOFFSET>60</YOFFSET>
-    <Width>224</Width>
-    <Height>35</Height>
+
+    <Width>250</Width>
+    <Height>56</Height>
   </Button>
+
+  <Button>
+    <Idle>
+      <ContentName>img/dialog/control/button/help/idle</ContentName>
+      <NumOfFrames>1</NumOfFrames>
+    </Idle>
+
+    <MouseHover>
+      <ContentName>img/dialog/control/button/help/hover</ContentName>
+      <NumOfFrames>1</NumOfFrames>
+    </MouseHover>
+
+    <Width>250</Width>
+    <Height>56</Height>
+  </Button>
+
+  <Button>
+    <Idle>
+      <ContentName>img/dialog/control/button/about/idle</ContentName>
+      <NumOfFrames>1</NumOfFrames>
+    </Idle>
+
+    <MouseHover>
+      <ContentName>img/dialog/control/button/about/hover</ContentName>
+      <NumOfFrames>1</NumOfFrames>
+    </MouseHover>
+
+    <Width>250</Width>
+    <Height>56</Height>
+  </Button>
+
+  <Button>
+    <Idle>
+      <ContentName>img/dialog/control/button/quit/idle</ContentName>
+      <NumOfFrames>1</NumOfFrames>
+    </Idle>
+
+    <MouseHover>
+      <ContentName>img/dialog/control/button/quit/hover</ContentName>
+      <NumOfFrames>1</NumOfFrames>
+    </MouseHover>
+
+    <Width>250</Width>
+    <Height>56</Height>
+  </Button>
+  
 </root>

@@ -18,7 +18,8 @@ namespace TheReturnOfTheKing
         public override void Init(ContentManager content)
         {
             XMLUtility xml = new XMLUtility(@".\Data\XML\menubg.xml");
-            _nsprite = 1;            
+            //_nsprite = 1;  
+            _nsprite = int.Parse(xml.GetElementValue(@"NumOfFrames"));
             string contentname = xml.GetElementValue(@"ContentName");
             _sprite = new GameSprite[_nsprite];
             _sprite[0] = new GameSprite(content.Load<Texture2D>(contentname), int.Parse(xml.GetElementValue(@"X")), int.Parse(xml.GetElementValue(@"Y")));
@@ -32,8 +33,7 @@ namespace TheReturnOfTheKing
 
         public override void Update(GameTime gameTime)
         {
-            //base.Update(gameTime);
-            
+            base.Update(gameTime);
         }
 
     }

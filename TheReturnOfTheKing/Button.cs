@@ -15,21 +15,37 @@ namespace TheReturnOfTheKing
 {
     public class Button : Dialog
     {
-        bool _isClicked = false;
-        float _clickedAnimateOffsetX;
+        private bool _isClicked = false;//Có được click hay không.
 
-        public float ClickedAnimateOffsetX
+        public bool IsClicked
         {
-            get { return _clickedAnimateOffsetX; }
-            set { _clickedAnimateOffsetX = value; }
+            get { return _isClicked; }
+            set { _isClicked = value; }
         }
-        float _clickedAnimateOffsetY;
 
-        public float ClickedAnimateOffsetY
+        private int _delayTime = 0;
+
+        public int DelayTime
         {
-            get { return _clickedAnimateOffsetY; }
-            set { _clickedAnimateOffsetY = value; }
+            get { return _delayTime; }
+            set { _delayTime = value; }
         }
+
+        private int _ideLayTime = 0;
+
+        public int IdeLayTime
+        {
+            get { return _ideLayTime; }
+            set { _ideLayTime = value; }
+        }
+
+        public MotionInfo _motionInfo;//Thông tin chuyển động của button
+
+        /*public MotionInfo MotionInfo
+        {
+            get { return _motionInfo; }
+            set { _motionInfo = value; }
+        }*/
 
         public override VisibleGameObject Clone()
         {
@@ -41,8 +57,9 @@ namespace TheReturnOfTheKing
                 Width = this.Width,
                 Height = this.Height,
                 Rect = this.Rect,
-                _clickedAnimateOffsetX = this._clickedAnimateOffsetX,
-                _clickedAnimateOffsetY = this._clickedAnimateOffsetY
+                _motionInfo = this._motionInfo,
+                _delayTime = this._delayTime,
+                _ideLayTime = this._ideLayTime
             };
         }
 
@@ -54,10 +71,11 @@ namespace TheReturnOfTheKing
             }
             set
             {
+                //Sprite cuối cùng là FireSprite khi button xuất hiện.
+                //Nên không cần cập nhật lại tọa độ X khi button di chuyển.
                 _x = value;
                 for (int i = 0; i < base._nsprite - 1; ++i)
                     _sprite[i].X = value;
-                _sprite[_nsprite - 1].X = value - _clickedAnimateOffsetX;
             }
         }
 
@@ -70,37 +88,78 @@ namespace TheReturnOfTheKing
             set
             {
                 _y = value;
-                for (int i = 0; i < base._nsprite - 1; ++i)
+                for (int i = 0; i < base._nsprite; ++i)
                     _sprite[i].Y = value;
-                _sprite[_nsprite - 1].Y = value - _clickedAnimateOffsetY;
             }
         }
 
         public override void Update(GameTime gameTime)
         {
-            _sprite[1].Itexture2D = (_sprite[1].Itexture2D + 1) % _sprite[1].Ntexture2D;
-            _sprite[2].Itexture2D = (_sprite[2].Itexture2D + 1) % _sprite[2].Ntexture2D;
+            if (_ideLayTime == _delayTime)
+            {
+                //Update sprite cho button.
+                if (IsMouseHover)
+                    _sprite[1].Itexture2D = (_sprite[1].Itexture2D + 1) % _sprite[1].Ntexture2D;
+                else
+                    _sprite[0].Itexture2D = (_sprite[0].Itexture2D + 1) % _sprite[0].Ntexture2D;
+
+                //Nếu như Fire đã nổ xong thì ko update nữa..
+                if (_sprite[2].Itexture2D < _sprite[2].Ntexture2D)
+                {
+                    _sprite[2].Itexture2D += 1;
+                    if (_sprite[2].Itexture2D < _sprite[2].Ntexture2D)
+                        _sprite[2].Itexture2D %= _sprite[2].Ntexture2D;
+                }
+
+                //Update vị trí cho button.
+                if (!_motionInfo.IsStanding)
+                {
+                    Vector2 newPos = _motionInfo.Move(new Vector2(X, Y));
+                    X = newPos.X;
+                    Y = newPos.Y;
+                }
+
+                if (_isClicked)
+                {
+                    if (!_motionInfo.IsStanding)
+                        _motionInfo.Move(new Vector2(X, Y));
+                    else
+                        OnMouse_Click(this, null);
+                }
+            }
+            else
+                _ideLayTime += 1;
         }
 
         public override void Draw(GameTime gameTime, SpriteBatch sb)
         {
-            _sprite[0].Draw(gameTime, sb);
-            if (IsMouseHover == true)
-                _sprite[1].Draw(gameTime, sb);
-            if (_isClicked)
-                _sprite[2].Draw(gameTime, sb);
+            if (_ideLayTime == _delayTime)
+            {
+                if (IsMouseHover)
+                    _sprite[1].Draw(gameTime, sb);
+                else
+                    _sprite[0].Draw(gameTime, sb);
+
+                if (_sprite[2].Itexture2D < _sprite[2].Ntexture2D)
+                    _sprite[2].Draw(gameTime, sb);
+            }
         }
 
         public override void MouseEnter(MouseObserver mo)
         {
             IsMouseHover = true;
+            GlobalVariables.GameCursor.IsHover = true;
             if (_owner != null)
                 _owner.ChildNotify(this);
         }
 
         public override void MouseLeave(MouseObserver mo)
         {
-            IsMouseHover = false;
+            if (IsMouseHover)
+            {
+                IsMouseHover = false;
+                GlobalVariables.GameCursor.IsIdle = true;
+            }
         }
 
         public override void MouseDownHandler(MouseObserver mo)
@@ -115,11 +174,23 @@ namespace TheReturnOfTheKing
 
         public override void MouseClick(MouseObserver mo)
         {
+            //Khi button được click thì sẽ kiểm tra các yếu tố sau
+            //  -Nếu button chưa dừng lại (đang chạy ra màn hinh)
+            //  -Nều button đã được click
+            //--> Không xử lý
+            if (!_motionInfo.IsStanding)
+                return;
             if (_isClicked)
-                _isClicked = false;
-            else
-                _isClicked = true;
-            OnMouse_Click(this,null);
+                return;
+
+            _isClicked = true;
+            //Xét lại hướng chuyển động và một số tham số cần thiết để cho button
+            //chuyển động theo cách mong muốn.
+            _motionInfo = SetButtonMotion(_motionInfo);
+
+            //Hàm này sẽ được gọi trong update (vì button sau khi đã đi ra ngoài màn hình
+            //  thì hàm này mới được dọi để xử lý ở mức State)
+            //OnMouse_Click(this, null);
         }
 
         public delegate void OnMouseClickHandler(object sender, EventArgs e);
@@ -134,5 +205,15 @@ namespace TheReturnOfTheKing
             }
         }
 
+        private MotionInfo SetButtonMotion(MotionInfo _preMotion)
+        {
+            MotionInfo _newMotion = _preMotion;
+            _newMotion.IsStanding = false;
+            _newMotion.FirstDection = "Right";
+            _newMotion.StandingGround = float.MinValue;
+            _newMotion.Vel = new Vector2(25, 0);
+            _newMotion.Accel = new Vector2(4, 0);
+            return _newMotion;
+        }
     }
 }

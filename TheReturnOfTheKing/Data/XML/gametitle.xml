@@ -1,8 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <root>
-  <ContentName>img/title/title</ContentName>
-  <NumOfFrames>25</NumOfFrames>
-  <X>350</X>
-  <Y>30</Y>
+  <title>
+    <ContentName>img/title/titleappear/title</ContentName>
+    <NumOfFrames>49</NumOfFrames>
+  </title>
+
+  <title>
+    <ContentName>img/title/titleanimate/title</ContentName>
+    <NumOfFrames>100</NumOfFrames>
+  </title>
+  
+  <X>300</X>
+  <Y>-50</Y>
   <DelayTime>100</DelayTime>
 </root>

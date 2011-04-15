@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+  <idle>img/misc/cursor/idle</idle>
+  <focus>img/misc/cursor/focus</focus>
+  <attack>img/misc/cursor/attack</attack>
+</root>
