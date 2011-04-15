@@ -16,6 +16,16 @@ namespace TheReturnOfTheKing
 {
     public class GameSprite
     {
+        private int _nDelay = 5;
+
+        public int NDelay
+        {
+            get { return _nDelay; }
+            set { _nDelay = value; }
+        }
+
+        int _check;
+
         Texture2D[] _texture2D;
 
         public Texture2D[] Texture2D
@@ -27,7 +37,7 @@ namespace TheReturnOfTheKing
 
         float _x;
 
-        public float X
+        public virtual float X
         {
             get { return _x; }
             set { _x = value; }
@@ -36,10 +46,25 @@ namespace TheReturnOfTheKing
 
         float _y;
 
-        public float Y
+        public virtual float Y
         {
             get { return _y; }
             set { _y = value; }
+        }
+        int _xoffset;
+
+        public int Xoffset
+        {
+            get { return _xoffset; }
+            set { _xoffset = value; }
+        }
+
+        int _yoffset;
+
+        public int Yoffset
+        {
+            get { return _yoffset; }
+            set { _yoffset = value; }
         }
 
         int _itexture2D;
@@ -65,6 +90,7 @@ namespace TheReturnOfTheKing
             _x = _inputx;
             _y = _inputy;
             _itexture2D = 0;
+            _check = NDelay;
         }
         public GameSprite(Texture2D _inputtexture2D, int _inputx, int _inputy)
         {
@@ -74,16 +100,25 @@ namespace TheReturnOfTheKing
             _x = _inputx;
             _y = _inputy;
             _itexture2D = 0;
+            _check = NDelay;
         }
 
         public void Update(GameTime gameTime)
         {
-            _itexture2D = (_itexture2D + 1) % _ntexture2D;
+            if (_check == 0)
+            {
+                _itexture2D = (_itexture2D + 1) % _ntexture2D;
+                _check = NDelay;
+            }
+            else
+            {
+                _check -= 1;
+            }
         }
 
         public void Draw(GameTime gameTime, SpriteBatch sb)
         {
-            sb.Draw(_texture2D[_itexture2D], new Vector2(_x + GlobalVariables.dX, _y + GlobalVariables.dY), Color.White);
+            sb.Draw(_texture2D[_itexture2D], new Vector2(_x + GlobalVariables.dX + Xoffset, _y + GlobalVariables.dY + Yoffset), Color.White);
         }
     }
 }

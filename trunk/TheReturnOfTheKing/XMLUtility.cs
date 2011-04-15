@@ -9,6 +9,7 @@ namespace TheReturnOfTheKing
     public class XMLUtility
     {
         XmlDocument _doc;
+
         public XMLUtility(string fileName)
         {
             _doc = new XmlDocument();

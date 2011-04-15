@@ -17,6 +17,7 @@ namespace TheReturnOfTheKing
     public class StateMenu : GameState
     {
         MenuBackground _menubg = new MenuBackground();
+        List<Button> _buttonArray = new List<Button>();
         GameTitle _gametitle = new GameTitle();
         Menu _menu = new Menu();
 
@@ -25,7 +26,7 @@ namespace TheReturnOfTheKing
             base.InitState(content, owner);
             _menubg.Init(content);
             _gametitle.Init(content);
-            _menu = (Menu)GlobalVariables.Mnm.CreateObject(1);
+            _menu = (Menu)GlobalVariables.Mnm.CreateObject(0);
             _menu.StateOwner = this;
             _menu.Child[0].Mouse_Click += new Button.OnMouseClickHandler(StateMenu_Mouse_Click_NewGame);
             _menu.Child[1].Mouse_Click += new Button.OnMouseClickHandler(StateMenu_Mouse_Click_Load);
@@ -33,7 +34,11 @@ namespace TheReturnOfTheKing
             _menu.Child[3].Mouse_Click += new Button.OnMouseClickHandler(StateMenu_Mouse_Click_Help);
             _menu.Child[4].Mouse_Click += new Button.OnMouseClickHandler(StateMenu_Mouse_Click_Option);
             _menu.Child[5].Mouse_Click += new Button.OnMouseClickHandler(StateMenu_Mouse_Click_Quit);
+
+            //for (int i = 0; i < _menu.Child.Count; ++i)
+            //    GlobalVariables.MouseObserver.RegisterObserver(_menu.Child[i]);
         }
+
         /// <summary>
         /// Hàm xử lý cho sự kiện click lên nút NewGame
         /// </summary>
@@ -41,8 +46,14 @@ namespace TheReturnOfTheKing
         /// <param name="e"></param>
         void StateMenu_Mouse_Click_NewGame(object sender, EventArgs e)
         {
+            Button _sender = (Button)sender;
+            //BUtton dừng lại rồi, mới được click
+            if (!_sender._motionInfo.IsStanding)
+                return;
+
             Owner.GameState = new StateMainGame();
         }
+
         /// <summary>
         /// Hàm xử lý cho sự kiện click lên nút Quit
         /// Dự kiến xử lý: Tắt game
@@ -96,8 +107,10 @@ namespace TheReturnOfTheKing
         
         public override void EnterState()
         {
-            GlobalVariables.MouseObserver.RegisterObserver(_menu);
-            GlobalVariables.KeyboardObserver.RegisterObserver(_menu);
+            for (int i = 0; i < _menu.Child.Count; ++i)
+                GlobalVariables.MouseObserver.RegisterObserver(_menu.Child[i]);
+            //GlobalVariables.MouseObserver.RegisterObserver(_menu);
+            //GlobalVariables.KeyboardObserver.RegisterObserver(_menu);
         }
 
         public override void DrawState(GameTime gameTime, SpriteBatch sb)
@@ -116,10 +129,9 @@ namespace TheReturnOfTheKing
 
         public override void ExitState()
         {
-            GlobalVariables.MouseObserver.UnregisterObserver(_menu);
-            GlobalVariables.KeyboardObserver.UnregisterObserver(_menu);
+            for (int i = 0; i < _menu.Child.Count; ++i)
+                GlobalVariables.MouseObserver.UnregisterObserver(_menu.Child[i]);
+            //GlobalVariables.KeyboardObserver.UnregisterObserver(_menu);
         }
-
-        
     }
 }

@@ -30,6 +30,5 @@ namespace TheReturnOfTheKing
                 return _prototype[idx].Clone();
             return null;
         }
-
     }
 }
