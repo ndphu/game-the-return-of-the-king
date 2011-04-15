@@ -2,3 +2,4 @@ D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing\TheRe
 E:\HOC TAP\LT Game\Do an cuoi ky\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\Content\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\Users\SIEUNHAN\Documents\Visual Studio 2008\Projects\TheReturnOfTheKing-v1.1\TheReturnOfTheKing\TheReturnOfTheKing\Content\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\Working Space\To commit\TheReturnOfTheKing\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\SIEUNHAN\Desktop\LTGame\TheReturnOfTheKing\Content\obj\x86\Debug\ResolveAssemblyReference.cache

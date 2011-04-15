@@ -50,8 +50,10 @@ namespace TheReturnOfTheKing
             //BUtton dừng lại rồi, mới được click
             if (!_sender._motionInfo.IsStanding)
                 return;
-
+            Owner.GameState.ExitState();
             Owner.GameState = new StateMainGame();
+            Owner.GameState.InitState(Owner.Content, Owner);
+            Owner.GameState.EnterState();
         }
 
         /// <summary>

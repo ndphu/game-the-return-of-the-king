@@ -11,6 +11,7 @@ using Microsoft.Xna.Framework.Media;
 using Microsoft.Xna.Framework.Net;
 using Microsoft.Xna.Framework.Storage;
 using System.Xml;
+using System.IO;
 
 namespace TheReturnOfTheKing
 {
@@ -28,7 +29,7 @@ namespace TheReturnOfTheKing
                 _prototype = new Map[_nprototype];
                 _prototype[0] = new Map();
                 XmlDocument doc = new XmlDocument();
-                doc.Load(@"Data\map03.xml");
+                doc.Load(fileName);
                 int _cols = int.Parse(doc.SelectSingleNode("//Width").InnerText);
                 int _rows = int.Parse(doc.SelectSingleNode("//Height").InnerText);
                 int _pieceWidth = int.Parse(doc.SelectSingleNode("//PieceWidth").InnerText);
@@ -36,20 +37,47 @@ namespace TheReturnOfTheKing
                 int _npiece = _prototype[0]._nsprite = _cols * _rows;
                 _prototype[0]._sprite = new GameSprite[_npiece];
                 string contentName = doc.SelectSingleNode("//ContentName").InnerText;
-                
                 for (int i = 0; i < _npiece; ++i)
                 {
-                    _prototype[0]._sprite[i] = new GameSprite(content.Load<Texture2D>(contentName + i.ToString("0000")),(i % _cols) * _pieceWidth,(i / _cols) * _pieceHeight);
+                    _prototype[0]._sprite[i] = new GameSprite(content.Load<Texture2D>(contentName + i.ToString("0000")),(i % _cols) * _pieceWidth,(i / _cols) * _pieceHeight);                
                 }
-                
-                ((Map)_prototype[0]).MapWidth = _prototype[0]._sprite[0].Texture2D[0].Width * _cols;
-                ((Map)_prototype[0]).MapHeight = _prototype[0]._sprite[0].Texture2D[0].Height * _rows;
+                ((Map)_prototype[0]).Width = _prototype[0]._sprite[0].Texture2D[0].Width * _cols;
+                ((Map)_prototype[0]).Height = _prototype[0]._sprite[0].Texture2D[0].Height * _rows;
                 ((Map)_prototype[0]).Cols = _cols;
                 ((Map)_prototype[0]).Rows = _rows;
                 ((Map)_prototype[0]).RpF = GlobalVariables.ScreenHeight / _pieceHeight + 1;
                 ((Map)_prototype[0]).CpF = GlobalVariables.ScreenWidth / _pieceWidth + 1;
-
-                return true;
+                ((Map)_prototype[0]).StartPointX = int.Parse(doc.SelectSingleNode("//StartPointX").InnerText);
+                ((Map)_prototype[0]).StartPointY = int.Parse(doc.SelectSingleNode("//StartPointY").InnerText);
+             
+                string collisionName = doc.SelectSingleNode("//Collision").InnerText;
+                List<List<bool>> matrix = new List<List<bool>>();
+                int collisionUnitDim = int.Parse(doc.SelectSingleNode("//CollisionUnitDim").InnerText);
+                int collisionMatrixWith = ((Map)_prototype[0]).Width / collisionUnitDim;
+                int collisionMatrixHeight = ((Map)_prototype[0]).Height / collisionUnitDim;                
+                FileStream f = File.OpenRead(collisionName);
+                
+                List<bool> temp = new List<bool>();
+                while (true)
+                {
+                    int i = f.ReadByte();
+                    if (i == -1)
+                        break;
+                    if (i == '\r' || i == ' ' || i == '\n')
+                        continue;
+                    if (i == '1')
+                        temp.Add(true);
+                    else
+                        temp.Add(false);
+                    if (temp.Count == collisionMatrixWith)
+                    {
+                        matrix.Add(temp);
+                        temp = new List<bool>();
+                    }
+                }                
+                ((Map)_prototype[0]).Matrix = matrix;
+                ((Map)_prototype[0]).CollisionDim = collisionUnitDim;
+                 return true;
             }
             catch (Exception e)
             {

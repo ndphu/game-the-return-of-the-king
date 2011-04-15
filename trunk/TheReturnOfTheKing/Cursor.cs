@@ -16,6 +16,33 @@ namespace TheReturnOfTheKing
 {
     public class Cursor : Misc
     {
+        public override float X
+        {
+            get
+            {
+                return base.X;
+            }
+            set
+            {
+                base.X = value;
+                for (int i = 0; i < _nsprite; ++i)
+                    _sprite[i].X = value;
+            }
+        }
+
+        public override float Y
+        {
+            get
+            {
+                return base.Y;
+            }
+            set
+            {
+                base.Y = value;
+                for (int i = 0; i < _nsprite; ++i)
+                    _sprite[i].Y = value;
+            }
+        }
         private bool _isIdle = true;
 
         public bool IsIdle
@@ -63,7 +90,6 @@ namespace TheReturnOfTheKing
 
         public override void Init(ContentManager content)
         {
-
             try
             {
                 XmlDocument doc = new XmlDocument();
@@ -89,10 +115,11 @@ namespace TheReturnOfTheKing
         public override void Update(GameTime gameTime)
         {
             MouseState ms = Mouse.GetState();
+
             for (int i = 0; i < _nsprite; i++)
             {
-                _sprite[i].X = ms.X;
-                _sprite[i].Y = ms.Y;
+                X = ms.X - GlobalVariables.dX;
+                Y = ms.Y - GlobalVariables.dY;
             }
         }
 

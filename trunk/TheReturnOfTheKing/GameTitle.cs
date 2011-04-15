@@ -33,7 +33,33 @@ namespace TheReturnOfTheKing
             get { return _iDelayTime; }
             set { _iDelayTime = value; }
         }
+        public override float X
+        {
+            get
+            {
+                return base.X;
+            }
+            set
+            {
+                base.X = value;
+                for (int i = 0; i < _nsprite; ++i)
+                    _sprite[i].X = value;
+            }
+        }
 
+        public override float Y
+        {
+            get
+            {
+                return base.Y;
+            }
+            set
+            {
+                base.Y = value;
+                for (int i = 0; i < _nsprite; ++i)
+                    _sprite[i].Y = value;
+            }
+        }
         public override void  Init(ContentManager content)
         {
             _nsprite = 2;
