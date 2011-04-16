@@ -26,9 +26,9 @@ namespace TheReturnOfTheKing
             _mapManager.InitPrototypes(content, @"Data\Map\map01.xml");
             _map = (Map)_mapManager.CreateObject(0);
 
-            _charManager.InitPrototypes(content, "");
+            _charManager.InitPrototypes(content, @"data\character\character.xml");
 
-            _char = (Character)_charManager.CreateObject(0);
+            _char = (Character)_charManager.CreateObject(1);
             _char.SetMap(_map);
             _frog = new Frog();
             _frog.Init(content);
@@ -52,7 +52,8 @@ namespace TheReturnOfTheKing
                 if (ms.X < GlobalVariables.ScreenWidth && ms.Y < GlobalVariables.ScreenHeight && ms.X >= 0 && ms.Y >= 0)
                 {
                     Point newCell = _map.PointToCell(new Point((int)GlobalVariables.GameCursor.X, (int)GlobalVariables.GameCursor.Y));
-                    _char.CellToMove = Utility.FindPath(_map.Matrix, _map.PointToCell(new Point((int)_char.X, (int)_char.Y)), newCell);
+                    if (_map.Matrix[newCell.Y][newCell.X] == true)
+                        _char.CellToMove = Utility.FindPath(_map.Matrix, _map.PointToCell(new Point((int)_char.X, (int)_char.Y)), newCell);
                 }
             }
             

@@ -25,37 +25,36 @@ namespace TheReturnOfTheKing
         {
             try
             {
-                _nprototype = 1;
-                _prototype = new VisibleGameObject[_nprototype];
                 XmlDocument doc = new XmlDocument();
-                doc.Load(@"data\character\Kunkka.xml");
-                _prototype[0] = new Character();
-                _prototype[0]._nsprite = 24;
-                _prototype[0]._sprite = new GameSprite[_prototype[0]._nsprite];
-                
-                for (int i = 0; i < _nprototype; ++i)
+                doc.Load(fileName);
+                XmlNodeList nodelist = doc.SelectNodes(@"//Character");
+                _nprototype = nodelist.Count;
+                _prototype = new VisibleGameObject[_nprototype];
+                for (int i = 0; i < nodelist.Count; ++i)
                 {
-                    XmlNode node = doc.SelectSingleNode(@"Character/Stand");
+                    _prototype[i] = new Character();
+                    _prototype[i]._nsprite = 24;
+                    _prototype[i]._sprite = new GameSprite[_prototype[i]._nsprite];
+                    XmlNode node = nodelist[i].SelectSingleNode(@"Stand");
                     GameSprite[] temp = LoadSprites(node, content);
                     for (int j = 0; j < 8; ++j)
-                        _prototype[0]._sprite[j] = temp[j];
-                    node = doc.SelectSingleNode(@"Character/Move");
+                        _prototype[i]._sprite[j] = temp[j];
+                    node = nodelist[i].SelectSingleNode(@"Move");
                     temp = LoadSprites(node, content);
                     for (int j = 8; j < 16; ++j)
-                        _prototype[0]._sprite[j] = temp[j - 8];
-                    node = doc.SelectSingleNode(@"Character/Attack");
+                        _prototype[i]._sprite[j] = temp[j - 8];
+                    node = nodelist[i].SelectSingleNode(@"Attack");
                     temp = LoadSprites(node, content);
                     for (int j = 16; j < 24; ++j)
-                        _prototype[0]._sprite[j] = temp[j - 16];
-                    ((Character)_prototype[0]).CellToMove = new List<Point>();
-                    ((Character)_prototype[0]).DestPoint = new Point();
-                    ((Character)_prototype[0]).IsMoving = false;
-                    ((Character)_prototype[0]).Map = null;
-                    ((Character)_prototype[0]).Speed = int.Parse(doc.SelectSingleNode(@"Character/Speed").InnerText);
-                    ((Character)_prototype[0]).X = 0;
-                    ((Character)_prototype[0]).Y = 0;
+                        _prototype[i]._sprite[j] = temp[j - 16];
+                    ((Character)_prototype[i]).CellToMove = new List<Point>();
+                    ((Character)_prototype[i]).DestPoint = new Point();
+                    ((Character)_prototype[i]).IsMoving = false;
+                    ((Character)_prototype[i]).Map = null;
+                    ((Character)_prototype[i]).Speed = int.Parse(nodelist[i].SelectSingleNode(@"Speed").InnerText);
+                    ((Character)_prototype[i]).X = 0;
+                    ((Character)_prototype[i]).Y = 0;
                 }
-                
                 return true;
             }
             catch

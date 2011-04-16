@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Character>
+    <Speed>4</Speed>
+    <Stand>
+      <ContentName>img/character/fallenangel/stand/D</ContentName>
+      <NumOfFrames>8</NumOfFrames>
+      <XOffset>-63</XOffset>
+      <YOffset>-87</YOffset>
+    </Stand>
+    <Move>
+      <ContentName>img/character/fallenangel/move/D</ContentName>
+      <NumOfFrames>8</NumOfFrames>
+      <XOffset>-60</XOffset>
+      <YOffset>-87</YOffset>
+    </Move>
+    <Attack>
+      <ContentName>img/character/fallenangel/attack/D</ContentName>
+      <NumOfFrames>16</NumOfFrames>
+      <XOffset>-60</XOffset>
+      <YOffset>-87</YOffset>
+    </Attack>    
+  </Character>
+  <Character>
+    <Speed>4</Speed>
+    <Stand>
+      <ContentName>img/character/kunkka/stand/D</ContentName>
+      <NumOfFrames>8</NumOfFrames>
+      <XOffset>-28</XOffset>
+      <YOffset>-58</YOffset>
+    </Stand>
+    <Move>
+      <ContentName>img/character/kunkka/move/D</ContentName>
+      <NumOfFrames>10</NumOfFrames>
+      <XOffset>-33</XOffset>
+      <YOffset>-55</YOffset>
+    </Move>
+    <Attack>
+      <ContentName>img/character/kunkka/attack/D</ContentName>
+      <NumOfFrames>15</NumOfFrames>
+      <XOffset>-69</XOffset>
+      <YOffset>-90</YOffset>
+    </Attack>    
+  </Character>
+</root>

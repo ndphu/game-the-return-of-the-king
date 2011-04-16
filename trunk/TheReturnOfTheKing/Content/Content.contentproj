@@ -972,972 +972,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="img\map\map01\res00000000.jpg">
-      <Name>res00000000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000001.jpg">
-      <Name>res00000001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000002.jpg">
-      <Name>res00000002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000003.jpg">
-      <Name>res00000003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000004.jpg">
-      <Name>res00000004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000005.jpg">
-      <Name>res00000005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000006.jpg">
-      <Name>res00000006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000007.jpg">
-      <Name>res00000007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000008.jpg">
-      <Name>res00000008</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000009.jpg">
-      <Name>res00000009</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000010.jpg">
-      <Name>res00000010</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000011.jpg">
-      <Name>res00000011</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000012.jpg">
-      <Name>res00000012</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000013.jpg">
-      <Name>res00000013</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000014.jpg">
-      <Name>res00000014</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000015.jpg">
-      <Name>res00000015</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000016.jpg">
-      <Name>res00000016</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000017.jpg">
-      <Name>res00000017</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000018.jpg">
-      <Name>res00000018</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000019.jpg">
-      <Name>res00000019</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000020.jpg">
-      <Name>res00000020</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000021.jpg">
-      <Name>res00000021</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000022.jpg">
-      <Name>res00000022</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000023.jpg">
-      <Name>res00000023</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000024.jpg">
-      <Name>res00000024</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000025.jpg">
-      <Name>res00000025</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000026.jpg">
-      <Name>res00000026</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000027.jpg">
-      <Name>res00000027</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000028.jpg">
-      <Name>res00000028</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000029.jpg">
-      <Name>res00000029</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000030.jpg">
-      <Name>res00000030</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000031.jpg">
-      <Name>res00000031</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000032.jpg">
-      <Name>res00000032</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000033.jpg">
-      <Name>res00000033</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000034.jpg">
-      <Name>res00000034</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000035.jpg">
-      <Name>res00000035</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000036.jpg">
-      <Name>res00000036</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000037.jpg">
-      <Name>res00000037</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000038.jpg">
-      <Name>res00000038</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000039.jpg">
-      <Name>res00000039</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000040.jpg">
-      <Name>res00000040</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000041.jpg">
-      <Name>res00000041</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000042.jpg">
-      <Name>res00000042</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000043.jpg">
-      <Name>res00000043</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000044.jpg">
-      <Name>res00000044</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000045.jpg">
-      <Name>res00000045</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000046.jpg">
-      <Name>res00000046</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000047.jpg">
-      <Name>res00000047</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000048.jpg">
-      <Name>res00000048</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000049.jpg">
-      <Name>res00000049</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000050.jpg">
-      <Name>res00000050</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000051.jpg">
-      <Name>res00000051</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000052.jpg">
-      <Name>res00000052</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000053.jpg">
-      <Name>res00000053</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000054.jpg">
-      <Name>res00000054</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000055.jpg">
-      <Name>res00000055</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000056.jpg">
-      <Name>res00000056</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000057.jpg">
-      <Name>res00000057</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000058.jpg">
-      <Name>res00000058</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000059.jpg">
-      <Name>res00000059</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000060.jpg">
-      <Name>res00000060</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000061.jpg">
-      <Name>res00000061</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000062.jpg">
-      <Name>res00000062</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\map\map01\res00000063.jpg">
-      <Name>res00000063</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="img\character\FallenAngel\move\D00-%2804%29-F000.png">
-      <Name>D00-%2804%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D00-%2804%29-F001.png">
-      <Name>D00-%2804%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D00-%2804%29-F002.png">
-      <Name>D00-%2804%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D00-%2804%29-F003.png">
-      <Name>D00-%2804%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D00-%2804%29-F004.png">
-      <Name>D00-%2804%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D00-%2804%29-F005.png">
-      <Name>D00-%2804%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D00-%2804%29-F006.png">
-      <Name>D00-%2804%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D00-%2804%29-F007.png">
-      <Name>D00-%2804%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D01-%2800%29-F000.png">
-      <Name>D01-%2800%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D01-%2800%29-F001.png">
-      <Name>D01-%2800%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D01-%2800%29-F002.png">
-      <Name>D01-%2800%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D01-%2800%29-F003.png">
-      <Name>D01-%2800%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D01-%2800%29-F004.png">
-      <Name>D01-%2800%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D01-%2800%29-F005.png">
-      <Name>D01-%2800%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D01-%2800%29-F006.png">
-      <Name>D01-%2800%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D01-%2800%29-F007.png">
-      <Name>D01-%2800%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D02-%2805%29-F000.png">
-      <Name>D02-%2805%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D02-%2805%29-F001.png">
-      <Name>D02-%2805%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D02-%2805%29-F002.png">
-      <Name>D02-%2805%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D02-%2805%29-F003.png">
-      <Name>D02-%2805%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D02-%2805%29-F004.png">
-      <Name>D02-%2805%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D02-%2805%29-F005.png">
-      <Name>D02-%2805%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D02-%2805%29-F006.png">
-      <Name>D02-%2805%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D02-%2805%29-F007.png">
-      <Name>D02-%2805%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D03-%2801%29-F000.png">
-      <Name>D03-%2801%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D03-%2801%29-F001.png">
-      <Name>D03-%2801%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D03-%2801%29-F002.png">
-      <Name>D03-%2801%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D03-%2801%29-F003.png">
-      <Name>D03-%2801%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D03-%2801%29-F004.png">
-      <Name>D03-%2801%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D03-%2801%29-F005.png">
-      <Name>D03-%2801%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D03-%2801%29-F006.png">
-      <Name>D03-%2801%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D03-%2801%29-F007.png">
-      <Name>D03-%2801%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D04-%2806%29-F000.png">
-      <Name>D04-%2806%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D04-%2806%29-F001.png">
-      <Name>D04-%2806%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D04-%2806%29-F002.png">
-      <Name>D04-%2806%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D04-%2806%29-F003.png">
-      <Name>D04-%2806%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D04-%2806%29-F004.png">
-      <Name>D04-%2806%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D04-%2806%29-F005.png">
-      <Name>D04-%2806%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D04-%2806%29-F006.png">
-      <Name>D04-%2806%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D04-%2806%29-F007.png">
-      <Name>D04-%2806%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D05-%2802%29-F000.png">
-      <Name>D05-%2802%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D05-%2802%29-F001.png">
-      <Name>D05-%2802%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D05-%2802%29-F002.png">
-      <Name>D05-%2802%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D05-%2802%29-F003.png">
-      <Name>D05-%2802%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D05-%2802%29-F004.png">
-      <Name>D05-%2802%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D05-%2802%29-F005.png">
-      <Name>D05-%2802%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D05-%2802%29-F006.png">
-      <Name>D05-%2802%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D05-%2802%29-F007.png">
-      <Name>D05-%2802%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D06-%2807%29-F000.png">
-      <Name>D06-%2807%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D06-%2807%29-F001.png">
-      <Name>D06-%2807%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D06-%2807%29-F002.png">
-      <Name>D06-%2807%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D06-%2807%29-F003.png">
-      <Name>D06-%2807%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D06-%2807%29-F004.png">
-      <Name>D06-%2807%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D06-%2807%29-F005.png">
-      <Name>D06-%2807%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D06-%2807%29-F006.png">
-      <Name>D06-%2807%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D06-%2807%29-F007.png">
-      <Name>D06-%2807%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D07-%2803%29-F000.png">
-      <Name>D07-%2803%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D07-%2803%29-F001.png">
-      <Name>D07-%2803%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D07-%2803%29-F002.png">
-      <Name>D07-%2803%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D07-%2803%29-F003.png">
-      <Name>D07-%2803%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D07-%2803%29-F004.png">
-      <Name>D07-%2803%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D07-%2803%29-F005.png">
-      <Name>D07-%2803%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D07-%2803%29-F006.png">
-      <Name>D07-%2803%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\move\D07-%2803%29-F007.png">
-      <Name>D07-%2803%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="img\character\FallenAngel\stand\D00-%2804%29-F000.png">
-      <Name>D00-%2804%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D00-%2804%29-F001.png">
-      <Name>D00-%2804%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D00-%2804%29-F002.png">
-      <Name>D00-%2804%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D00-%2804%29-F003.png">
-      <Name>D00-%2804%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D00-%2804%29-F004.png">
-      <Name>D00-%2804%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D00-%2804%29-F005.png">
-      <Name>D00-%2804%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D00-%2804%29-F006.png">
-      <Name>D00-%2804%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D00-%2804%29-F007.png">
-      <Name>D00-%2804%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D01-%2800%29-F000.png">
-      <Name>D01-%2800%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D01-%2800%29-F001.png">
-      <Name>D01-%2800%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D01-%2800%29-F002.png">
-      <Name>D01-%2800%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D01-%2800%29-F003.png">
-      <Name>D01-%2800%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D01-%2800%29-F004.png">
-      <Name>D01-%2800%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D01-%2800%29-F005.png">
-      <Name>D01-%2800%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D01-%2800%29-F006.png">
-      <Name>D01-%2800%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D01-%2800%29-F007.png">
-      <Name>D01-%2800%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D02-%2805%29-F000.png">
-      <Name>D02-%2805%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D02-%2805%29-F001.png">
-      <Name>D02-%2805%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D02-%2805%29-F002.png">
-      <Name>D02-%2805%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D02-%2805%29-F003.png">
-      <Name>D02-%2805%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D02-%2805%29-F004.png">
-      <Name>D02-%2805%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D02-%2805%29-F005.png">
-      <Name>D02-%2805%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D02-%2805%29-F006.png">
-      <Name>D02-%2805%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D02-%2805%29-F007.png">
-      <Name>D02-%2805%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D03-%2801%29-F000.png">
-      <Name>D03-%2801%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D03-%2801%29-F001.png">
-      <Name>D03-%2801%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D03-%2801%29-F002.png">
-      <Name>D03-%2801%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D03-%2801%29-F003.png">
-      <Name>D03-%2801%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D03-%2801%29-F004.png">
-      <Name>D03-%2801%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D03-%2801%29-F005.png">
-      <Name>D03-%2801%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D03-%2801%29-F006.png">
-      <Name>D03-%2801%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D03-%2801%29-F007.png">
-      <Name>D03-%2801%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D04-%2806%29-F000.png">
-      <Name>D04-%2806%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D04-%2806%29-F001.png">
-      <Name>D04-%2806%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D04-%2806%29-F002.png">
-      <Name>D04-%2806%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D04-%2806%29-F003.png">
-      <Name>D04-%2806%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D04-%2806%29-F004.png">
-      <Name>D04-%2806%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D04-%2806%29-F005.png">
-      <Name>D04-%2806%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D04-%2806%29-F006.png">
-      <Name>D04-%2806%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D04-%2806%29-F007.png">
-      <Name>D04-%2806%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D05-%2802%29-F000.png">
-      <Name>D05-%2802%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D05-%2802%29-F001.png">
-      <Name>D05-%2802%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D05-%2802%29-F002.png">
-      <Name>D05-%2802%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D05-%2802%29-F003.png">
-      <Name>D05-%2802%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D05-%2802%29-F004.png">
-      <Name>D05-%2802%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D05-%2802%29-F005.png">
-      <Name>D05-%2802%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D05-%2802%29-F006.png">
-      <Name>D05-%2802%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D05-%2802%29-F007.png">
-      <Name>D05-%2802%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D06-%2807%29-F000.png">
-      <Name>D06-%2807%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D06-%2807%29-F001.png">
-      <Name>D06-%2807%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D06-%2807%29-F002.png">
-      <Name>D06-%2807%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D06-%2807%29-F003.png">
-      <Name>D06-%2807%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D06-%2807%29-F004.png">
-      <Name>D06-%2807%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D06-%2807%29-F005.png">
-      <Name>D06-%2807%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D06-%2807%29-F006.png">
-      <Name>D06-%2807%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D06-%2807%29-F007.png">
-      <Name>D06-%2807%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D07-%2803%29-F000.png">
-      <Name>D07-%2803%29-F000</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D07-%2803%29-F001.png">
-      <Name>D07-%2803%29-F001</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D07-%2803%29-F002.png">
-      <Name>D07-%2803%29-F002</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D07-%2803%29-F003.png">
-      <Name>D07-%2803%29-F003</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D07-%2803%29-F004.png">
-      <Name>D07-%2803%29-F004</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D07-%2803%29-F005.png">
-      <Name>D07-%2803%29-F005</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D07-%2803%29-F006.png">
-      <Name>D07-%2803%29-F006</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="img\character\FallenAngel\stand\D07-%2803%29-F007.png">
-      <Name>D07-%2803%29-F007</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="img\misc\frog\frog.png">
       <Name>frog</Name>
       <Importer>TextureImporter</Importer>
@@ -3265,6 +2299,1614 @@
       <Processor>TextureProcessor</Processor>
     </Compile>
     <Compile Include="img\character\Kunkka\stand\D07-07.png">
+      <Name>D07-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="img\map\map01\res00000000.jpg">
+      <Name>res00000000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000001.jpg">
+      <Name>res00000001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000002.jpg">
+      <Name>res00000002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000003.jpg">
+      <Name>res00000003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000004.jpg">
+      <Name>res00000004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000005.jpg">
+      <Name>res00000005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000006.jpg">
+      <Name>res00000006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000007.jpg">
+      <Name>res00000007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000008.jpg">
+      <Name>res00000008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000009.jpg">
+      <Name>res00000009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000010.jpg">
+      <Name>res00000010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000011.jpg">
+      <Name>res00000011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000012.jpg">
+      <Name>res00000012</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000013.jpg">
+      <Name>res00000013</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000014.jpg">
+      <Name>res00000014</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000015.jpg">
+      <Name>res00000015</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000016.jpg">
+      <Name>res00000016</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000017.jpg">
+      <Name>res00000017</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000018.jpg">
+      <Name>res00000018</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000019.jpg">
+      <Name>res00000019</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000020.jpg">
+      <Name>res00000020</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000021.jpg">
+      <Name>res00000021</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000022.jpg">
+      <Name>res00000022</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000023.jpg">
+      <Name>res00000023</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000024.jpg">
+      <Name>res00000024</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000025.jpg">
+      <Name>res00000025</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000026.jpg">
+      <Name>res00000026</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000027.jpg">
+      <Name>res00000027</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000028.jpg">
+      <Name>res00000028</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000029.jpg">
+      <Name>res00000029</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000030.jpg">
+      <Name>res00000030</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000031.jpg">
+      <Name>res00000031</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000032.jpg">
+      <Name>res00000032</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000033.jpg">
+      <Name>res00000033</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000034.jpg">
+      <Name>res00000034</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000035.jpg">
+      <Name>res00000035</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000036.jpg">
+      <Name>res00000036</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000037.jpg">
+      <Name>res00000037</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000038.jpg">
+      <Name>res00000038</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000039.jpg">
+      <Name>res00000039</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000040.jpg">
+      <Name>res00000040</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000041.jpg">
+      <Name>res00000041</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000042.jpg">
+      <Name>res00000042</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000043.jpg">
+      <Name>res00000043</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000044.jpg">
+      <Name>res00000044</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000045.jpg">
+      <Name>res00000045</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000046.jpg">
+      <Name>res00000046</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000047.jpg">
+      <Name>res00000047</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000048.jpg">
+      <Name>res00000048</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000049.jpg">
+      <Name>res00000049</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000050.jpg">
+      <Name>res00000050</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000051.jpg">
+      <Name>res00000051</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000052.jpg">
+      <Name>res00000052</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000053.jpg">
+      <Name>res00000053</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000054.jpg">
+      <Name>res00000054</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000055.jpg">
+      <Name>res00000055</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000056.jpg">
+      <Name>res00000056</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000057.jpg">
+      <Name>res00000057</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000058.jpg">
+      <Name>res00000058</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000059.jpg">
+      <Name>res00000059</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000060.jpg">
+      <Name>res00000060</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000061.jpg">
+      <Name>res00000061</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000062.jpg">
+      <Name>res00000062</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\map\map01\res00000063.jpg">
+      <Name>res00000063</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="img\character\FallenAngel\attack\D00-00.png">
+      <Name>D00-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D00-01.png">
+      <Name>D00-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D00-02.png">
+      <Name>D00-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D00-03.png">
+      <Name>D00-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D00-04.png">
+      <Name>D00-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D00-05.png">
+      <Name>D00-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D00-06.png">
+      <Name>D00-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D00-07.png">
+      <Name>D00-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D00-08.png">
+      <Name>D00-08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D00-09.png">
+      <Name>D00-09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D00-10.png">
+      <Name>D00-10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D00-11.png">
+      <Name>D00-11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D00-12.png">
+      <Name>D00-12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D00-13.png">
+      <Name>D00-13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D00-14.png">
+      <Name>D00-14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D00-15.png">
+      <Name>D00-15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-00.png">
+      <Name>D01-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-01.png">
+      <Name>D01-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-02.png">
+      <Name>D01-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-03.png">
+      <Name>D01-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-04.png">
+      <Name>D01-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-05.png">
+      <Name>D01-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-06.png">
+      <Name>D01-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-07.png">
+      <Name>D01-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-08.png">
+      <Name>D01-08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-09.png">
+      <Name>D01-09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-10.png">
+      <Name>D01-10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-11.png">
+      <Name>D01-11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-12.png">
+      <Name>D01-12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-13.png">
+      <Name>D01-13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-14.png">
+      <Name>D01-14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D01-15.png">
+      <Name>D01-15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-00.png">
+      <Name>D02-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-01.png">
+      <Name>D02-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-02.png">
+      <Name>D02-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-03.png">
+      <Name>D02-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-04.png">
+      <Name>D02-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-05.png">
+      <Name>D02-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-06.png">
+      <Name>D02-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-07.png">
+      <Name>D02-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-08.png">
+      <Name>D02-08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-09.png">
+      <Name>D02-09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-10.png">
+      <Name>D02-10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-11.png">
+      <Name>D02-11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-12.png">
+      <Name>D02-12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-13.png">
+      <Name>D02-13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-14.png">
+      <Name>D02-14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D02-15.png">
+      <Name>D02-15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-00.png">
+      <Name>D03-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-01.png">
+      <Name>D03-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-02.png">
+      <Name>D03-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-03.png">
+      <Name>D03-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-04.png">
+      <Name>D03-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-05.png">
+      <Name>D03-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-06.png">
+      <Name>D03-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-07.png">
+      <Name>D03-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-08.png">
+      <Name>D03-08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-09.png">
+      <Name>D03-09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-10.png">
+      <Name>D03-10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-11.png">
+      <Name>D03-11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-12.png">
+      <Name>D03-12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-13.png">
+      <Name>D03-13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-14.png">
+      <Name>D03-14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D03-15.png">
+      <Name>D03-15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-00.png">
+      <Name>D04-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-01.png">
+      <Name>D04-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-02.png">
+      <Name>D04-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-03.png">
+      <Name>D04-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-04.png">
+      <Name>D04-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-05.png">
+      <Name>D04-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-06.png">
+      <Name>D04-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-07.png">
+      <Name>D04-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-08.png">
+      <Name>D04-08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-09.png">
+      <Name>D04-09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-10.png">
+      <Name>D04-10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-11.png">
+      <Name>D04-11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-12.png">
+      <Name>D04-12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-13.png">
+      <Name>D04-13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-14.png">
+      <Name>D04-14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D04-15.png">
+      <Name>D04-15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-00.png">
+      <Name>D05-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-01.png">
+      <Name>D05-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-02.png">
+      <Name>D05-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-03.png">
+      <Name>D05-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-04.png">
+      <Name>D05-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-05.png">
+      <Name>D05-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-06.png">
+      <Name>D05-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-07.png">
+      <Name>D05-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-08.png">
+      <Name>D05-08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-09.png">
+      <Name>D05-09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-10.png">
+      <Name>D05-10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-11.png">
+      <Name>D05-11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-12.png">
+      <Name>D05-12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-13.png">
+      <Name>D05-13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-14.png">
+      <Name>D05-14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D05-15.png">
+      <Name>D05-15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-00.png">
+      <Name>D06-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-01.png">
+      <Name>D06-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-02.png">
+      <Name>D06-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-03.png">
+      <Name>D06-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-04.png">
+      <Name>D06-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-05.png">
+      <Name>D06-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-06.png">
+      <Name>D06-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-07.png">
+      <Name>D06-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-08.png">
+      <Name>D06-08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-09.png">
+      <Name>D06-09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-10.png">
+      <Name>D06-10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-11.png">
+      <Name>D06-11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-12.png">
+      <Name>D06-12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-13.png">
+      <Name>D06-13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-14.png">
+      <Name>D06-14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D06-15.png">
+      <Name>D06-15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-00.png">
+      <Name>D07-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-01.png">
+      <Name>D07-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-02.png">
+      <Name>D07-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-03.png">
+      <Name>D07-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-04.png">
+      <Name>D07-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-05.png">
+      <Name>D07-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-06.png">
+      <Name>D07-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-07.png">
+      <Name>D07-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-08.png">
+      <Name>D07-08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-09.png">
+      <Name>D07-09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-10.png">
+      <Name>D07-10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-11.png">
+      <Name>D07-11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-12.png">
+      <Name>D07-12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-13.png">
+      <Name>D07-13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-14.png">
+      <Name>D07-14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\attack\D07-15.png">
+      <Name>D07-15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="img\character\FallenAngel\move\D00-00.png">
+      <Name>D00-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D00-01.png">
+      <Name>D00-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D00-02.png">
+      <Name>D00-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D00-03.png">
+      <Name>D00-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D00-04.png">
+      <Name>D00-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D00-05.png">
+      <Name>D00-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D00-06.png">
+      <Name>D00-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D00-07.png">
+      <Name>D00-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D01-00.png">
+      <Name>D01-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D01-01.png">
+      <Name>D01-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D01-02.png">
+      <Name>D01-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D01-03.png">
+      <Name>D01-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D01-04.png">
+      <Name>D01-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D01-05.png">
+      <Name>D01-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D01-06.png">
+      <Name>D01-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D01-07.png">
+      <Name>D01-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D02-00.png">
+      <Name>D02-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D02-01.png">
+      <Name>D02-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D02-02.png">
+      <Name>D02-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D02-03.png">
+      <Name>D02-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D02-04.png">
+      <Name>D02-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D02-05.png">
+      <Name>D02-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D02-06.png">
+      <Name>D02-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D02-07.png">
+      <Name>D02-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D03-00.png">
+      <Name>D03-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D03-01.png">
+      <Name>D03-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D03-02.png">
+      <Name>D03-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D03-03.png">
+      <Name>D03-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D03-04.png">
+      <Name>D03-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D03-05.png">
+      <Name>D03-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D03-06.png">
+      <Name>D03-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D03-07.png">
+      <Name>D03-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D04-00.png">
+      <Name>D04-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D04-01.png">
+      <Name>D04-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D04-02.png">
+      <Name>D04-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D04-03.png">
+      <Name>D04-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D04-04.png">
+      <Name>D04-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D04-05.png">
+      <Name>D04-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D04-06.png">
+      <Name>D04-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D04-07.png">
+      <Name>D04-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D05-00.png">
+      <Name>D05-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D05-01.png">
+      <Name>D05-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D05-02.png">
+      <Name>D05-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D05-03.png">
+      <Name>D05-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D05-04.png">
+      <Name>D05-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D05-05.png">
+      <Name>D05-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D05-06.png">
+      <Name>D05-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D05-07.png">
+      <Name>D05-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D06-00.png">
+      <Name>D06-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D06-01.png">
+      <Name>D06-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D06-02.png">
+      <Name>D06-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D06-03.png">
+      <Name>D06-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D06-04.png">
+      <Name>D06-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D06-05.png">
+      <Name>D06-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D06-06.png">
+      <Name>D06-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D06-07.png">
+      <Name>D06-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D07-00.png">
+      <Name>D07-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D07-01.png">
+      <Name>D07-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D07-02.png">
+      <Name>D07-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D07-03.png">
+      <Name>D07-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D07-04.png">
+      <Name>D07-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D07-05.png">
+      <Name>D07-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D07-06.png">
+      <Name>D07-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\move\D07-07.png">
+      <Name>D07-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="img\character\FallenAngel\stand\D00-00.png">
+      <Name>D00-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D00-01.png">
+      <Name>D00-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D00-02.png">
+      <Name>D00-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D00-03.png">
+      <Name>D00-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D00-04.png">
+      <Name>D00-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D00-05.png">
+      <Name>D00-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D00-06.png">
+      <Name>D00-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D00-07.png">
+      <Name>D00-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D01-00.png">
+      <Name>D01-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D01-01.png">
+      <Name>D01-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D01-02.png">
+      <Name>D01-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D01-03.png">
+      <Name>D01-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D01-04.png">
+      <Name>D01-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D01-05.png">
+      <Name>D01-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D01-06.png">
+      <Name>D01-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D01-07.png">
+      <Name>D01-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D02-00.png">
+      <Name>D02-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D02-01.png">
+      <Name>D02-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D02-02.png">
+      <Name>D02-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D02-03.png">
+      <Name>D02-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D02-04.png">
+      <Name>D02-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D02-05.png">
+      <Name>D02-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D02-06.png">
+      <Name>D02-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D02-07.png">
+      <Name>D02-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D03-00.png">
+      <Name>D03-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D03-01.png">
+      <Name>D03-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D03-02.png">
+      <Name>D03-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D03-03.png">
+      <Name>D03-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D03-04.png">
+      <Name>D03-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D03-05.png">
+      <Name>D03-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D03-06.png">
+      <Name>D03-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D03-07.png">
+      <Name>D03-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D04-00.png">
+      <Name>D04-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D04-01.png">
+      <Name>D04-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D04-02.png">
+      <Name>D04-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D04-03.png">
+      <Name>D04-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D04-04.png">
+      <Name>D04-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D04-05.png">
+      <Name>D04-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D04-06.png">
+      <Name>D04-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D04-07.png">
+      <Name>D04-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D05-00.png">
+      <Name>D05-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D05-01.png">
+      <Name>D05-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D05-02.png">
+      <Name>D05-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D05-03.png">
+      <Name>D05-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D05-04.png">
+      <Name>D05-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D05-05.png">
+      <Name>D05-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D05-06.png">
+      <Name>D05-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D05-07.png">
+      <Name>D05-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D06-00.png">
+      <Name>D06-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D06-01.png">
+      <Name>D06-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D06-02.png">
+      <Name>D06-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D06-03.png">
+      <Name>D06-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D06-04.png">
+      <Name>D06-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D06-05.png">
+      <Name>D06-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D06-06.png">
+      <Name>D06-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D06-07.png">
+      <Name>D06-07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D07-00.png">
+      <Name>D07-00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D07-01.png">
+      <Name>D07-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D07-02.png">
+      <Name>D07-02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D07-03.png">
+      <Name>D07-03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D07-04.png">
+      <Name>D07-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D07-05.png">
+      <Name>D07-05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D07-06.png">
+      <Name>D07-06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="img\character\FallenAngel\stand\D07-07.png">
       <Name>D07-07</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>

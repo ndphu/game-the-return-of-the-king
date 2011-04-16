@@ -120,7 +120,7 @@
     <Compile Include="XMLUtility.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Data\Character\Kunkka.xml">
+    <Content Include="Data\Character\character.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Data\Map\map01.txt">
