@@ -16,18 +16,24 @@ namespace TheReturnOfTheKing
     public class StateMainGame : GameState
     {
         Map _map;
-        MapManager _mapManger = new MapManager();
+        MapManager _mapManager = new MapManager();
+        CharacterManager _charManager = new CharacterManager();
         Character _char;
         Frog _frog;
         public override void InitState(ContentManager content, MainGame owner)
         {
             base.InitState(content, owner);
-            _mapManger.InitPrototypes(content, @"Data\Map\map01.xml");
-            _map = (Map)_mapManger.CreateObject(0);            
-            _char = new Character(_map, content);
+            _mapManager.InitPrototypes(content, @"Data\Map\map01.xml");
+            _map = (Map)_mapManager.CreateObject(0);
+
+            _charManager.InitPrototypes(content, "");
+
+            _char = (Character)_charManager.CreateObject(0);
+            _char.SetMap(_map);
             _frog = new Frog();
             _frog.Init(content);
             _frog.SetCharacter(_char);
+
         }
 
         public override void EnterState()
@@ -50,7 +56,7 @@ namespace TheReturnOfTheKing
                 }
             }
             
-            //GlobalVariables.GameCursor.Update(gameTime);
+            GlobalVariables.GameCursor.Update(gameTime);
             _char.Update(gameTime);
             _frog.Update(gameTime);
         }
@@ -61,7 +67,7 @@ namespace TheReturnOfTheKing
             _map.Draw(gameTime, sb);
             _char.Draw(gameTime, sb);
             _frog.Draw(gameTime, sb);
-            //GlobalVariables.GameCursor.Draw(gameTime, sb);
+            GlobalVariables.GameCursor.Draw(gameTime, sb);
         }
 
         public override void ExitState()

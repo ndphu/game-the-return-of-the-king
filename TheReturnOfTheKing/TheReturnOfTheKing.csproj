@@ -86,6 +86,7 @@
   <ItemGroup>
     <Compile Include="ButtonManger.cs" />
     <Compile Include="Character.cs" />
+    <Compile Include="CharacterManager.cs" />
     <Compile Include="Cursor.cs" />
     <Compile Include="Dialog.cs" />
     <Compile Include="Frog.cs" />
@@ -119,6 +120,9 @@
     <Compile Include="XMLUtility.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Data\Character\Kunkka.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Data\Map\map01.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -175,6 +179,9 @@
       <ProductName>Microsoft XNA Framework Redistributable 3.1</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram2.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
