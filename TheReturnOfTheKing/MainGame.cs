@@ -75,7 +75,7 @@ namespace TheReturnOfTheKing
             GlobalVariables.GameCursor = new Cursor();
             GlobalVariables.GameCursor.Init(Content);
 
-            _gameState = new StateMainGame();
+            _gameState = new StateMenu();
             _gameState.InitState(Content, this);
             _gameState.EnterState();
         }
