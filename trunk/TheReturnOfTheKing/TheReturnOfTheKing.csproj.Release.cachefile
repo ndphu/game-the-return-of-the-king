@@ -373,3 +373,10 @@ Content\img\character\stand\D07-(03)-F005.xnb
 Content\img\character\stand\D07-(03)-F006.xnb
 Content\img\character\stand\D07-(03)-F007.xnb
 Content\img\misc\frog\frog.xnb
+Data\Map\map01.txt
+Data\Map\map01.xml
+Data\XML\buttonmanager.xml
+Data\XML\gamecursor.xml
+Data\XML\gametitle.xml
+Data\XML\menubg.xml
+Data\XML\menumanager.xml
