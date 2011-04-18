@@ -24,6 +24,27 @@
   <Character>
     <Speed>4</Speed>
     <Stand>
+      <ContentName>img/character/demon/stand/D</ContentName>
+      <NumOfFrames>8</NumOfFrames>
+      <XOffset>-80</XOffset>
+      <YOffset>-116</YOffset>
+    </Stand>
+    <Move>
+      <ContentName>img/character/demon/move/D</ContentName>
+      <NumOfFrames>8</NumOfFrames>
+      <XOffset>-70</XOffset>
+      <YOffset>-121</YOffset>
+    </Move>
+    <Attack>
+      <ContentName>img/character/demon/attack/D</ContentName>
+      <NumOfFrames>16</NumOfFrames>
+      <XOffset>-95</XOffset>
+      <YOffset>-139</YOffset>
+    </Attack>
+  </Character>
+  <Character>
+    <Speed>4</Speed>
+    <Stand>
       <ContentName>img/character/kunkka/stand/D</ContentName>
       <NumOfFrames>8</NumOfFrames>
       <XOffset>-28</XOffset>

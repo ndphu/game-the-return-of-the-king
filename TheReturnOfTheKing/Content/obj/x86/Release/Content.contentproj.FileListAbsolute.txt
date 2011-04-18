@@ -1,1 +1,2 @@
 D:\Users\SIEUNHAN\Desktop\LTGame\TheReturnOfTheKing\Content\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Users\SIEUNHAN\Desktop\LTGAME new\TheReturnOfTheKing\Content\obj\x86\Release\ResolveAssemblyReference.cache
