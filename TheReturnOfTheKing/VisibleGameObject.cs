@@ -33,9 +33,7 @@ namespace TheReturnOfTheKing
             get { return _x; }
             set 
             {
-                _x = value;                
-                /*for (int i = 0; i < _nsprite; ++i)
-                    _sprite[i].X = _x;*/
+                _x = value; 
             }
         }
 
@@ -47,9 +45,6 @@ namespace TheReturnOfTheKing
             set
             {
                 _y = value;
-
-                /*for (int i = 0; i < _nsprite; ++i)
-                    _sprite[i].Y = _y;*/
             }
         }
 

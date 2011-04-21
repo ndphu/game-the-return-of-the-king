@@ -10,6 +10,7 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using Microsoft.Xna.Framework.Net;
 using Microsoft.Xna.Framework.Storage;
+using System.Xml;
 
 namespace TheReturnOfTheKing
 {
@@ -17,14 +18,17 @@ namespace TheReturnOfTheKing
     {
         public override void Init(ContentManager content)
         {
-            XMLUtility xml = new XMLUtility(@".\Data\XML\menubg.xml");
+            XmlDocument doc = new XmlDocument();
+            doc.Load(@"Data\XML\menubg.xml");
             //_nsprite = 1;  
-            _nsprite = int.Parse(xml.GetElementValue(@"NumOfFrames"));
-            string contentname = xml.GetElementValue(@"ContentName");
+            _nsprite = int.Parse(doc.SelectSingleNode(@"//NumOfFrames").InnerText);
+            string contentname = doc.SelectSingleNode(@"//ContentName").InnerText;
             _sprite = new GameSprite[_nsprite];
-            _sprite[0] = new GameSprite(content.Load<Texture2D>(contentname), int.Parse(xml.GetElementValue(@"X")), int.Parse(xml.GetElementValue(@"Y")));
+            _sprite[0] = new GameSprite(content.Load<Texture2D>(contentname), int.Parse(doc.SelectSingleNode(@"//X").InnerText), int.Parse(doc.SelectSingleNode(@"//Y").InnerText));
             
         }
+
+       
 
         public override void Draw(GameTime gameTime, SpriteBatch sb)
         {

@@ -53,8 +53,8 @@ namespace TheReturnOfTheKing
                 string collisionName = doc.SelectSingleNode("//Collision").InnerText;
                 List<List<bool>> matrix = new List<List<bool>>();
                 int collisionUnitDim = int.Parse(doc.SelectSingleNode("//CollisionUnitDim").InnerText);
-                int collisionMatrixWith = ((Map)_prototype[0]).Width / collisionUnitDim;
-                int collisionMatrixHeight = ((Map)_prototype[0]).Height / collisionUnitDim;                
+                int collisionMatrixWith = (int)((Map)_prototype[0]).Width / collisionUnitDim;
+                int collisionMatrixHeight = (int)((Map)_prototype[0]).Height / collisionUnitDim;                
                 FileStream f = File.OpenRead(collisionName);
                 
                 List<bool> temp = new List<bool>();
@@ -77,6 +77,20 @@ namespace TheReturnOfTheKing
                 }                
                 ((Map)_prototype[0]).Matrix = matrix;
                 ((Map)_prototype[0]).CollisionDim = collisionUnitDim;
+
+                XmlNodeList Monsters = doc.SelectNodes(@"//Monster");
+                ((Map)_prototype[0]).LstMonster = new List<Monster>();
+                for (int i = 0; i < Monsters.Count; ++i)
+                {
+                    Monster mst = (Monster)GlobalVariables.MonsterManager.CreateObject(int.Parse(Monsters[i].SelectSingleNode(@"Type").InnerText));                    
+                    ((Map)_prototype[0]).LstMonster.Add(mst);
+                    ((Map)_prototype[0]).LstMonster[i].X = int.Parse(Monsters[i].SelectSingleNode(@"X").InnerText) * collisionUnitDim;
+                    ((Map)_prototype[0]).LstMonster[i].Y = int.Parse(Monsters[i].SelectSingleNode(@"Y").InnerText) * collisionUnitDim;
+                    ((Map)_prototype[0]).LstMonster[i].DestPoint = new Point((int)mst.X, (int)mst.Y);
+                    ((Map)_prototype[0]).LstMonster[i].CellToMove = new List<Point>();
+                    ((Map)_prototype[0]).LstMonster[i].IsMoving = false;
+                }
+
                  return true;
             }
             catch (Exception e)

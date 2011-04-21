@@ -15,9 +15,10 @@ namespace TheReturnOfTheKing
 {
     public class Frog : Misc
     {
-        Character _character;
+        SpriteFont sf;
+        PlayerCharacter _character;
 
-        public Character Character
+        public PlayerCharacter Character
         {
             get { return _character; }
             set { _character = value; }
@@ -54,10 +55,11 @@ namespace TheReturnOfTheKing
         {
             _nsprite = 1;
             _sprite = new GameSprite[1];
-            _sprite[0] = new GameSprite(content.Load<Texture2D>("img/misc/frog/frog"), 0, 0);            
+            _sprite[0] = new GameSprite(content.Load<Texture2D>("img/misc/frog/frog"), 0, 0);
+            sf = content.Load<SpriteFont>("sf");
         }
 
-        public void SetCharacter(Character _char)
+        public void SetCharacter(PlayerCharacter _char)
         {
             _character = _char;
         }
@@ -73,6 +75,9 @@ namespace TheReturnOfTheKing
         {
             //base.Draw(gameTime, sb);
             sb.Draw(_sprite[0].Texture2D[0], new Vector2(X + GlobalVariables.dX, Y + GlobalVariables.dY), Color.White);
+            sb.DrawString(sf, "HP: " + _character.Hp.ToString(), new Vector2(0, 20), Color.Red);
+            sb.DrawString(sf, "MP: " + _character.Mp.ToString(), new Vector2(0, 45), Color.Blue);
+            sb.DrawString(sf, "XP: " + _character.Xp.ToString(), new Vector2(0, 70), Color.White);
         }
     }
 }

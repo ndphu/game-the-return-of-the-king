@@ -17,19 +17,23 @@ namespace TheReturnOfTheKing
     {
         Map _map;
         MapManager _mapManager = new MapManager();
-        CharacterManager _charManager = new CharacterManager();
-        Character _char;
+        PlayerCharacterManager _charManager = new PlayerCharacterManager();        
+        List<Monster> _listMonsters = new List<Monster>();        
+        PlayerCharacter _char;
         Frog _frog;
         public override void InitState(ContentManager content, MainGame owner)
         {
             base.InitState(content, owner);
+            GlobalVariables.MonsterManager = new MonsterManager();
+            GlobalVariables.MonsterManager.InitPrototypes(content, @"Data\monster\monster.xml");
+            _charManager.InitPrototypes(content, @"Data\character\character.xml");
             _mapManager.InitPrototypes(content, @"Data\Map\map01.xml");
-            _map = (Map)_mapManager.CreateObject(0);
-
-            _charManager.InitPrototypes(content, @"data\character\character.xml");
-
-            _char = (Character)_charManager.CreateObject(1);
+            _map = (Map)_mapManager.CreateObject(0);            
+            
+            _char = (PlayerCharacter)_charManager.CreateObject(0);            
             _char.SetMap(_map);
+            _listMonsters = _map.InitMonsterList();
+
             _frog = new Frog();
             _frog.Init(content);
             _frog.SetCharacter(_char);
@@ -58,17 +62,30 @@ namespace TheReturnOfTheKing
             }
             
             GlobalVariables.GameCursor.Update(gameTime);
+   
             _char.Update(gameTime);
             _frog.Update(gameTime);
+            for (int i = 0; i < _listMonsters.Count; ++i)
+            {
+                _listMonsters[i].Update(gameTime);
+                if (_listMonsters[i].IsCollisionWith(_char))
+                    _listMonsters[i].BeginAttack(_char);
+                else
+                    _listMonsters[i].EndAttack(_char);
+            }
         }
 
         public override void DrawState(GameTime gameTime, SpriteBatch sb)
         {
             base.DrawState(gameTime, sb);
             _map.Draw(gameTime, sb);
+            for (int i = 0; i < _listMonsters.Count; ++i)
+                _listMonsters[i].Draw(gameTime, sb);
             _char.Draw(gameTime, sb);
             _frog.Draw(gameTime, sb);
+
             GlobalVariables.GameCursor.Draw(gameTime, sb);
+
         }
 
         public override void ExitState()

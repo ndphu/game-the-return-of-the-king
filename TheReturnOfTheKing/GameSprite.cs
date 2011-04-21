@@ -120,5 +120,21 @@ namespace TheReturnOfTheKing
         {
             sb.Draw(_texture2D[_itexture2D], new Vector2(_x + GlobalVariables.dX + Xoffset, _y + GlobalVariables.dY + Yoffset), Color.White);
         }
+
+        public GameSprite Clone()
+        {
+            return new GameSprite(this.Texture2D,this.X,this.Y)
+            {
+                _check = this._check,
+                Itexture2D = this.Itexture2D,
+                NDelay = this.NDelay,
+                Ntexture2D = this.Ntexture2D,
+                Texture2D = this.Texture2D,
+                X = this.X,
+                Y = this.Y,
+                Xoffset = this.Xoffset,
+                Yoffset = this.Yoffset,                
+            };
+        }
     }
 }
