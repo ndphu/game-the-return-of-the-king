@@ -14,8 +14,84 @@ using Microsoft.Xna.Framework.Storage;
 
 namespace TheReturnOfTheKing
 {
-    public class Character : VisibleGameObject
+    public class Character : VisibleGameEntity
     {
+        /// <summary>
+        /// Máu
+        /// </summary>
+        int _hp;
+
+        public int Hp
+        {
+            get { return _hp; }
+            set { _hp = value; }
+        }
+        /// <summary>
+        /// Mana
+        /// </summary>
+        int _mp;
+
+        public int Mp
+        {
+            get { return _mp; }
+            set { _mp = value; }
+        }
+       
+        /// <summary>
+        /// Bán kính tấn công
+        /// </summary>
+        int _range;
+
+        public int Range
+        {
+            get { return _range; }
+            set { _range = value; }
+        }
+        /// <summary>
+        /// Tốc độ đánh
+        /// Tính từ lúc bắt đầu nhận lệnh tấn công cho đến lúc thực sự gây ra sát thương
+        /// </summary>
+        int _attackSpeed;
+
+        public int AttackSpeed
+        {
+            get { return _attackSpeed; }
+            set { _attackSpeed = value; }
+        }
+        /// <summary>
+        /// Lực sát thương
+        /// </summary>
+        int _attack;
+
+        public int Attack
+        {
+            get { return _attack; }
+            set { _attack = value; }
+        }
+        /// <summary>
+        /// Phòng thủ
+        /// </summary>
+        int _defense;
+
+        public int Defense
+        {
+            get { return _defense; }
+            set { _defense = value; }
+        }
+        /// <summary>
+        /// Tỉ lệ tấn công chí mạng (tính theo %)
+        /// </summary>
+        int _criticalRate;
+
+        public int CriticalRate
+        {
+            get { return _criticalRate; }
+            set { _criticalRate = value; }
+        }
+
+        /// <summary>
+        /// Hình chữ nhật để xét va chạm
+        /// </summary>
         Rectangle _collisionRect;
 
         public Rectangle CollisionRect
@@ -23,7 +99,9 @@ namespace TheReturnOfTheKing
             get { return _collisionRect; }
             set { _collisionRect = value; }
         }
-
+        /// <summary>
+        /// Bản đồ nhân vật ở trên đó
+        /// </summary>
         Map _map;
 
         public Map Map
@@ -31,6 +109,10 @@ namespace TheReturnOfTheKing
             get { return _map; }
             set { _map = value; }
         }
+
+        /// <summary>
+        /// X
+        /// </summary>
         public override float X
         {
             get
@@ -42,9 +124,12 @@ namespace TheReturnOfTheKing
                 base.X = value;
                 for (int i = 0; i < _nsprite; ++i)
                     _sprite[i].X = value;
+                CollisionRect = new Rectangle((int)X, (int)Y, (int)this._sprite[0].Texture2D[0].Width, _sprite[0].Texture2D[0].Height);
             }
         }
-
+        /// <summary>
+        /// Y
+        /// </summary>
         public override float Y
         {
             get
@@ -56,9 +141,12 @@ namespace TheReturnOfTheKing
                 base.Y = value;
                 for (int i = 0; i < _nsprite; ++i)
                     _sprite[i].Y = value;
+                CollisionRect = new Rectangle((int)X, (int)Y, (int)this._sprite[0].Texture2D[0].Width, _sprite[0].Texture2D[0].Height);
             }
         }
-
+        /// <summary>
+        /// Danh sách các ô còn phải di chuyển tiếp theo
+        /// </summary>
         List<Point> cellToMove;
 
         public List<Point> CellToMove
@@ -66,7 +154,9 @@ namespace TheReturnOfTheKing
             get { return cellToMove; }
             set { cellToMove = value; }
         }
-
+        /// <summary>
+        /// Đang trong trạng thái di chuyển
+        /// </summary>
         bool _isMoving;
 
         public bool IsMoving
@@ -74,7 +164,19 @@ namespace TheReturnOfTheKing
             get { return _isMoving; }
             set { _isMoving = value; }
         }
+        /// <summary>
+        /// Đang trong trạng thái tấn công
+        /// </summary>
+        bool _isAttacking;
 
+        public bool IsAttacking
+        {
+            get { return _isAttacking; }
+            set { _isAttacking = value; }
+        }
+        /// <summary>
+        /// Tốc độ di chuyển
+        /// </summary>
         int _speed;
 
         public int Speed
@@ -82,9 +184,19 @@ namespace TheReturnOfTheKing
             get { return _speed; }
             set { _speed = value; }
         }
-
+        /// <summary>
+        /// Hướng hiện tại
+        /// </summary>
         int _dir = 0;
-        Vector2 _transVector = new Vector2(0,0);
+
+        public int Dir
+        {
+            get { return _dir; }
+            set { _dir = value; }
+        }
+        /// <summary>
+        /// Đích đến
+        /// </summary>
         Point _destPoint;
 
         public Point DestPoint
@@ -95,14 +207,17 @@ namespace TheReturnOfTheKing
         public Character()
         {
         }
+        /// <summary>
+        /// Gán nhân vật với bản đồ
+        /// </summary>
+        /// <param name="map">Bản đồ cần gán</param>
         public void SetMap(Map map)
         {
             X = map.StartPointX * map.CollisionDim;
             Y = map.StartPointY * map.CollisionDim;
             GlobalVariables.dX = Math.Min(-X + GlobalVariables.ScreenWidth / 2, 0);
             GlobalVariables.dY = Math.Min(-Y + GlobalVariables.ScreenHeight / 2, 0);
-            _destPoint = new Point((int)X, (int)Y);
-            _speed = 4;
+            _destPoint = new Point((int)X, (int)Y);            
             _map = map;
             cellToMove = new List<Point>();
             IsMoving = false;
@@ -113,90 +228,8 @@ namespace TheReturnOfTheKing
         }
 
         public override void Update(GameTime gameTime)
-        {  
-            if (cellToMove.Count != 0 && !IsMoving)
-            {
-                UpdateDirection(cellToMove[cellToMove.Count - 1].X * _map.CollisionDim, cellToMove[cellToMove.Count - 1].Y * _map.CollisionDim);
-                cellToMove.RemoveAt(cellToMove.Count - 1);
-            }
-
-            _sprite[_dir].Update(gameTime);
-
-            if (this.Y == _destPoint.Y && this.X < _destPoint.X)
-            {
-                this.X += Speed;
-                if (this.X > GlobalVariables.ScreenWidth / 2 && GlobalVariables.dX > GlobalVariables.ScreenWidth - _map.Width)
-                    GlobalVariables.dX -= Speed;
-            }
-            else
-                if (this.Y > _destPoint.Y && this.X < _destPoint.X)
-                {
-                    this.X += (float)(Speed / Math.Sqrt(2));                    
-                    this.Y -= (float)(Speed / Math.Sqrt(2));
-                    if (this.X > GlobalVariables.ScreenWidth / 2 && GlobalVariables.dX > GlobalVariables.ScreenWidth - _map.Width)
-                        GlobalVariables.dX -= (float)(Speed / Math.Sqrt(2));
-                    if (GlobalVariables.dY < 0 && this.Y < _map.Height - GlobalVariables.ScreenHeight / 2)
-                        GlobalVariables.dY += (float)(Speed / Math.Sqrt(2));                    
-                }
-                else
-                    if (this.Y > _destPoint.Y && this.X == _destPoint.X)
-                    {
-                        this.Y -= Speed;
-                        if (GlobalVariables.dY < 0 && this.Y < _map.Height - GlobalVariables.ScreenHeight / 2)
-                            GlobalVariables.dY += Speed;
-                    }
-                    else
-                        if (this.Y > _destPoint.Y && this.X > _destPoint.X)
-                        {
-                            this.X -= (float)(Speed / Math.Sqrt(2));                            
-                            this.Y -= (float)(Speed / Math.Sqrt(2));
-                            if (GlobalVariables.dX < 0 && this.X < _map.Width - GlobalVariables.ScreenWidth / 2)
-                                GlobalVariables.dX += (float)(Speed / Math.Sqrt(2));
-                            if (GlobalVariables.dY < 0 && this.Y < _map.Height - GlobalVariables.ScreenHeight / 2)
-                                GlobalVariables.dY += (float)(Speed / Math.Sqrt(2));
-                        }
-                        else
-                            if (this.Y == _destPoint.Y && this.X > _destPoint.X)
-                            {
-                                this.X -= Speed;
-                                if (GlobalVariables.dX < 0 && this.X < _map.Width - GlobalVariables.ScreenWidth / 2)
-                                    GlobalVariables.dX += Speed;
-                            }
-                            else
-                                if (this.Y < _destPoint.Y && this.X > _destPoint.X)
-                                {
-                                    this.X -= (float)(Speed / Math.Sqrt(2));
-                                    this.Y += (float)(Speed / Math.Sqrt(2));
-                                    if (GlobalVariables.dX < 0 && this.X < _map.Width - GlobalVariables.ScreenWidth / 2)
-                                        GlobalVariables.dX += (float)(Speed / Math.Sqrt(2));
-                                    if (this.Y > GlobalVariables.ScreenHeight / 2 && GlobalVariables.dY > GlobalVariables.ScreenHeight - _map.Height)
-                                        GlobalVariables.dY -= (float)(Speed / Math.Sqrt(2));
-                                }
-                                else
-                                    if (this.Y < _destPoint.Y && this.X == _destPoint.X)
-                                    {
-                                        this.Y += Speed;
-                                        if (this.Y > GlobalVariables.ScreenHeight / 2 && GlobalVariables.dY > GlobalVariables.ScreenHeight - _map.Height)
-                                            GlobalVariables.dY -= Speed;
-                                    }
-                                    else
-                                        if (this.Y < _destPoint.Y && this.X < _destPoint.X)
-                                        {
-                                            this.X += (float)(Speed / Math.Sqrt(2));
-                                            this.Y += (float)(Speed / Math.Sqrt(2));
-                                            if (this.X > GlobalVariables.ScreenWidth / 2 && GlobalVariables.dX > GlobalVariables.ScreenWidth - _map.Width)
-                                                GlobalVariables.dX -= (float)(Speed / Math.Sqrt(2));
-                                            if (this.Y > GlobalVariables.ScreenHeight / 2 && GlobalVariables.dY > GlobalVariables.ScreenHeight - _map.Height)
-                                                GlobalVariables.dY -= (float)(Speed / Math.Sqrt(2));
-                                        }
-            if (Math.Abs(this.X - _destPoint.X) < Speed / Math.Sqrt(2) && Math.Abs(this.Y - _destPoint.Y) < Speed / Math.Sqrt(2) && IsMoving)
-            {
-                IsMoving = false;
-                if (_dir > 7 && cellToMove.Count == 0)
-                    _dir -= 8;
-                this.X = _destPoint.X;
-                this.Y = _destPoint.Y;                
-            }
+        {
+            base.Update(gameTime);
         }
        
         public void UpdateDirection(double x, double y)
@@ -223,7 +256,7 @@ namespace TheReturnOfTheKing
                 _dir += 8;
         }
 
-        public override VisibleGameObject Clone()
+        /*public override VisibleGameObject Clone()
         {
             return new Character
             {
@@ -241,6 +274,23 @@ namespace TheReturnOfTheKing
                 _nsprite = this._nsprite,
                 
             };
+        }*/
+
+        public bool IsCollisionWith(Character other)
+        {
+            return other.CollisionRect.Intersects(this.CollisionRect);                
+        }
+
+        public void BeginAttack(Character _char)
+        {
+            if (_dir < 16)
+                _dir += 8;
+        }
+
+        public void EndAttack(Character _char)
+        {
+            if (_dir >= 16)
+                _dir -= 8;
         }
     }
 }

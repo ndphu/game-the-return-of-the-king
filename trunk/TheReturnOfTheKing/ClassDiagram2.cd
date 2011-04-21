@@ -1,234 +1,265 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="TheReturnOfTheKing.Button" Collapsed="true">
-    <Position X="12.25" Y="3.25" Width="1.5" />
+    <Position X="14.75" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQABACACAABAgAAAgAgQEBAACAAAAAAAACQAAAgaBA=</HashCode>
       <FileName>Button.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.ButtonManger" Collapsed="true">
-    <Position X="2.75" Y="8.75" Width="1.5" />
+    <Position X="0.75" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
       <FileName>ButtonManger.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.Character" Collapsed="true">
-    <Position X="1" Y="1.75" Width="1.5" />
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
     <TypeIdentifier>
-      <HashCode>BAQAQAAAABAAAgAAAGAIAAIBAAAAAgWABEIAAAAAYAA=</HashCode>
+      <HashCode>BBQAQAAAABgACgAgEGAIgAMBAIAAAgeABEIACgAAYlA=</HashCode>
       <FileName>Character.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="TheReturnOfTheKing.PlayerCharacterManager" Collapsed="true">
+    <Position X="5.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAoAAAAAAAAAAAAA=</HashCode>
+      <FileName>CharacterManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Class Name="TheReturnOfTheKing.Cursor" Collapsed="true">
-    <Position X="3.25" Y="3.25" Width="1.5" />
+    <Position X="10.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAwCAAAAAQACAAAAABAAAAAACAAAQYAA=</HashCode>
       <FileName>Cursor.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.Dialog" Collapsed="true">
-    <Position X="14.5" Y="1.75" Width="1.5" />
+    <Position X="17" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAgACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Dialog.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.Frog" Collapsed="true">
-    <Position X="7.75" Y="3.25" Width="1.5" />
+    <Position X="5.75" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAACAACAaAA=</HashCode>
       <FileName>Frog.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.GameObjectManager" Collapsed="true">
-    <Position X="2.75" Y="7.5" Width="1.5" />
+    <Position X="4" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAgAAEAEAAAAAAgAAAAAAAAAAAAA=</HashCode>
       <FileName>GameObjectManager.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.ObjectObserver" Collapsed="true">
-    <Position X="9.5" Y="7.5" Width="1.5" />
+    <Position X="1.75" Y="10.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAQIAAAAAAAAAQACAA=</HashCode>
       <FileName>GameObjectObserver.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.GameSprite" Collapsed="true">
-    <Position X="21.5" Y="0.5" Width="1.5" />
+    <Position X="21.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>ABQAAACIAAQEAgAQAAAACAAAAAAAAIABAgAAQAAYYCI=</HashCode>
       <FileName>GameSprite.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.GameState" Collapsed="true">
-    <Position X="3.75" Y="4.5" Width="1.5" />
+    <Position X="8" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAgACAAAAAAAAAAAAAAAAQAACAAAAAAAoABAAAAAA=</HashCode>
       <FileName>GameState.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.GameTitle" Collapsed="true">
-    <Position X="5.5" Y="3.25" Width="1.5" />
+    <Position X="12.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAQAEAAAgAAAQAAAAAAAAAAAAAAAAASAAAAaAA=</HashCode>
       <FileName>GameTitle.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.GlobalVariables" Collapsed="true">
-    <Position X="23.25" Y="0.5" Width="1.5" />
+    <Position X="23.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AgAAgIQABUAAAAAAIEAAAAAAAABQAAAACgAIBgAIoAA=</HashCode>
       <FileName>GlobalVariables.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.KeyboardObserver" Collapsed="true">
-    <Position X="8.25" Y="8.75" Width="1.5" />
+    <Position X="0.5" Y="11.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>KeyboardObserver.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.MainGame" Collapsed="true">
-    <Position X="25" Y="0.5" Width="1.5" />
+    <Position X="25.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAEEAAABAAAwAAAAAAAAAAAAAAAAgAAAAAAAAAIAQ=</HashCode>
       <FileName>MainGame.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.Map" Collapsed="true">
-    <Position X="19" Y="3.25" Width="1.5" />
+    <Position X="3.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AwQAIQAAhAGBglCASAAAAMAACBAhCAAAAAACIQCAABA=</HashCode>
+      <HashCode>AwQAIQAAgAEBglCASAAAAIAACAAhCABAAAACIQCAABA=</HashCode>
       <FileName>Map.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.MapManager" Collapsed="true">
-    <Position X="4.5" Y="8.75" Width="1.5" />
+    <Position X="10.75" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
       <FileName>MapManager.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.Menu" Collapsed="true">
-    <Position X="16.75" Y="3.25" Width="1.5" />
+    <Position X="19.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAEAAAoAIAwiAAABCAAAAEAAAAACSAAAAaBA=</HashCode>
       <FileName>Menu.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.MenuBackground" Collapsed="true">
-    <Position X="10" Y="3.25" Width="1.5" />
+    <Position X="8" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
       <FileName>MenuBackground.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.MenuManager" Collapsed="true">
-    <Position X="0.5" Y="8.75" Width="1.5" />
+    <Position X="3" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
       <FileName>MenuManager.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.Message" Collapsed="true">
-    <Position X="14.5" Y="3.25" Width="1.5" />
+    <Position X="17" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Message.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.Misc" Collapsed="true">
-    <Position X="6.75" Y="1.75" Width="1.5" />
+    <Position X="9.25" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Misc.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.MotionInfo" Collapsed="true">
-    <Position X="21.5" Y="1.5" Width="1.5" />
+    <Position X="21.75" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAgACCEMABIAAAAAgBAAAAAgAEIAQAQEAAAgAAAAA=</HashCode>
       <FileName>MotionInfo.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.MouseObserver" Collapsed="true">
-    <Position X="10.5" Y="8.75" Width="1.5" />
+    <Position X="2.75" Y="11.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>MouseObserver.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.Program" Collapsed="true">
-    <Position X="23.25" Y="1.5" Width="1.5" />
+    <Position X="23.5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.StateIntro" Collapsed="true">
-    <Position X="0.5" Y="5.75" Width="1.5" />
+    <Position X="4.75" Y="5.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>StateIntro.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.StateLogo" Collapsed="true">
-    <Position X="2.75" Y="5.75" Width="1.5" />
+    <Position X="7" Y="5.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>StateLogo.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.StateMainGame" Collapsed="true">
-    <Position X="5" Y="5.75" Width="1.5" />
+    <Position X="9.25" Y="5.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAECAAAAAAAAAAAAAAAQAICAAAAAAEoABAAAAAA=</HashCode>
+      <HashCode>AAACAAACAgAAAAABAAAAAAAQAICAAAAAAEoABAAAAAA=</HashCode>
       <FileName>StateMainGame.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.StateMenu" Collapsed="true">
-    <Position X="7.25" Y="5.75" Width="1.5" />
+    <Position X="11.5" Y="5.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>ABAAAAIAAABQQAIAIAAAAAAQAASAAAAAAAoABCAAAAE=</HashCode>
       <FileName>StateMenu.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.Utility" Collapsed="true">
-    <Position X="25" Y="1.5" Width="1.5" />
+    <Position X="25.25" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAABAAgAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
       <FileName>Utility.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.VisibleGameEntity" Collapsed="true">
-    <Position X="19" Y="1.75" Width="1.5" />
+    <Position X="2.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>VisibleGameEntity.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TheReturnOfTheKing.VisibleGameObject" Collapsed="true">
-    <Position X="10" Y="0.5" Width="1.5" />
+    <Position X="10.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQABAAIRASAgwAAAgogAEBCADAAAAAAAAECAAAgYBA=</HashCode>
       <FileName>VisibleGameObject.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="TheReturnOfTheKing.XMLUtility" Collapsed="true">
-    <Position X="21.5" Y="2.5" Width="1.5" />
+  <Class Name="TheReturnOfTheKing.PlayerCharacter" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>XMLUtility.cs</FileName>
+      <HashCode>QAQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>PlayerCharacter.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="TheReturnOfTheKing.CharacterManager" Collapsed="true">
-    <Position X="6.25" Y="8.75" Width="1.5" />
+  <Class Name="TheReturnOfTheKing.NonPlayerCharacter" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>CharacterManager.cs</FileName>
+      <FileName>NonPlayerCharacter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheReturnOfTheKing.Monster" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheReturnOfTheKing.MonsterManager" Collapsed="true">
+    <Position X="7.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>MonsterManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheReturnOfTheKing.NonPlayerCharacterManager" Collapsed="true">
+    <Position X="9" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NonPlayerCharacterManager.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

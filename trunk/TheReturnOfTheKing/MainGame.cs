@@ -75,7 +75,7 @@ namespace TheReturnOfTheKing
             GlobalVariables.GameCursor = new Cursor();
             GlobalVariables.GameCursor.Init(Content);
 
-            _gameState = new StateMenu();
+            _gameState = new StateMainGame();
             _gameState.InitState(Content, this);
             _gameState.EnterState();
         }
@@ -114,7 +114,7 @@ namespace TheReturnOfTheKing
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            GraphicsDevice.Clear(Color.Black);
 
             // TODO: Add your drawing code here
 

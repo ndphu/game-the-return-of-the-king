@@ -15,22 +15,9 @@ namespace TheReturnOfTheKing
 {
     public class Map : VisibleGameEntity
     {
-        int _width;
-
-        public int Width
-        {
-            get { return _width; }
-            set { _width = value; }
-        }
-
-        int _height;
-
-        public int Height
-        {
-            get { return _height; }
-            set { _height = value; }
-        }
-
+        /// <summary>
+        /// Số cột
+        /// </summary>
         int _cols;
 
         public int Cols
@@ -38,7 +25,9 @@ namespace TheReturnOfTheKing
             get { return _cols; }
             set { _cols = value; }
         }
-
+        /// <summary>
+        /// Số dòng
+        /// </summary>
         int _rows;
 
         public int Rows
@@ -46,7 +35,9 @@ namespace TheReturnOfTheKing
             get { return _rows; }
             set { _rows = value; }
         }
-
+        /// <summary>
+        /// Kích thướt 1 ô logic
+        /// </summary>
         int _collisionDim;
 
         public int CollisionDim
@@ -54,7 +45,9 @@ namespace TheReturnOfTheKing
             get { return _collisionDim; }
             set { _collisionDim = value; }
         }
-
+        /// <summary>
+        /// Điểm khởi đầu cho nhân vật (X)
+        /// </summary>
         int _startPointX;
 
         public int StartPointX
@@ -62,7 +55,9 @@ namespace TheReturnOfTheKing
             get { return _startPointX; }
             set { _startPointX = value; }
         }
-
+        /// <summary>
+        /// Điểm khởi đầu cho nhân vật (Y)
+        /// </summary>
         int _startPointY;
 
         public int StartPointY
@@ -75,6 +70,10 @@ namespace TheReturnOfTheKing
         int _curRow;
         bool _nextCol; // co ve them manh tiep theo ben phai hok
         bool _nextRow; // co ve them manh tiep theo o duoi hok
+
+        /// <summary>
+        /// Số dòng trên 1 màn hình
+        /// </summary>
         int _rpF;
 
         public int RpF
@@ -82,7 +81,9 @@ namespace TheReturnOfTheKing
             get { return _rpF; }
             set { _rpF = value; }
         }
-
+        /// <summary>
+        /// Số cột trên một màn hình
+        /// </summary>
         int _cpF;
 
         public int CpF
@@ -140,9 +141,13 @@ namespace TheReturnOfTheKing
                 _matrix = this._matrix,
                 _collisionDim = this._collisionDim,
                 _startPointX = this._startPointX,
-                _startPointY = this._startPointY
+                _startPointY = this._startPointY,
+                _lstMonster = this._lstMonster,
             };
         }
+        /// <summary>
+        /// Ma trận tương tác
+        /// </summary>
         List<List<bool>> _matrix = new List<List<bool>>();
 
         public List<List<bool>> Matrix
@@ -168,6 +173,11 @@ namespace TheReturnOfTheKing
             */
             return false;
         }
+        /// <summary>
+        /// Hàm chuyển từ tọa độ thực sang tọa độ tương đối
+        /// </summary>
+        /// <param name="p">tọa độ thực</param>
+        /// <returns>tọa độ tương đối</returns>
         public Point PointToCell(Point p)
         {
             if (p.X < 0 || p.Y < 0 || p.X >= _width || p.Y >= Height)
@@ -176,10 +186,34 @@ namespace TheReturnOfTheKing
             int y = p.Y / _collisionDim;
             return new Point(x, y);
         }
-
+        /// <summary>
+        /// Hàm chuyển từ tọa độ tương đối trên map sang tọa độ thực
+        /// </summary>
+        /// <param name="p">tọa độ tương đối</param>
+        /// <returns>tọa độ thực</returns>
         public Point CellToPoint(Point p)
         {
             return new Point(p.X * _collisionDim, p.Y * _collisionDim);
+        }
+        /// <summary>
+        /// Danh sách các quái vật trên map
+        /// </summary>
+        List<Monster> _lstMonster;
+
+        public List<Monster> LstMonster
+        {
+            get { return _lstMonster; }
+            set { _lstMonster = value; }
+        }
+
+
+        /// <summary>
+        /// Lấy danh sách quái vật
+        /// </summary>
+        /// <returns>Mảng các quái vật</returns>
+        public List<Monster> InitMonsterList()
+        {
+            return _lstMonster;
         }
     }
 }

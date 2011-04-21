@@ -63,6 +63,14 @@ namespace TheReturnOfTheKing
             set { GlobalVariables._mnm = value; }
         }
 
+        static MonsterManager _monsterManager;
+
+        public static MonsterManager MonsterManager
+        {
+            get { return GlobalVariables._monsterManager; }
+            set { GlobalVariables._monsterManager = value; }
+        }
+
         static MouseObserver _mouseObserver;
 
         public static MouseObserver MouseObserver
