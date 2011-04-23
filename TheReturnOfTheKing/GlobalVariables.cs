@@ -2,6 +2,15 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Audio;
+using Microsoft.Xna.Framework.Content;
+using Microsoft.Xna.Framework.GamerServices;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Media;
+using Microsoft.Xna.Framework.Net;
+using Microsoft.Xna.Framework.Storage;
 
 namespace TheReturnOfTheKing
 {
@@ -87,12 +96,28 @@ namespace TheReturnOfTheKing
             set { GlobalVariables._keyboardObserver = value; }
         }
 
+        static float _mapCollisionDim;
+
+        public static float MapCollisionDim
+        {
+            get { return GlobalVariables._mapCollisionDim; }
+            set { GlobalVariables._mapCollisionDim = value; }
+        }
+        
         static Cursor _gameCursor;
 
         public static Cursor GameCursor
         {
             get { return _gameCursor; }
             set { _gameCursor = value; }
+        }
+
+        static SpriteFont sf;
+
+        public static SpriteFont Sf
+        {
+            get { return GlobalVariables.sf; }
+            set { GlobalVariables.sf = value; }
         }
     }
 }

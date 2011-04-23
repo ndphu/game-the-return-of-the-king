@@ -1,14 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <root>  
   <Character>
-    <Speed>4</Speed>
+    <Speed>2</Speed>
     <Hp>850</Hp>
     <Mp>350</Mp>
     <CriticalRate>15</CriticalRate>
     <Damage>45</Damage>
-    <Defense>5</Defense>
+    <Defense>7</Defense>
     <AttackSpeed>4</AttackSpeed>
     <Range>32</Range>
+    <HitFrame>12</HitFrame>
     <Stand>
       <ContentName>img/character/kunkka/stand/D</ContentName>
       <NumOfFrames>8</NumOfFrames>

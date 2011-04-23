@@ -26,6 +26,12 @@ namespace TheReturnOfTheKing
 
         int _check;
 
+        public int Check
+        {
+            get { return _check; }
+            set { _check = value; }
+        }
+
         Texture2D[] _texture2D;
 
         public Texture2D[] Texture2D

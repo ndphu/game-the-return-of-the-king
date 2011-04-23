@@ -1,35 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <root>
   <Monster>
-    <Speed>4</Speed>
+    <Speed>1</Speed>
     <Hp>800</Hp>
     <Mp>600</Mp>
     <CriticalRate>15</CriticalRate>
     <Damage>85</Damage>
     <Defense>14</Defense>
     <AttackSpeed>3</AttackSpeed>
-    <Range>32</Range>    
+    <Range>32</Range>
+    <HitFrame>12</HitFrame>
     <Stand>
       <ContentName>img/character/fallenangel/stand/D</ContentName>
       <NumOfFrames>8</NumOfFrames>
-      <XOffset>-63</XOffset>
-      <YOffset>-87</YOffset>
+      <XOffset>-60</XOffset>
+      <YOffset>-80</YOffset>
     </Stand>
     <Move>
       <ContentName>img/character/fallenangel/move/D</ContentName>
       <NumOfFrames>8</NumOfFrames>
-      <XOffset>-60</XOffset>
-      <YOffset>-87</YOffset>
+      <XOffset>-57</XOffset>
+      <YOffset>-80</YOffset>
     </Move>
     <Attack>
       <ContentName>img/character/fallenangel/attack/D</ContentName>
       <NumOfFrames>16</NumOfFrames>
-      <XOffset>-60</XOffset>
-      <YOffset>-87</YOffset>
+      <XOffset>-67</XOffset>
+      <YOffset>-110</YOffset>
     </Attack>
   </Monster>
   <Monster>
-    <Speed>4</Speed>
+    <Speed>1</Speed>
     <Hp>1200</Hp>
     <Mp>200</Mp>
     <CriticalRate>20</CriticalRate>
@@ -37,6 +38,7 @@
     <Defense>5</Defense>
     <AttackSpeed>3</AttackSpeed>
     <Range>32</Range>
+    <HitFrame>12</HitFrame>
     <Stand>
       <ContentName>img/character/demon/stand/D</ContentName>
       <NumOfFrames>8</NumOfFrames>
@@ -53,7 +55,7 @@
       <ContentName>img/character/demon/attack/D</ContentName>
       <NumOfFrames>16</NumOfFrames>
       <XOffset>-95</XOffset>
-      <YOffset>-139</YOffset>
+      <YOffset>-120</YOffset>
     </Attack>
   </Monster>
   <Monster>
@@ -65,6 +67,7 @@
     <Defense>2</Defense>
     <AttackSpeed>2</AttackSpeed>
     <Range>32</Range>
+    <HitFrame>10</HitFrame>
     <Stand>
       <ContentName>img/character/zombie/stand/D</ContentName>
       <NumOfFrames>8</NumOfFrames>

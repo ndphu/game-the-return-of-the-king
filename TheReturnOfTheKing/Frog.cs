@@ -57,6 +57,7 @@ namespace TheReturnOfTheKing
             _sprite = new GameSprite[1];
             _sprite[0] = new GameSprite(content.Load<Texture2D>("img/misc/frog/frog"), 0, 0);
             sf = content.Load<SpriteFont>("sf");
+            GlobalVariables.Sf = sf;
         }
 
         public void SetCharacter(PlayerCharacter _char)
@@ -78,6 +79,12 @@ namespace TheReturnOfTheKing
             sb.DrawString(sf, "HP: " + _character.Hp.ToString(), new Vector2(0, 20), Color.Red);
             sb.DrawString(sf, "MP: " + _character.Mp.ToString(), new Vector2(0, 45), Color.Blue);
             sb.DrawString(sf, "XP: " + _character.Xp.ToString(), new Vector2(0, 70), Color.White);
+            if (_character.Target != null)
+            {
+                sb.DrawString(sf, "HP: " + _character.Target.Hp.ToString(), new Vector2(700, 20), Color.Red);
+                sb.DrawString(sf, "MP: " + _character.Target.Mp.ToString(), new Vector2(700, 45), Color.Blue);
+                //sb.DrawString(sf, "XP: " + _character.Target.Xp.ToString(), new Vector2(750, 70), Color.White);
+            }
         }
     }
 }

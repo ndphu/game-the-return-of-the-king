@@ -88,6 +88,17 @@ namespace TheReturnOfTheKing
             get { return _criticalRate; }
             set { _criticalRate = value; }
         }
+        /// <summary>
+        /// Vị trí khung hình tấn công
+        /// </summary>
+        int _hitFrame;
+
+        public int HitFrame
+        {
+            get { return _hitFrame; }
+            set { _hitFrame = value; }
+        }
+
 
         /// <summary>
         /// Hình chữ nhật để xét va chạm
@@ -124,7 +135,7 @@ namespace TheReturnOfTheKing
                 base.X = value;
                 for (int i = 0; i < _nsprite; ++i)
                     _sprite[i].X = value;
-                CollisionRect = new Rectangle((int)X, (int)Y, (int)this._sprite[0].Texture2D[0].Width, _sprite[0].Texture2D[0].Height);
+                CollisionRect = new Rectangle((int)X, (int)Y, (int)GlobalVariables.MapCollisionDim, (int)GlobalVariables.MapCollisionDim);
             }
         }
         /// <summary>
@@ -141,7 +152,7 @@ namespace TheReturnOfTheKing
                 base.Y = value;
                 for (int i = 0; i < _nsprite; ++i)
                     _sprite[i].Y = value;
-                CollisionRect = new Rectangle((int)X, (int)Y, (int)this._sprite[0].Texture2D[0].Width, _sprite[0].Texture2D[0].Height);
+                CollisionRect = new Rectangle((int)X, (int)Y, (int)GlobalVariables.MapCollisionDim, (int)GlobalVariables.MapCollisionDim);
             }
         }
         /// <summary>
@@ -211,86 +222,192 @@ namespace TheReturnOfTheKing
         /// Gán nhân vật với bản đồ
         /// </summary>
         /// <param name="map">Bản đồ cần gán</param>
-        public void SetMap(Map map)
+        public virtual void SetMap(Map map)
         {
-            X = map.StartPointX * map.CollisionDim;
-            Y = map.StartPointY * map.CollisionDim;
-            GlobalVariables.dX = Math.Min(-X + GlobalVariables.ScreenWidth / 2, 0);
-            GlobalVariables.dY = Math.Min(-Y + GlobalVariables.ScreenHeight / 2, 0);
-            _destPoint = new Point((int)X, (int)Y);            
             _map = map;
             cellToMove = new List<Point>();
             IsMoving = false;
+            _destPoint = new Point((int)X, (int)Y);            
         }
+        /// <summary>
+        /// Mục tiêu tấn công
+        /// </summary>
+        Character _target;
+
+        public Character Target
+        {
+            get { return _target; }
+            set { _target = value; }
+        }
+
         public override void Draw(GameTime gameTime, SpriteBatch sb)
         {
             _sprite[_dir].Draw(gameTime, sb);
         }
 
         public override void Update(GameTime gameTime)
-        {
-            base.Update(gameTime);
+        {            
+            if (CellToMove.Count != 0 && !IsMoving)
+            {
+                UpdateDirection(CellToMove[CellToMove.Count - 1].X * Map.CollisionDim, CellToMove[CellToMove.Count - 1].Y * Map.CollisionDim);
+                CellToMove.RemoveAt(CellToMove.Count - 1);
+            }            
+            _sprite[Dir].Update(gameTime);
+            if (IsAttacking)
+            {
+                Dir = Dir % 8 + 16;
+                return;
+            }
+            if (!IsMoving)
+            {
+                return;
+            }
+            else
+            {
+                UpdateDirection(DestPoint.X, DestPoint.Y);
+            }
+           
+            if (this.Y == DestPoint.Y && this.X < DestPoint.X)
+            {
+                this.X += Speed;             
+            }
+            else
+                if (this.Y > DestPoint.Y && this.X < DestPoint.X)
+                {
+                    this.X += (float)(Speed / Math.Sqrt(2));
+                    this.Y -= (float)(Speed / Math.Sqrt(2));                    
+                }
+                else
+                    if (this.Y > DestPoint.Y && this.X == DestPoint.X)
+                    {
+                        this.Y -= Speed;
+                        
+                    }
+                    else
+                        if (this.Y > DestPoint.Y && this.X > DestPoint.X)
+                        {
+                            this.X -= (float)(Speed / Math.Sqrt(2));
+                            this.Y -= (float)(Speed / Math.Sqrt(2));
+                            
+                        }
+                        else
+                            if (this.Y == DestPoint.Y && this.X > DestPoint.X)
+                            {
+                                this.X -= Speed;
+                            }
+                            else
+                                if (this.Y < DestPoint.Y && this.X > DestPoint.X)
+                                {
+                                    this.X -= (float)(Speed / Math.Sqrt(2));
+                                    this.Y += (float)(Speed / Math.Sqrt(2));
+                             
+                                }
+                                else
+                                    if (this.Y < DestPoint.Y && this.X == DestPoint.X)
+                                    {
+                                        this.Y += Speed;
+                                    }
+                                    else
+                                        if (this.Y < DestPoint.Y && this.X < DestPoint.X)
+                                        {
+                                            this.X += (float)(Speed / Math.Sqrt(2));
+                                            this.Y += (float)(Speed / Math.Sqrt(2));
+                             
+                                        }
+            if (Math.Abs(this.X - DestPoint.X) < Speed / Math.Sqrt(2) && Math.Abs(this.Y - DestPoint.Y) < Speed / Math.Sqrt(2) && IsMoving)
+            {
+                IsMoving = false;                
+                this.X = DestPoint.X;
+                this.Y = DestPoint.Y;
+            }           
         }
        
         public void UpdateDirection(double x, double y)
         {
-            IsMoving = true;
-            _destPoint = new Point((int)x, (int)y);
-            if (this.Y == y && this.X < x)
-                _dir = 0;
-            if (this.Y > y && this.X < x)
-                _dir = 1;
-            if (this.Y > y && this.X == x)
-                _dir = 2;
-            if (this.Y > y && this.X > x)
-                _dir = 3;
-            if (this.Y == y && this.X > x)
-                _dir = 4;
-            if (this.Y < y && this.X > x)
-                _dir = 5;
-            if (this.Y < y && this.X == x)
-                _dir = 6;
-            if (this.Y < y && this.X < x)
-                _dir = 7;
-            if (_dir <= 7)
-                _dir += 8;
-        }
-
-        /*public override VisibleGameObject Clone()
-        {
-            return new Character
+            if (!IsMoving)
             {
-                CellToMove = this.CellToMove,
-                CollisionRect = this.CollisionRect,
-                DestPoint = this.DestPoint,
-                Height = this.Height,
-                Width = this.Width,
-                X = this.X,
-                Y = this.Y,
-                Speed = this.Speed,
-                IsMoving = this.IsMoving,
-                IsMouseHover = this.IsMouseHover,
-                _sprite = this._sprite,
-                _nsprite = this._nsprite,
-                
-            };
-        }*/
+                IsMoving = true;
+                _destPoint = new Point((int)x, (int)y);
+                if (this.Y == y && this.X < x)
+                    _dir = 0;
+                if (this.Y > y && this.X < x)
+                    _dir = 1;
+                if (this.Y > y && this.X == x)
+                    _dir = 2;
+                if (this.Y > y && this.X > x)
+                    _dir = 3;
+                if (this.Y == y && this.X > x)
+                    _dir = 4;
+                if (this.Y < y && this.X > x)
+                    _dir = 5;
+                if (this.Y < y && this.X == x)
+                    _dir = 6;
+                if (this.Y < y && this.X < x)
+                    _dir = 7;
+                Dir = Dir % 8 + 8;
+            }
+        }
 
         public bool IsCollisionWith(Character other)
         {
-            return other.CollisionRect.Intersects(this.CollisionRect);                
+            if (Math.Abs(other.X - this.X) < GlobalVariables.MapCollisionDim * 1 && Math.Abs(other.Y - this.Y) < GlobalVariables.MapCollisionDim * 1)
+                return true;    
+            return false;              
         }
 
-        public void BeginAttack(Character _char)
+        public virtual void BeginAttack(Character _char)
         {
-            if (_dir < 16)
-                _dir += 8;
+            if (IsMoving)
+                IsMoving = false;
+            if (IsAttacking == false)
+            {
+                IsAttacking = true;
+                _sprite[Dir].Itexture2D = 0;
+                CellToMove = new List<Point>();
+                float x = _char.X;
+                float y = _char.Y;
+                if (this.Y == y && this.X < x)
+                    Dir = 0;
+                if (this.Y > y && this.X < x)
+                    Dir = 1;
+                if (this.Y > y && this.X == x)
+                    Dir = 2;
+                if (this.Y > y && this.X > x)
+                    Dir = 3;
+                if (this.Y == y && this.X > x)
+                    Dir = 4;
+                if (this.Y < y && this.X > x)
+                    Dir = 5;
+                if (this.Y < y && this.X == x)
+                    Dir = 6;
+                if (this.Y < y && this.X < x)
+                    Dir = 7;
+                Dir = Dir % 8 + 16;
+            }
+            Target = _char;    
         }
 
-        public void EndAttack(Character _char)
+        public virtual void EndAttack(Character _char)
         {
-            if (_dir >= 16)
-                _dir -= 8;
+            if (IsAttacking)
+            {
+                IsAttacking = false;
+                _sprite[Dir].Itexture2D = 0;
+            }
+        }
+
+        public virtual void Hit()
+        {
+            Random r = new Random();
+            if (r.Next(0, 100) < this.CriticalRate)
+                Target.BeHit(this.Attack * 2);
+            else
+                Target.BeHit(this.Attack);
+        }
+
+        public virtual void BeHit(int damage)
+        {
+            Hp -= (damage - this.Defense);
         }
     }
 }

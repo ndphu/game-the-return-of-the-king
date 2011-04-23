@@ -89,6 +89,7 @@ namespace TheReturnOfTheKing
                     ((Map)_prototype[0]).LstMonster[i].DestPoint = new Point((int)mst.X, (int)mst.Y);
                     ((Map)_prototype[0]).LstMonster[i].CellToMove = new List<Point>();
                     ((Map)_prototype[0]).LstMonster[i].IsMoving = false;
+                    ((Map)_prototype[0]).LstMonster[i].SetMap((Map)_prototype[0]);
                 }
 
                  return true;
