@@ -61,6 +61,7 @@ namespace TheReturnOfTheKing
                     ((Monster)_prototype[i]).Range = int.Parse(nodelist[i].SelectSingleNode(@"Range").InnerText);
                     ((Monster)_prototype[i]).X = 0;
                     ((Monster)_prototype[i]).Y = 0;
+                    ((Monster)_prototype[i]).HitFrame = int.Parse(nodelist[i].SelectSingleNode(@"HitFrame").InnerText);
                 }
                 return true;
             }

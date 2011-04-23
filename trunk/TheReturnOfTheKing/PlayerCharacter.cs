@@ -26,6 +26,16 @@ namespace TheReturnOfTheKing
             set { _xp = value; }
         }
 
+        public override void SetMap(Map map)
+        {
+            base.SetMap(map);
+            X = map.StartPointX * map.CollisionDim;
+            Y = map.StartPointY * map.CollisionDim;
+            GlobalVariables.dX = Math.Min(-X + GlobalVariables.ScreenWidth / 2, 0);
+            GlobalVariables.dY = Math.Min(-Y + GlobalVariables.ScreenHeight / 2, 0);
+            DestPoint = new Point((int)X, (int)Y);   
+        }
+
         public override VisibleGameObject Clone()
         {
             GameSprite[] _spriteTemp = new GameSprite[_nsprite];
@@ -144,7 +154,11 @@ namespace TheReturnOfTheKing
                     Dir -= 8;
                 this.X = DestPoint.X;
                 this.Y = DestPoint.Y;
-            }
+            }           
+        }
+        public override void BeHit(int damage)
+        {
+            Hp -= damage;
         }
     }
 }

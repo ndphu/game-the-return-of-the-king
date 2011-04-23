@@ -28,8 +28,8 @@ namespace TheReturnOfTheKing
             GlobalVariables.MonsterManager.InitPrototypes(content, @"Data\monster\monster.xml");
             _charManager.InitPrototypes(content, @"Data\character\character.xml");
             _mapManager.InitPrototypes(content, @"Data\Map\map01.xml");
-            _map = (Map)_mapManager.CreateObject(0);            
-            
+            _map = (Map)_mapManager.CreateObject(0);
+            GlobalVariables.MapCollisionDim = _map.CollisionDim;
             _char = (PlayerCharacter)_charManager.CreateObject(0);            
             _char.SetMap(_map);
             _listMonsters = _map.InitMonsterList();
@@ -55,7 +55,7 @@ namespace TheReturnOfTheKing
             {
                 if (ms.X < GlobalVariables.ScreenWidth && ms.Y < GlobalVariables.ScreenHeight && ms.X >= 0 && ms.Y >= 0)
                 {
-                    Point newCell = _map.PointToCell(new Point((int)GlobalVariables.GameCursor.X, (int)GlobalVariables.GameCursor.Y));
+                    Point newCell = _map.PointToCell(new Point((int)GlobalVariables.GameCursor.X, (int)GlobalVariables.GameCursor.Y));                                        
                     if (_map.Matrix[newCell.Y][newCell.X] == true)
                         _char.CellToMove = Utility.FindPath(_map.Matrix, _map.PointToCell(new Point((int)_char.X, (int)_char.Y)), newCell);
                 }
@@ -65,6 +65,7 @@ namespace TheReturnOfTheKing
    
             _char.Update(gameTime);
             _frog.Update(gameTime);
+            bool _checkCursor = false; // Kiem tra chuot co dang chi len quai vat hay khong
             for (int i = 0; i < _listMonsters.Count; ++i)
             {
                 _listMonsters[i].Update(gameTime);
@@ -72,7 +73,13 @@ namespace TheReturnOfTheKing
                     _listMonsters[i].BeginAttack(_char);
                 else
                     _listMonsters[i].EndAttack(_char);
+                if (_listMonsters[i].CollisionRect.Contains(new Point((int)GlobalVariables.GameCursor.X, (int)GlobalVariables.GameCursor.Y)))
+                    _checkCursor = true;
             }
+            if (_checkCursor)
+                GlobalVariables.GameCursor.IsAttack = true;
+            else
+                GlobalVariables.GameCursor.IsIdle = true;
         }
 
         public override void DrawState(GameTime gameTime, SpriteBatch sb)
@@ -80,8 +87,16 @@ namespace TheReturnOfTheKing
             base.DrawState(gameTime, sb);
             _map.Draw(gameTime, sb);
             for (int i = 0; i < _listMonsters.Count; ++i)
-                _listMonsters[i].Draw(gameTime, sb);
+            {
+                if (_listMonsters[i].Y < _char.Y)
+                    _listMonsters[i].Draw(gameTime, sb);
+            }
             _char.Draw(gameTime, sb);
+            for (int i = 0; i < _listMonsters.Count; ++i)
+            {
+                if (_listMonsters[i].Y >= _char.Y)
+                    _listMonsters[i].Draw(gameTime, sb);
+            }
             _frog.Draw(gameTime, sb);
 
             GlobalVariables.GameCursor.Draw(gameTime, sb);

@@ -12,18 +12,19 @@
   <Monster>
     <X>5</X>
     <Y>50</Y>
-    <Type>0</Type>
+    <Type>2</Type>
   </Monster>
+  <!--
   <Monster>
     <X>7</X>
     <Y>50</Y>
-    <Type>0</Type>
+    <Type>1</Type>
   </Monster>
   
   <Monster>
     <X>9</X>
     <Y>50</Y>
-    <Type>0</Type>
+    <Type>2</Type>
   </Monster>
   <Monster>
     <X>11</X>
@@ -40,4 +41,5 @@
     <Y>45</Y>
     <Type>2</Type>
   </Monster>
+  -->
 </Map>
