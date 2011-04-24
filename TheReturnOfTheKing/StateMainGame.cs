@@ -67,22 +67,6 @@ namespace TheReturnOfTheKing
             else
                 GlobalVariables.GameCursor.IsIdle = true;
 
-            MouseState ms = Mouse.GetState();
-
-            int _checkMonster = -1; // Kiem tra chuot co dang chi len quai vat hay khong
-            for (int i = 0; i < _listMonsters.Count; ++i)
-            {
-                _listMonsters[i].Update(gameTime);
-                if (_listMonsters[i].IsCollisionWith(_char))
-                    _listMonsters[i].Target = _char;
-                   
-                if (_listMonsters[i].CollisionRect.Contains(new Point((int)GlobalVariables.GameCursor.X, (int)GlobalVariables.GameCursor.Y)))
-                    _checkMonster = i;
-            }
-            if (_checkMonster != -1)
-                GlobalVariables.GameCursor.IsAttack = true;
-            else
-                GlobalVariables.GameCursor.IsIdle = true;
 
             if (ms.LeftButton == ButtonState.Pressed)
             {
