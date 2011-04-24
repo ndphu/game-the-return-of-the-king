@@ -56,7 +56,9 @@ namespace TheReturnOfTheKing
             for (int i = 0; i < _listMonsters.Count; ++i)
             {
                 _listMonsters[i].Update(gameTime);
-                if (/*_listMonsters[i].IsCollisionWith(_char)*/ _char != null && Math.Sqrt(Math.Pow(_listMonsters[i].X - _char.X, 2) - Math.Pow(_listMonsters[i].Y - _char.Y, 2)) < _listMonsters[i].Sight)
+                if (_listMonsters[i].IsDyed || _listMonsters[i].IsDying)
+                    continue;
+                if (_char != null && Math.Sqrt(Math.Pow(_listMonsters[i].X - _char.X, 2) - Math.Pow(_listMonsters[i].Y - _char.Y, 2)) < _listMonsters[i].Sight)
                     _listMonsters[i].Target = _char;
                    
                 if (_listMonsters[i].CollisionRect.Contains(new Point((int)GlobalVariables.GameCursor.X, (int)GlobalVariables.GameCursor.Y)))
@@ -98,13 +100,18 @@ namespace TheReturnOfTheKing
             _map.Draw(gameTime, sb);
             for (int i = 0; i < _listMonsters.Count; ++i)
             {
-                if (_listMonsters[i].Y < _char.Y)
+                if (_listMonsters[i].IsDyed)
+                    _listMonsters[i].Draw(gameTime, sb);
+            }
+            for (int i = 0; i < _listMonsters.Count; ++i)
+            {
+                if (_listMonsters[i].Y < _char.Y && !_listMonsters[i].IsDyed)
                     _listMonsters[i].Draw(gameTime, sb);
             }
             _char.Draw(gameTime, sb);
             for (int i = 0; i < _listMonsters.Count; ++i)
             {
-                if (_listMonsters[i].Y >= _char.Y)
+                if (_listMonsters[i].Y >= _char.Y && !_listMonsters[i].IsDyed)
                     _listMonsters[i].Draw(gameTime, sb);
             }
             _frog.Draw(gameTime, sb);

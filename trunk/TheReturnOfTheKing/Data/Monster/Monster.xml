@@ -29,6 +29,18 @@
       <XOffset>-67</XOffset>
       <YOffset>-110</YOffset>
     </Attack>
+    <Dying>
+      <ContentName>img/character/fallenangel/dying/D</ContentName>
+      <NumOfFrames>20</NumOfFrames>
+      <XOffset>-67</XOffset>
+      <YOffset>-110</YOffset>
+    </Dying>
+    <Dyed>
+      <ContentName>img/character/fallenangel/dyed/D</ContentName>
+      <NumOfFrames>1</NumOfFrames>
+      <XOffset>-67</XOffset>
+      <YOffset>-110</YOffset>
+    </Dyed>
   </Monster>
   <Monster>
     <Speed>1</Speed>
@@ -59,10 +71,22 @@
       <XOffset>-95</XOffset>
       <YOffset>-120</YOffset>
     </Attack>
+    <Dying>
+      <ContentName>img/character/demon/dying/D</ContentName>
+      <NumOfFrames>20</NumOfFrames>
+      <XOffset>-67</XOffset>
+      <YOffset>-110</YOffset>
+    </Dying>
+    <Dyed>
+      <ContentName>img/character/demon/dyed/D</ContentName>
+      <NumOfFrames>1</NumOfFrames>
+      <XOffset>-67</XOffset>
+      <YOffset>-110</YOffset>
+    </Dyed>
   </Monster>
   <Monster>
     <Speed>1</Speed>
-    <Hp>250</Hp>
+    <Hp>350</Hp>
     <Mp>0</Mp>
     <CriticalRate>50</CriticalRate>
     <Damage>35</Damage>
@@ -89,5 +113,17 @@
       <XOffset>-26</XOffset>
       <YOffset>-47</YOffset>
     </Attack>
+    <Dying>
+      <ContentName>img/character/zombie/dying/D</ContentName>
+      <NumOfFrames>19</NumOfFrames>
+      <XOffset>-26</XOffset>
+      <YOffset>-47</YOffset>
+    </Dying>
+    <Dyed>
+      <ContentName>img/character/zombie/dyed/D</ContentName>
+      <NumOfFrames>1</NumOfFrames>
+      <XOffset>-26</XOffset>
+      <YOffset>-47</YOffset>
+    </Dyed>
   </Monster>
 </root>

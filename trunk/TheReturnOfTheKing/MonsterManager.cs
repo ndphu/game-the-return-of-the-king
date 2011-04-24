@@ -33,20 +33,34 @@ namespace TheReturnOfTheKing
                 for (int i = 0; i < nodelist.Count; ++i)
                 {
                     _prototype[i] = new Monster();
-                    _prototype[i]._nsprite = 24;
+                    _prototype[i]._nsprite = 40;
                     _prototype[i]._sprite = new GameSprite[_prototype[i]._nsprite];
+
                     XmlNode node = nodelist[i].SelectSingleNode(@"Stand");
                     GameSprite[] temp = Utility.LoadSprites(node, content);
                     for (int j = 0; j < 8; ++j)
                         _prototype[i]._sprite[j] = temp[j];
+
                     node = nodelist[i].SelectSingleNode(@"Move");
                     temp = Utility.LoadSprites(node, content);
                     for (int j = 8; j < 16; ++j)
                         _prototype[i]._sprite[j] = temp[j - 8];
+
                     node = nodelist[i].SelectSingleNode(@"Attack");
                     temp = Utility.LoadSprites(node, content);
                     for (int j = 16; j < 24; ++j)
                         _prototype[i]._sprite[j] = temp[j - 16];
+
+                    node = nodelist[i].SelectSingleNode(@"Dying");
+                    temp = Utility.LoadSprites(node, content);
+                    for (int j = 24; j < 32; ++j)
+                        _prototype[i]._sprite[j] = temp[j - 24];
+
+                    node = nodelist[i].SelectSingleNode(@"Dyed");
+                    temp = Utility.LoadSprites(node, content);
+                    for (int j = 32; j < 40; ++j)
+                        _prototype[i]._sprite[j] = temp[j - 32];
+
                     ((Monster)_prototype[i]).CellToMove = new List<Point>();                    
                     ((Monster)_prototype[i]).IsMoving = false;
                     ((Monster)_prototype[i]).Map = null;
