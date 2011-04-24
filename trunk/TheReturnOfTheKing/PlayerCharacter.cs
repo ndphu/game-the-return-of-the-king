@@ -67,98 +67,81 @@ namespace TheReturnOfTheKing
                 X = this.X,
                 Xp = this.Xp,
                 Y = this.Y,
+                HitFrame = this.HitFrame,
             };
+        }
+        public override void Draw(GameTime gameTime, SpriteBatch sb)
+        {
+            base.Draw(gameTime, sb);
+            if (IsAttacking)
+            {
+                if (_sprite[Dir].Itexture2D == HitFrame && _sprite[Dir].Check == 0)
+                    this.Hit();
+            }
         }
 
         public override void Update(GameTime gameTime)
         {
-            if (CellToMove.Count != 0 && !IsMoving)
+            base.Update(gameTime);
+            if (IsAttacking != true)
             {
-                UpdateDirection(CellToMove[CellToMove.Count - 1].X * Map.CollisionDim, CellToMove[CellToMove.Count - 1].Y * Map.CollisionDim);
-                CellToMove.RemoveAt(CellToMove.Count - 1);
-            }
-
-            _sprite[Dir].Update(gameTime);
-
-            if (this.Y == DestPoint.Y && this.X < DestPoint.X)
-            {
-                this.X += Speed;
-                if (this.X > GlobalVariables.ScreenWidth / 2 && GlobalVariables.dX > GlobalVariables.ScreenWidth - Map.Width)
-                    GlobalVariables.dX -= Speed;
-            }
-            else
-                if (this.Y > DestPoint.Y && this.X < DestPoint.X)
+                if (this.Y == DestPoint.Y && this.X < DestPoint.X)
                 {
-                    this.X += (float)(Speed / Math.Sqrt(2));
-                    this.Y -= (float)(Speed / Math.Sqrt(2));
                     if (this.X > GlobalVariables.ScreenWidth / 2 && GlobalVariables.dX > GlobalVariables.ScreenWidth - Map.Width)
-                        GlobalVariables.dX -= (float)(Speed / Math.Sqrt(2));
-                    if (GlobalVariables.dY < 0 && this.Y < Map.Height - GlobalVariables.ScreenHeight / 2)
-                        GlobalVariables.dY += (float)(Speed / Math.Sqrt(2));
+                        GlobalVariables.dX -= Speed;
                 }
                 else
-                    if (this.Y > DestPoint.Y && this.X == DestPoint.X)
+                    if (this.Y > DestPoint.Y && this.X < DestPoint.X)
                     {
-                        this.Y -= Speed;
+                        if (this.X > GlobalVariables.ScreenWidth / 2 && GlobalVariables.dX > GlobalVariables.ScreenWidth - Map.Width)
+                            GlobalVariables.dX -= (float)(Speed / Math.Sqrt(2));
                         if (GlobalVariables.dY < 0 && this.Y < Map.Height - GlobalVariables.ScreenHeight / 2)
-                            GlobalVariables.dY += Speed;
+                            GlobalVariables.dY += (float)(Speed / Math.Sqrt(2));
                     }
                     else
-                        if (this.Y > DestPoint.Y && this.X > DestPoint.X)
+                        if (this.Y > DestPoint.Y && this.X == DestPoint.X)
                         {
-                            this.X -= (float)(Speed / Math.Sqrt(2));
-                            this.Y -= (float)(Speed / Math.Sqrt(2));
-                            if (GlobalVariables.dX < 0 && this.X < Map.Width - GlobalVariables.ScreenWidth / 2)
-                                GlobalVariables.dX += (float)(Speed / Math.Sqrt(2));
                             if (GlobalVariables.dY < 0 && this.Y < Map.Height - GlobalVariables.ScreenHeight / 2)
-                                GlobalVariables.dY += (float)(Speed / Math.Sqrt(2));
+                                GlobalVariables.dY += Speed;
                         }
                         else
-                            if (this.Y == DestPoint.Y && this.X > DestPoint.X)
+                            if (this.Y > DestPoint.Y && this.X > DestPoint.X)
                             {
-                                this.X -= Speed;
                                 if (GlobalVariables.dX < 0 && this.X < Map.Width - GlobalVariables.ScreenWidth / 2)
-                                    GlobalVariables.dX += Speed;
+                                    GlobalVariables.dX += (float)(Speed / Math.Sqrt(2));
+                                if (GlobalVariables.dY < 0 && this.Y < Map.Height - GlobalVariables.ScreenHeight / 2)
+                                    GlobalVariables.dY += (float)(Speed / Math.Sqrt(2));
                             }
                             else
-                                if (this.Y < DestPoint.Y && this.X > DestPoint.X)
+                                if (this.Y == DestPoint.Y && this.X > DestPoint.X)
                                 {
-                                    this.X -= (float)(Speed / Math.Sqrt(2));
-                                    this.Y += (float)(Speed / Math.Sqrt(2));
                                     if (GlobalVariables.dX < 0 && this.X < Map.Width - GlobalVariables.ScreenWidth / 2)
-                                        GlobalVariables.dX += (float)(Speed / Math.Sqrt(2));
-                                    if (this.Y > GlobalVariables.ScreenHeight / 2 && GlobalVariables.dY > GlobalVariables.ScreenHeight - Map.Height)
-                                        GlobalVariables.dY -= (float)(Speed / Math.Sqrt(2));
+                                        GlobalVariables.dX += Speed;
                                 }
                                 else
-                                    if (this.Y < DestPoint.Y && this.X == DestPoint.X)
+                                    if (this.Y < DestPoint.Y && this.X > DestPoint.X)
                                     {
-                                        this.Y += Speed;
+                                        if (GlobalVariables.dX < 0 && this.X < Map.Width - GlobalVariables.ScreenWidth / 2)
+                                            GlobalVariables.dX += (float)(Speed / Math.Sqrt(2));
                                         if (this.Y > GlobalVariables.ScreenHeight / 2 && GlobalVariables.dY > GlobalVariables.ScreenHeight - Map.Height)
-                                            GlobalVariables.dY -= Speed;
+                                            GlobalVariables.dY -= (float)(Speed / Math.Sqrt(2));
                                     }
                                     else
-                                        if (this.Y < DestPoint.Y && this.X < DestPoint.X)
+                                        if (this.Y < DestPoint.Y && this.X == DestPoint.X)
                                         {
-                                            this.X += (float)(Speed / Math.Sqrt(2));
-                                            this.Y += (float)(Speed / Math.Sqrt(2));
-                                            if (this.X > GlobalVariables.ScreenWidth / 2 && GlobalVariables.dX > GlobalVariables.ScreenWidth - Map.Width)
-                                                GlobalVariables.dX -= (float)(Speed / Math.Sqrt(2));
                                             if (this.Y > GlobalVariables.ScreenHeight / 2 && GlobalVariables.dY > GlobalVariables.ScreenHeight - Map.Height)
-                                                GlobalVariables.dY -= (float)(Speed / Math.Sqrt(2));
+                                                GlobalVariables.dY -= Speed;
                                         }
-            if (Math.Abs(this.X - DestPoint.X) < Speed / Math.Sqrt(2) && Math.Abs(this.Y - DestPoint.Y) < Speed / Math.Sqrt(2) && IsMoving)
-            {
-                IsMoving = false;
-                if (Dir > 7 && CellToMove.Count == 0)
-                    Dir -= 8;
-                this.X = DestPoint.X;
-                this.Y = DestPoint.Y;
-            }           
+                                        else
+                                            if (this.Y < DestPoint.Y && this.X < DestPoint.X)
+                                            {
+                                                if (this.X > GlobalVariables.ScreenWidth / 2 && GlobalVariables.dX > GlobalVariables.ScreenWidth - Map.Width)
+                                                    GlobalVariables.dX -= (float)(Speed / Math.Sqrt(2));
+                                                if (this.Y > GlobalVariables.ScreenHeight / 2 && GlobalVariables.dY > GlobalVariables.ScreenHeight - Map.Height)
+                                                    GlobalVariables.dY -= (float)(Speed / Math.Sqrt(2));
+                                            }
+            }
         }
-        public override void BeHit(int damage)
-        {
-            Hp -= damage;
-        }
+        
     }
 }

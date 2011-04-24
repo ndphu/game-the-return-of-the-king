@@ -84,7 +84,7 @@
       <ContentName>img/character/zombie/attack/D</ContentName>
       <NumOfFrames>16</NumOfFrames>
       <XOffset>-26</XOffset>
-      <YOffset>-49</YOffset>
+      <YOffset>-47</YOffset>
     </Attack>
   </Monster>
 </root>

@@ -9,7 +9,7 @@
     <Defense>7</Defense>
     <AttackSpeed>4</AttackSpeed>
     <Range>32</Range>
-    <HitFrame>12</HitFrame>
+    <HitFrame>7</HitFrame>
     <Stand>
       <ContentName>img/character/kunkka/stand/D</ContentName>
       <NumOfFrames>8</NumOfFrames>
@@ -25,8 +25,8 @@
     <Attack>
       <ContentName>img/character/kunkka/attack/D</ContentName>
       <NumOfFrames>15</NumOfFrames>
-      <XOffset>-69</XOffset>
-      <YOffset>-90</YOffset>
+      <XOffset>-76</XOffset>
+      <YOffset>-71</YOffset>
     </Attack>    
   </Character>  
 </root>

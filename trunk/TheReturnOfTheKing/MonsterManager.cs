@@ -47,8 +47,7 @@ namespace TheReturnOfTheKing
                     temp = Utility.LoadSprites(node, content);
                     for (int j = 16; j < 24; ++j)
                         _prototype[i]._sprite[j] = temp[j - 16];
-                    ((Monster)_prototype[i]).CellToMove = new List<Point>();
-                    ((Monster)_prototype[i]).DestPoint = new Point();
+                    ((Monster)_prototype[i]).CellToMove = new List<Point>();                    
                     ((Monster)_prototype[i]).IsMoving = false;
                     ((Monster)_prototype[i]).Map = null;
                     ((Monster)_prototype[i]).Speed = int.Parse(nodelist[i].SelectSingleNode(@"Speed").InnerText);
@@ -60,7 +59,7 @@ namespace TheReturnOfTheKing
                     ((Monster)_prototype[i]).AttackSpeed = int.Parse(nodelist[i].SelectSingleNode(@"AttackSpeed").InnerText);
                     ((Monster)_prototype[i]).Range = int.Parse(nodelist[i].SelectSingleNode(@"Range").InnerText);
                     ((Monster)_prototype[i]).X = 0;
-                    ((Monster)_prototype[i]).Y = 0;
+                    ((Monster)_prototype[i]).Y = 0;                    
                     ((Monster)_prototype[i]).HitFrame = int.Parse(nodelist[i].SelectSingleNode(@"HitFrame").InnerText);
                 }
                 return true;

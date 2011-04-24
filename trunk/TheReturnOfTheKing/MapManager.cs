@@ -86,9 +86,8 @@ namespace TheReturnOfTheKing
                     ((Map)_prototype[0]).LstMonster.Add(mst);
                     ((Map)_prototype[0]).LstMonster[i].X = int.Parse(Monsters[i].SelectSingleNode(@"X").InnerText) * collisionUnitDim;
                     ((Map)_prototype[0]).LstMonster[i].Y = int.Parse(Monsters[i].SelectSingleNode(@"Y").InnerText) * collisionUnitDim;
-                    ((Map)_prototype[0]).LstMonster[i].DestPoint = new Point((int)mst.X, (int)mst.Y);
-                    ((Map)_prototype[0]).LstMonster[i].CellToMove = new List<Point>();
-                    ((Map)_prototype[0]).LstMonster[i].IsMoving = false;
+                    ((Map)_prototype[0]).LstMonster[i].DestPoint = new Point((int)((Map)_prototype[0]).LstMonster[i].X, (int)((Map)_prototype[0]).LstMonster[i].Y);
+                    ((Map)_prototype[0]).LstMonster[i].CellToMove = new List<Point>();                    
                     ((Map)_prototype[0]).LstMonster[i].SetMap((Map)_prototype[0]);
                 }
 

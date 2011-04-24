@@ -44,28 +44,18 @@ namespace TheReturnOfTheKing
                 Speed = this.Speed,
                 Width = this.Width,
                 X = this.X,
-                Y = this.Y,
+                Y = this.Y,                
                 HitFrame = this.HitFrame
             };
-        }
-
-        public override void BeginAttack(Character _char)
-        {
-            base.BeginAttack(_char);        
-        }
-
-        public override void EndAttack(Character _char)
-        {
-            base.EndAttack(_char);
         }
 
         public override void Update(GameTime gameTime)
         {
             base.Update(gameTime);
-            if (CellToMove.Count == 0 && !IsAttacking)
+            if (CellToMove.Count == 0)
             {
-                if (Target == null)
-                {
+                /*if (Target == null)
+                {*/
                     Random r = new Random();
                     if (r.Next(0, 100) < 20)
                     {
@@ -73,18 +63,19 @@ namespace TheReturnOfTheKing
                         Point newPosition = new Point(r.Next(curentPosition.X - 2, curentPosition.X + 2), r.Next(curentPosition.Y - 2, curentPosition.Y + 2));
                         CellToMove = Utility.FindPath(Map.Matrix, curentPosition, newPosition);
                     }
-                }
-                else
-                {   
-                    CellToMove = Utility.FindPath(Map.Matrix, Map.PointToCell(new Point((int)X, (int)Y)), Map.PointToCell(new Point((int)Target.X, (int)Target.Y)));
+                /*}
+                else*/
+                {   /*
                     if (this.IsCollisionWith(Target))
                     {
                         CellToMove = new List<Point>();
-                        BeginAttack(Target);
+                        DestPoint = new Point((int)this.X, (int)this.Y);                       
                     }
                     else
                         if (IsMoving == false)
                             CellToMove = Utility.FindPath(Map.Matrix, Map.PointToCell(new Point((int)X, (int)Y)), Map.PointToCell(new Point((int)Target.X, (int)Target.Y)));
+                
+                     */
                 }                
             }            
         }
@@ -99,14 +90,5 @@ namespace TheReturnOfTheKing
             }
         }
 
-        public override void Hit()
-        {
-            base.Hit();
-        }
-
-        public override void BeHit(int damage)
-        {
-            base.BeHit(damage);
-        }
     }
 }
