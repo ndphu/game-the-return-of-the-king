@@ -10,6 +10,7 @@
     <AttackSpeed>3</AttackSpeed>
     <Range>32</Range>
     <HitFrame>12</HitFrame>
+    <Sight>150</Sight>
     <Stand>
       <ContentName>img/character/fallenangel/stand/D</ContentName>
       <NumOfFrames>8</NumOfFrames>
@@ -39,6 +40,7 @@
     <AttackSpeed>3</AttackSpeed>
     <Range>32</Range>
     <HitFrame>12</HitFrame>
+    <Sight>100</Sight>
     <Stand>
       <ContentName>img/character/demon/stand/D</ContentName>
       <NumOfFrames>8</NumOfFrames>
@@ -62,12 +64,13 @@
     <Speed>1</Speed>
     <Hp>250</Hp>
     <Mp>0</Mp>
-    <CriticalRate>5</CriticalRate>
+    <CriticalRate>50</CriticalRate>
     <Damage>35</Damage>
     <Defense>2</Defense>
     <AttackSpeed>2</AttackSpeed>
     <Range>32</Range>
     <HitFrame>10</HitFrame>
+    <Sight>50</Sight>
     <Stand>
       <ContentName>img/character/zombie/stand/D</ContentName>
       <NumOfFrames>8</NumOfFrames>

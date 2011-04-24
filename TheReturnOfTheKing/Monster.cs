@@ -45,6 +45,9 @@ namespace TheReturnOfTheKing
                 Width = this.Width,
                 X = this.X,
                 Y = this.Y,                
+                HitFrame = this.HitFrame,
+                Sight = this.Sight
+                Y = this.Y,                
                 HitFrame = this.HitFrame
             };
         }
@@ -52,8 +55,18 @@ namespace TheReturnOfTheKing
         public override void Update(GameTime gameTime)
         {
             base.Update(gameTime);
+            if (Target != null && Math.Sqrt(Math.Pow(this.X - Target.X, 2) - Math.Pow(this.Y - Target.Y, 2)) > this.Sight)
+                Target = null;
+            if (Target != null && IsCollisionWith(Target))
             if (CellToMove.Count == 0)
             {
+                CellToMove = new List<Point>();
+                UpdateDirection(Target.X, Target.Y);
+            }
+            if (CellToMove.Count == 0 && Target == null)
+            {
+                /*if (Target == null)
+                {*/
                 /*if (Target == null)
                 {*/
                     Random r = new Random();

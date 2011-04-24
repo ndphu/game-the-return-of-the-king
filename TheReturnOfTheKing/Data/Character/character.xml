@@ -10,6 +10,7 @@
     <AttackSpeed>4</AttackSpeed>
     <Range>32</Range>
     <HitFrame>7</HitFrame>
+    <Sight>150</Sight>
     <Stand>
       <ContentName>img/character/kunkka/stand/D</ContentName>
       <NumOfFrames>8</NumOfFrames>
