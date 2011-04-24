@@ -16,6 +16,27 @@ namespace TheReturnOfTheKing
 {
     public class Character : VisibleGameEntity
     {
+
+        int _damage;
+
+        public int Damage
+        {
+            get { return _damage; }
+            set 
+            { 
+                _damage = value;
+                _displayDamageTime = 30;
+            }
+        }
+
+        int _displayDamageTime;
+
+        public int DisplayDamageTime
+        {
+            get { return _displayDamageTime; }
+            set { _displayDamageTime = value; }
+        }
+
         /// <summary>
         /// Máu
         /// </summary>
@@ -165,26 +186,114 @@ namespace TheReturnOfTheKing
             get { return cellToMove; }
             set { cellToMove = value; }
         }
+        
+        /// <summary>
+        /// Đang trong trạng thái đứng yên
+        /// </summary>
+        bool _isStanding = true;
+
+        public bool IsStanding
+        {
+            get { return _isStanding; }
+            set 
+            { 
+                _isStanding = value;
+                if (value)
+                {
+                    State = 0;
+                    IsAttacking = false;
+                    IsMoving = false;
+                    IsDyed = false;
+                    IsDying = false;
+                }
+            }
+        }
         /// <summary>
         /// Đang trong trạng thái di chuyển
         /// </summary>
-        bool _isMoving;
+        bool _isMoving = false;
 
         public bool IsMoving
         {
             get { return _isMoving; }
-            set { _isMoving = value; }
+            set
+            {
+                _isMoving = value;
+                if (value)
+                {
+                    State = 8;
+                    IsStanding = false;
+                    IsAttacking = false;
+                    IsDyed = false;
+                    IsDying = false;
+                }
+            }
+
         }
         /// <summary>
         /// Đang trong trạng thái tấn công
         /// </summary>
-        bool _isAttacking;
+        bool _isAttacking = false;
 
         public bool IsAttacking
         {
             get { return _isAttacking; }
-            set { _isAttacking = value; }
+            set 
+            { 
+                _isAttacking = value;
+                if (value)
+                {
+                    State = 16;
+                    IsStanding = false;
+                    IsMoving = false;
+                    IsDyed = false;
+                    IsDying = false;
+                }
+            }
         }
+        /// <summary>
+        /// Đang chết
+        /// </summary>
+        bool _isDying = false;
+
+        public bool IsDying
+        {
+            get { return _isDying; }
+            set 
+            { 
+                _isDying = value;
+                if (value)
+                {
+                    State = 24;                    
+                    IsStanding = false;
+                    IsMoving = false;
+                    IsDyed = false;
+                    IsAttacking = false;
+                }
+            }
+        }
+        /// <summary>
+        /// Đã chết
+        /// </summary>
+        bool _isDyed = false;
+
+        public bool IsDyed
+        {
+            get { return _isDyed; }
+            set 
+            {
+                _isDyed = value;
+                if (value)
+                {
+                    State = 32;                  
+                    IsStanding = false; 
+                    IsMoving = false;
+                    IsAttacking = false;
+                    IsDying = false;
+                }
+            }
+        }
+        
         /// <summary>
         /// Tốc độ di chuyển
         /// </summary>
@@ -203,8 +312,24 @@ namespace TheReturnOfTheKing
         public int Dir
         {
             get { return _dir; }
-            set { _dir = value; }
+            set 
+            { 
+
+                _dir = value;
+                _sprite[_dir].Itexture2D = 0;
+            }
         }
+        /// <summary>
+        /// Offset của bộ sprite thể hiện trạng thái
+        /// </summary>
+        int _state;
+
+        public int State
+        {
+            get { return _state; }
+            set { _state = value; }
+        }
+
         /// <summary>
         /// Đích đến
         /// </summary>
@@ -215,9 +340,7 @@ namespace TheReturnOfTheKing
             get { return _destPoint; }
             set { _destPoint = value; }
         }
-        public Character()
-        {
-        }
+        
         /// <summary>
         /// Gán nhân vật với bản đồ
         /// </summary>
@@ -243,52 +366,80 @@ namespace TheReturnOfTheKing
         public override void Draw(GameTime gameTime, SpriteBatch sb)
         {
             _sprite[_dir].Draw(gameTime, sb);
+            if (_displayDamageTime > 0)
+            {
+                _displayDamageTime -= 1;
+                sb.DrawString(GlobalVariables.Sf, _damage.ToString(), new Vector2(X + GlobalVariables.dX , Y + _displayDamageTime + GlobalVariables.dY + _sprite[Dir].Yoffset - 20), Color.Red);
+            }
         }
 
         public override void Update(GameTime gameTime)
-        {            
-            if (CellToMove.Count != 0 && !IsMoving)
-            {
-                UpdateDirection(CellToMove[CellToMove.Count - 1].X * Map.CollisionDim, CellToMove[CellToMove.Count - 1].Y * Map.CollisionDim);
-                CellToMove.RemoveAt(CellToMove.Count - 1);
-            }            
+        {
             _sprite[Dir].Update(gameTime);
-            if (IsAttacking)
+            if (_target == null)
             {
-                Dir = Dir % 8 + 16;
-                return;
-            }
-            if (!IsMoving)
-            {
-                return;
+                Move();
+                UpdateDirection(DestPoint.X, DestPoint.Y);
             }
             else
             {
-                UpdateDirection(DestPoint.X, DestPoint.Y);
+                if (this.IsCollisionWith(_target))
+                {
+                    IsAttacking = true;
+                    UpdateDirection(_target.X, _target.Y);
+                    CellToMove = new List<Point>();
+                    UpdateDirection(DestPoint.X, DestPoint.Y);
+                }
+                else
+                {
+                    CellToMove = Utility.FindPath(Map.Matrix, Map.PointToCell(new Point((int)X, (int)Y)), Map.PointToCell(new Point((int)Target.X, (int)Target.Y)));
+                    if (CellToMove.Count >= 2)
+                    {
+                        IsMoving = true;
+                        Move();
+                        UpdateDirection(DestPoint.X, DestPoint.Y);
+                    }
+                    else
+                    {
+                        IsAttacking = true;
+                        UpdateDirection(_target.X, _target.Y);
+                        CellToMove = new List<Point>();                        
+                    }
+                }
             }
-           
+        }
+
+        private void Move()
+        {
+            if (CellToMove.Count != 0 && X == DestPoint.X && Y == DestPoint.Y)
+            {
+                DestPoint = new Point(CellToMove[CellToMove.Count - 1].X * Map.CollisionDim, CellToMove[CellToMove.Count - 1].Y * Map.CollisionDim);
+                CellToMove.RemoveAt(CellToMove.Count - 1);
+                IsMoving = true;
+            }
+
             if (this.Y == DestPoint.Y && this.X < DestPoint.X)
             {
-                this.X += Speed;             
+                this.X += Speed;
             }
             else
                 if (this.Y > DestPoint.Y && this.X < DestPoint.X)
                 {
                     this.X += (float)(Speed / Math.Sqrt(2));
-                    this.Y -= (float)(Speed / Math.Sqrt(2));                    
+                    this.Y -= (float)(Speed / Math.Sqrt(2));
                 }
                 else
                     if (this.Y > DestPoint.Y && this.X == DestPoint.X)
                     {
                         this.Y -= Speed;
-                        
+
                     }
                     else
                         if (this.Y > DestPoint.Y && this.X > DestPoint.X)
                         {
                             this.X -= (float)(Speed / Math.Sqrt(2));
                             this.Y -= (float)(Speed / Math.Sqrt(2));
-                            
+
                         }
                         else
                             if (this.Y == DestPoint.Y && this.X > DestPoint.X)
@@ -300,7 +451,7 @@ namespace TheReturnOfTheKing
                                 {
                                     this.X -= (float)(Speed / Math.Sqrt(2));
                                     this.Y += (float)(Speed / Math.Sqrt(2));
-                             
+
                                 }
                                 else
                                     if (this.Y < DestPoint.Y && this.X == DestPoint.X)
@@ -312,90 +463,54 @@ namespace TheReturnOfTheKing
                                         {
                                             this.X += (float)(Speed / Math.Sqrt(2));
                                             this.Y += (float)(Speed / Math.Sqrt(2));
-                             
+
                                         }
-            if (Math.Abs(this.X - DestPoint.X) < Speed / Math.Sqrt(2) && Math.Abs(this.Y - DestPoint.Y) < Speed / Math.Sqrt(2) && IsMoving)
+            if (Math.Abs(this.X - DestPoint.X) < Speed / Math.Sqrt(2) && Math.Abs(this.Y - DestPoint.Y) < Speed / Math.Sqrt(2))
             {
-                IsMoving = false;                
                 this.X = DestPoint.X;
                 this.Y = DestPoint.Y;
-            }           
+                if (CellToMove.Count == 0)
+                {
+                    IsMoving = false;
+                    IsStanding = true;
+                }
+            }
+            
         }
        
         public void UpdateDirection(double x, double y)
         {
-            if (!IsMoving)
-            {
-                IsMoving = true;
-                _destPoint = new Point((int)x, (int)y);
-                if (this.Y == y && this.X < x)
-                    _dir = 0;
-                if (this.Y > y && this.X < x)
-                    _dir = 1;
-                if (this.Y > y && this.X == x)
-                    _dir = 2;
-                if (this.Y > y && this.X > x)
-                    _dir = 3;
-                if (this.Y == y && this.X > x)
-                    _dir = 4;
-                if (this.Y < y && this.X > x)
-                    _dir = 5;
-                if (this.Y < y && this.X == x)
-                    _dir = 6;
-                if (this.Y < y && this.X < x)
-                    _dir = 7;
-                Dir = Dir % 8 + 8;
-            }
+            if (this.X == x && this.Y == y)
+                _dir = _dir % 8;
+            if (this.Y == y && this.X < x)
+                _dir = 0;
+            if (this.Y > y && this.X < x)
+                _dir = 1;
+            if (this.Y > y && this.X == x)
+                _dir = 2;
+            if (this.Y > y && this.X > x)
+                _dir = 3;
+            if (this.Y == y && this.X > x)
+                _dir = 4;
+            if (this.Y < y && this.X > x)
+                _dir = 5;
+            if (this.Y < y && this.X == x)
+                _dir = 6;
+            if (this.Y < y && this.X < x)
+                _dir = 7;
+            _dir += _state;
         }
 
         public bool IsCollisionWith(Character other)
         {
+            if (other == null)
+                return false;
             if (Math.Abs(other.X - this.X) < GlobalVariables.MapCollisionDim * 1 && Math.Abs(other.Y - this.Y) < GlobalVariables.MapCollisionDim * 1)
                 return true;    
             return false;              
         }
 
-        public virtual void BeginAttack(Character _char)
-        {
-            if (IsMoving)
-                IsMoving = false;
-            if (IsAttacking == false)
-            {
-                IsAttacking = true;
-                _sprite[Dir].Itexture2D = 0;
-                CellToMove = new List<Point>();
-                float x = _char.X;
-                float y = _char.Y;
-                if (this.Y == y && this.X < x)
-                    Dir = 0;
-                if (this.Y > y && this.X < x)
-                    Dir = 1;
-                if (this.Y > y && this.X == x)
-                    Dir = 2;
-                if (this.Y > y && this.X > x)
-                    Dir = 3;
-                if (this.Y == y && this.X > x)
-                    Dir = 4;
-                if (this.Y < y && this.X > x)
-                    Dir = 5;
-                if (this.Y < y && this.X == x)
-                    Dir = 6;
-                if (this.Y < y && this.X < x)
-                    Dir = 7;
-                Dir = Dir % 8 + 16;
-            }
-            Target = _char;    
-        }
-
-        public virtual void EndAttack(Character _char)
-        {
-            if (IsAttacking)
-            {
-                IsAttacking = false;
-                _sprite[Dir].Itexture2D = 0;
-            }
-        }
-
+        
         public virtual void Hit()
         {
             Random r = new Random();
@@ -407,7 +522,8 @@ namespace TheReturnOfTheKing
 
         public virtual void BeHit(int damage)
         {
-            Hp -= (damage - this.Defense);
+            Damage = -(damage - this.Defense);
+            Hp += Damage;
         }
     }
 }
