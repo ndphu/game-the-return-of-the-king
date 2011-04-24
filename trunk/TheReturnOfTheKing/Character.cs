@@ -305,6 +305,17 @@ namespace TheReturnOfTheKing
             set { _speed = value; }
         }
         /// <summary>
+        // Tầm ảnh hưởng
+        /// </summary>
+        int _sight;
+
+        public int Sight
+        {
+            get { return _sight; }
+            set { _sight = value; }
+        }
+
+        /// <summary>
         /// Hướng hiện tại
         /// </summary>
         int _dir = 0;
@@ -513,6 +524,8 @@ namespace TheReturnOfTheKing
         
         public virtual void Hit()
         {
+            if (Target == null)
+                return;
             Random r = new Random();
             if (r.Next(0, 100) < this.CriticalRate)
                 Target.BeHit(this.Attack * 2);
