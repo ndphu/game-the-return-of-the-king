@@ -46,9 +46,8 @@ namespace TheReturnOfTheKing
                 X = this.X,
                 Y = this.Y,                
                 HitFrame = this.HitFrame,
-                Sight = this.Sight
-                Y = this.Y,                
-                HitFrame = this.HitFrame
+                Sight = this.Sight,
+                
             };
         }
 
