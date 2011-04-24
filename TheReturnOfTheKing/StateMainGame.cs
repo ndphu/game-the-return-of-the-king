@@ -67,7 +67,6 @@ namespace TheReturnOfTheKing
             else
                 GlobalVariables.GameCursor.IsIdle = true;
 
-
             if (ms.LeftButton == ButtonState.Pressed)
             {
                 if (ms.X < GlobalVariables.ScreenWidth && ms.Y < GlobalVariables.ScreenHeight && ms.X >= 0 && ms.Y >= 0)
