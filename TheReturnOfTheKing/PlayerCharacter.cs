@@ -141,6 +141,15 @@ namespace TheReturnOfTheKing
                                                     GlobalVariables.dY -= (float)(Speed / Math.Sqrt(2));
                                             }
             }
+
+            if (Target != null && (Target.IsDying || Target.IsDyed))
+            {
+                Target = null;
+                CellToMove = new List<Point>();
+                DestPoint = new Point((int)this.X,(int)this.Y);
+                _sprite[Dir].Itexture2D = 0;
+                IsStanding = true;
+            }
         }
         
     }

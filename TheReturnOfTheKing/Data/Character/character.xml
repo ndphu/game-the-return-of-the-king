@@ -2,7 +2,7 @@
 <root>  
   <Character>
     <Speed>2</Speed>
-    <Hp>850</Hp>
+    <Hp>65536</Hp>
     <Mp>350</Mp>
     <CriticalRate>15</CriticalRate>
     <Damage>45</Damage>
@@ -28,6 +28,18 @@
       <NumOfFrames>15</NumOfFrames>
       <XOffset>-76</XOffset>
       <YOffset>-71</YOffset>
-    </Attack>    
+    </Attack>
+    <Dying>
+      <ContentName>img/character/kunkka/dying/D</ContentName>
+      <NumOfFrames>19</NumOfFrames>
+      <XOffset>-67</XOffset>
+      <YOffset>-110</YOffset>
+    </Dying>
+    <Dyed>
+      <ContentName>img/character/kunkka/dyed/D</ContentName>
+      <NumOfFrames>1</NumOfFrames>
+      <XOffset>-67</XOffset>
+      <YOffset>-110</YOffset>
+    </Dyed>
   </Character>  
 </root>

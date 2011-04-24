@@ -27,12 +27,12 @@
   <Monster>
     <X>5</X>
     <Y>50</Y>
-    <Type>1</Type>
+    <Type>2</Type>
   </Monster>
   <Monster>
     <X>1</X>
     <Y>53</Y>
-    <Type>0</Type>
+    <Type>2</Type>
   </Monster>
   <!--
   <Monster>

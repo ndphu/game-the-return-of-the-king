@@ -325,9 +325,7 @@ namespace TheReturnOfTheKing
             get { return _dir; }
             set 
             { 
-
-                _dir = value;
-                _sprite[_dir].Itexture2D = 0;
+                _dir = value;                
             }
         }
         /// <summary>
@@ -387,6 +385,24 @@ namespace TheReturnOfTheKing
         public override void Update(GameTime gameTime)
         {
             _sprite[Dir].Update(gameTime);
+            if (IsDying)
+            {
+                if (Target != null)
+                {
+                    UpdateDirection(_target.X, _target.Y);
+                    Target = null;
+                }
+                if (_sprite[Dir].Itexture2D == _sprite[Dir].Ntexture2D - 1)
+                {
+                    IsDyed = true;
+                    UpdateDirection(X, Y);
+                }
+                return;
+            }
+            if (IsDyed)
+            {
+                return;
+            }
             if (_target == null)
             {
                 Move();
@@ -492,24 +508,31 @@ namespace TheReturnOfTheKing
         public void UpdateDirection(double x, double y)
         {
             if (this.X == x && this.Y == y)
+            {
                 _dir = _dir % 8;
-            if (this.Y == y && this.X < x)
-                _dir = 0;
-            if (this.Y > y && this.X < x)
-                _dir = 1;
-            if (this.Y > y && this.X == x)
-                _dir = 2;
-            if (this.Y > y && this.X > x)
-                _dir = 3;
-            if (this.Y == y && this.X > x)
-                _dir = 4;
-            if (this.Y < y && this.X > x)
-                _dir = 5;
-            if (this.Y < y && this.X == x)
-                _dir = 6;
-            if (this.Y < y && this.X < x)
-                _dir = 7;
-            _dir += _state;
+                _dir += _state;                
+            }
+            else
+            {
+                if (this.Y == y && this.X < x)
+                    _dir = 0;
+                if (this.Y > y && this.X < x)
+                    _dir = 1;
+                if (this.Y > y && this.X == x)
+                    _dir = 2;
+                if (this.Y > y && this.X > x)
+                    _dir = 3;
+                if (this.Y == y && this.X > x)
+                    _dir = 4;
+                if (this.Y < y && this.X > x)
+                    _dir = 5;
+                if (this.Y < y && this.X == x)
+                    _dir = 6;
+                if (this.Y < y && this.X < x)
+                    _dir = 7;
+                _dir += _state;
+            }
+            
         }
 
         public bool IsCollisionWith(Character other)
@@ -535,8 +558,10 @@ namespace TheReturnOfTheKing
 
         public virtual void BeHit(int damage)
         {
-            Damage = -(damage - this.Defense);
+            Damage = Math.Min(-(damage - this.Defense),0);
             Hp += Damage;
+            if (Hp <= 0)
+                IsDying = true;
         }
     }
 }
